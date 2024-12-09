@@ -46,6 +46,52 @@ cargo run
 2. 点击表情符号即可复制到剪贴板
 3. 使用分类按钮筛选不同类型的表情符号
 
+## 🐳 Docker 部署
+
+### 使用 Docker Compose 部署
+
+1. 确保已安装 Docker 和 Docker Compose：
+```bash
+docker --version
+docker compose version
+```
+
+2. 克隆仓库：
+```bash
+git clone https://github.com/yourusername/emoji-cn.git
+cd emoji-cn
+```
+
+3. 构建和启动容器：
+```bash
+docker compose up -d
+```
+
+4. 查看日志：
+```bash
+docker compose logs -f
+```
+
+5. 停止服务：
+```bash
+docker compose down
+```
+
+### 配置说明
+
+- 默认端口：8081（可在 docker-compose.yml 中修改）
+- 日志配置：最大 10MB，保留 3 个文件
+- 自动重启：服务异常退出时自动重启
+- 健康检查：每 30 秒检查一次服务状态
+
+### 自定义构建
+
+如需自定义构建参数，可以修改 Dockerfile 或 docker-compose.yml：
+
+- 修改端口映射：编辑 docker-compose.yml 中的 ports 部分
+- 调整日志配置：修改 logging 部分的 max-size 和 max-file
+- 更改环境变量：在 environment 部分添加或修改
+
 ## 🔧 配置
 
 项目配置在 `Cargo.toml` 中：

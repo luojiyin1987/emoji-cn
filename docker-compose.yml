@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  emoji-cn:
+    build: .
+    container_name: emoji-cn
+    ports:
+      - "8081:8081"
+    restart: always
+    environment:
+      - RUST_LOG=info
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8081"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
