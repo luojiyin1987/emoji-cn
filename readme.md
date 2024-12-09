@@ -24,7 +24,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/emoji-cn.git
+git clone https://github.com/luojiyin1987/emoji-cn.git
 cd emoji-cn
 ```
 
@@ -58,7 +58,7 @@ docker compose version
 
 2. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/emoji-cn.git
+git clone https://github.com/luojiyin1987/emoji-cn.git
 cd emoji-cn
 ```
 
