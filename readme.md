@@ -27,7 +27,18 @@
 2. 在 [Vercel](https://vercel.com) 注册账号并连接你的 GitHub
 3. 在 Vercel 中点击 "New Project"
 4. 选择你 fork 的仓库
-5. 点击 "Deploy" 即可完成部署
+5. 在部署设置中：
+   - Framework Preset: 选择 "Other"
+   - Build Command: 留空（无需构建）
+   - Output Directory: 保持默认 "."
+6. 点击 "Deploy" 即可完成部署
+
+注意事项：
+- 项目是纯静态网站，入口文件是 `index.html`
+- 无需配置环境变量
+- 无需安装依赖或运行构建命令
+- `vercel.json` 已配置好路由重写规则
+- 部署后，Vercel 会自动为你的网站提供 HTTPS 和 CDN 加速
 
 ### 本地开发
 
