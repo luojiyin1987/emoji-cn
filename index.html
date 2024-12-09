@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表情符号大全 - 轻松复制表情符号</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>表情符号大全</h1>
+        <p>点击即可复制你喜欢的表情符号 👍</p>
+    </header>
+
+    <main>
+        <div class="search-container">
+            <input type="text" id="searchEmoji" placeholder="搜索表情符号...">
+        </div>
+
+        <div class="categories">
+            <button class="category-btn active" data-category="all">全部</button>
+            <button class="category-btn" data-category="smileys">表情与情感</button>
+            <button class="category-btn" data-category="people">人物</button>
+            <button class="category-btn" data-category="nature">动物与自然</button>
+            <button class="category-btn" data-category="food">食物与饮料</button>
+            <button class="category-btn" data-category="activities">活动</button>
+            <button class="category-btn" data-category="travel">旅行与地点</button>
+            <button class="category-btn" data-category="objects">物品</button>
+            <button class="category-btn" data-category="symbols">符号</button>
+        </div>
+
+        <div id="emoji-container">
+            <!-- 表情符号将通过JavaScript动态加载 -->
+        </div>
+    </main>
+
+    <footer>
+        <p>点击表情符号即可复制 • <a href="https://github.com/luojiyin1987/emoji-cn" target="_blank">在GitHub上查看源码</a></p>
+    </footer>
+
+    <div id="copy-notification" class="hidden">已复制!</div>
+
+    <script src="static/js/emoji-data.js"></script>
+    <script src="static/js/main.js"></script>
+</body>
+</html>
