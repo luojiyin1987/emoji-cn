@@ -15,12 +15,21 @@
 
 ## 🛠️ 技术栈
 
-- 后端：Rust + Actix-web
-- 前端：原生JavaScript
-- 模板引擎：Tera
-- 静态文件服务：Actix-files
+- 纯静态网站，无需后端
+- 原生 JavaScript
+- 支持一键部署到 Vercel
 
-## 📦 安装
+## 🚀 部署方法
+
+### Vercel 部署（推荐）
+
+1. Fork 这个仓库到你的 GitHub 账号
+2. 在 [Vercel](https://vercel.com) 注册账号并连接你的 GitHub
+3. 在 Vercel 中点击 "New Project"
+4. 选择你 fork 的仓库
+5. 点击 "Deploy" 即可完成部署
+
+### 本地开发
 
 1. 克隆仓库：
 ```bash
@@ -28,17 +37,14 @@ git clone https://github.com/luojiyin1987/emoji-cn.git
 cd emoji-cn
 ```
 
-2. 安装依赖：
+2. 使用任何静态文件服务器运行项目，例如：
 ```bash
-cargo build
-```
+# 使用 Python 的简单 HTTP 服务器
+python -m http.server 8081
 
-3. 运行项目：
-```bash
-cargo run
+# 或使用 Node.js 的 serve 包
+npx serve
 ```
-
-访问 `http://127.0.0.1:8081` 即可使用。
 
 ## 🎯 使用方法
 
@@ -46,73 +52,26 @@ cargo run
 2. 点击表情符号即可复制到剪贴板
 3. 使用分类按钮筛选不同类型的表情符号
 
-## 🐳 Docker 部署
+## 📝 更新表情符号数据
 
-### 使用 Docker Compose 部署
+如果你想更新表情符号数据：
 
-1. 确保已安装 Docker 和 Docker Compose：
+1. 确保安装了 Node.js
+2. 运行更新脚本：
 ```bash
-docker --version
-docker compose version
+cd scripts
+node update_emoji.js
 ```
 
-2. 克隆仓库：
-```bash
-git clone https://github.com/luojiyin1987/emoji-cn.git
-cd emoji-cn
-```
-
-3. 构建和启动容器：
-```bash
-docker compose up -d
-```
-
-4. 查看日志：
-```bash
-docker compose logs -f
-```
-
-5. 停止服务：
-```bash
-docker compose down
-```
-
-### 配置说明
-
-- 默认端口：8081（可在 docker-compose.yml 中修改）
-- 日志配置：最大 10MB，保留 3 个文件
-- 自动重启：服务异常退出时自动重启
-- 健康检查：每 30 秒检查一次服务状态
-
-### 自定义构建
-
-如需自定义构建参数，可以修改 Dockerfile 或 docker-compose.yml：
-
-- 修改端口映射：编辑 docker-compose.yml 中的 ports 部分
-- 调整日志配置：修改 logging 部分的 max-size 和 max-file
-- 更改环境变量：在 environment 部分添加或修改
-
-## 🔧 配置
-
-项目配置在 `Cargo.toml` 中：
-
-```toml
-[dependencies]
-actix-web = "4.4"
-actix-files = "0.6"
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-tera = "1.19"
-tokio = { version = "1.35", features = ["full"] }
-```
+这将更新 `static/js/emoji-data.js` 文件中的表情符号数据。
 
 ## 🤝 贡献
 
 欢迎提交 Pull Request 或创建 Issue！
 
-## 📝 开源协议
+## 📄 许可证
 
-本项目采用 MIT 协议 - 查看 [LICENSE](LICENSE) 文件了解详情。
+MIT License
 
 search emoji by chinese
 
