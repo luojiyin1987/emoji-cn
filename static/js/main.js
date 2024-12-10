@@ -7,15 +7,12 @@ document.addEventListener('DOMContentLoaded', () => {
     // 分页配置
     const PAGE_SIZE = 50; // 每页显示50个表情
     let currentPage = 1;
-    let isLoading = false;
-    let allEmojis = []; // 存储所有过滤后的表情
-
-    // 当前选中的类别和子类别
     let currentCategory = 'all';
-    let currentSubCategory = 'all';
+    let isLoading = false;
+    let hasMoreEmojis = true;
 
-    // 子类别映射
-    const SUBCATEGORY_MAP = {
+    // 类别映射
+    const CATEGORY_MAP = {
         'face-smiling': '笑脸',
         'face-affection': '爱心脸',
         'face-tongue': '吐舌头',
@@ -138,74 +135,11 @@ document.addEventListener('DOMContentLoaded', () => {
         displayEmojis(currentCategory, searchInput.value.trim());
     }
 
-    // 创建子类别过滤器
-    function createSubCategoryFilter(category) {
-        const subCategories = new Set();
-        
-        // 收集所有子类别
-        if (category === 'all') {
-            Object.values(emojiData).forEach(categoryEmojis => {
-                if (Array.isArray(categoryEmojis)) {
-                    categoryEmojis.forEach(emoji => {
-                        if (emoji.subCategory) {
-                            subCategories.add(emoji.subCategory);
-                        }
-                    });
-                }
-            });
-        } else if (emojiData[category]) {
-            emojiData[category].forEach(emoji => {
-                if (emoji.subCategory) {
-                    subCategories.add(emoji.subCategory);
-                }
-            });
-        }
-        
-        // 获取子类别过滤器容器
-        const subCategoryFilter = document.getElementById('subcategory-filter') || document.createElement('div');
-        subCategoryFilter.id = 'subcategory-filter';
-        subCategoryFilter.innerHTML = '';
-        
-        // 创建"全部"按钮
-        const allButton = document.createElement('button');
-        allButton.textContent = '全部';
-        allButton.className = 'subcategory-btn' + (currentSubCategory === 'all' ? ' active' : '');
-        allButton.addEventListener('click', () => {
-            document.querySelectorAll('.subcategory-btn').forEach(btn => btn.classList.remove('active'));
-            allButton.classList.add('active');
-            currentSubCategory = 'all';
-            resetAndDisplay();
-        });
-        subCategoryFilter.appendChild(allButton);
-        
-        // 创建子类别按钮
-        Array.from(subCategories).sort().forEach(subCategory => {
-            const button = document.createElement('button');
-            button.textContent = SUBCATEGORY_MAP[subCategory] || subCategory;
-            button.className = 'subcategory-btn' + (currentSubCategory === subCategory ? ' active' : '');
-            button.addEventListener('click', () => {
-                document.querySelectorAll('.subcategory-btn').forEach(btn => btn.classList.remove('active'));
-                button.classList.add('active');
-                currentSubCategory = subCategory;
-                resetAndDisplay();
-            });
-            subCategoryFilter.appendChild(button);
-        });
-        
-        // 将子类别过滤器添加到类别按钮下方
-        const categoriesContainer = document.querySelector('.categories');
-        if (!document.getElementById('subcategory-filter')) {
-            categoriesContainer.insertAdjacentElement('afterend', subCategoryFilter);
-        }
-    }
-
     // 显示表情符号
-    function displayEmojis(category = 'all', searchTerm = '') {
-        if (isLoading) return;
-        isLoading = true;
-
-        // 如果是第一页，重新过滤所有表情
-        if (currentPage === 1) {
+    function displayEmojis(category, searchTerm = '') {
+        try {
+            let allEmojis = [];
+            
             // 根据类别筛选
             if (category === 'all') {
                 allEmojis = [];
@@ -218,70 +152,54 @@ document.addEventListener('DOMContentLoaded', () => {
                 allEmojis = emojiData[category];
             }
 
-            // 根据子类别筛选
-            if (currentSubCategory !== 'all') {
-                allEmojis = allEmojis.filter(emoji => emoji.subCategory === currentSubCategory);
-            }
-
-            // 搜索筛选
+            // 搜索过滤
             if (searchTerm) {
-                const searchLower = searchTerm.toLowerCase();
                 allEmojis = allEmojis.filter(emoji => {
-                    const keywords = emoji.keywords.toLowerCase();
-                    return keywords.includes(searchLower);
+                    const searchLower = searchTerm.toLowerCase();
+                    const description = emoji.description || '';
+                    const keywords = emoji.keywords || '';
+                    const aliases = emoji.aliases || [];
+                    
+                    return description.toLowerCase().includes(searchLower) ||
+                           keywords.toLowerCase().includes(searchLower) ||
+                           aliases.some(alias => alias.toLowerCase().includes(searchLower));
                 });
             }
 
-            updateResultCount(allEmojis.length, searchTerm);
-            createSubCategoryFilter(category);
-        }
+            // 计算当前页的表情范围
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const end = start + PAGE_SIZE;
+            const pageEmojis = allEmojis.slice(start, end);
 
-        // 计算当前页的表情范围
-        const start = (currentPage - 1) * PAGE_SIZE;
-        const end = start + PAGE_SIZE;
-        const pageEmojis = allEmojis.slice(start, end);
-
-        // 创建并显示表情符号元素
-        pageEmojis.forEach(emoji => {
-            const emojiElement = document.createElement('div');
-            emojiElement.className = 'emoji-item';
-            
-            // 主要表情符号
-            const emojiSymbol = document.createElement('span');
-            emojiSymbol.className = 'emoji-symbol';
-            emojiSymbol.textContent = emoji.emoji;
-            emojiElement.appendChild(emojiSymbol);
-            
-            // 关键词信息
-            const keywordInfo = document.createElement('div');
-            keywordInfo.className = 'emoji-info';
-            keywordInfo.textContent = emoji.keywords;
-            emojiElement.appendChild(keywordInfo);
-            
-            // 点击复制功能
-            emojiElement.addEventListener('click', () => {
-                copyEmoji(emoji.emoji);
+            // 创建并显示表情符号元素
+            pageEmojis.forEach(emoji => {
+                const emojiElement = document.createElement('div');
+                emojiElement.className = 'emoji-item';
+                
+                // 主要表情符号
+                const emojiSymbol = document.createElement('span');
+                emojiSymbol.className = 'emoji-symbol';
+                emojiSymbol.textContent = emoji.emoji;
+                emojiElement.appendChild(emojiSymbol);
+                
+                // 关键词信息
+                const keywordInfo = document.createElement('div');
+                keywordInfo.className = 'emoji-info';
+                keywordInfo.textContent = emoji.keywords;
+                emojiElement.appendChild(keywordInfo);
+                
+                // 点击复制功能
+                emojiElement.addEventListener('click', () => {
+                    copyEmoji(emoji.emoji);
+                });
+                
+                emojiContainer.appendChild(emojiElement);
             });
-            
-            emojiContainer.appendChild(emojiElement);
-        });
 
-        isLoading = false;
-    }
-
-    // 更新结果计数
-    function updateResultCount(count, searchTerm) {
-        const resultCount = document.createElement('div');
-        resultCount.className = 'result-count';
-        resultCount.textContent = searchTerm 
-            ? `找到 ${count} 个匹配的表情符号` 
-            : `共显示 ${count} 个表情符号`;
-        
-        const oldResultCount = document.querySelector('.result-count');
-        if (oldResultCount) {
-            oldResultCount.replaceWith(resultCount);
-        } else {
-            document.querySelector('.search-container').appendChild(resultCount);
+            // 检查是否还有更多表情
+            hasMoreEmojis = allEmojis.length > end;
+        } catch (err) {
+            console.error(err);
         }
     }
 
@@ -327,11 +245,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isLoading) return;
 
         const { scrollTop, clientHeight, scrollHeight } = document.documentElement;
-        if (scrollTop + clientHeight >= scrollHeight - 100) {
-            if (currentPage * PAGE_SIZE < allEmojis.length) {
-                currentPage++;
-                displayEmojis(currentCategory, searchInput.value.trim());
-            }
+        if (scrollTop + clientHeight >= scrollHeight - 100 && hasMoreEmojis) {
+            currentPage++;
+            displayEmojis(currentCategory, searchInput.value.trim());
         }
     });
 
