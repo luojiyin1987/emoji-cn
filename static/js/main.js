@@ -178,13 +178,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 // 主要表情符号
                 const emojiSymbol = document.createElement('span');
-                emojiSymbol.className = 'emoji-symbol';
+                emojiSymbol.className = 'emoji-char';
                 emojiSymbol.textContent = emoji.emoji;
                 emojiElement.appendChild(emojiSymbol);
                 
                 // 关键词信息
                 const keywordInfo = document.createElement('div');
-                keywordInfo.className = 'emoji-info';
+                keywordInfo.className = 'emoji-name';
                 keywordInfo.textContent = emoji.keywords;
                 emojiElement.appendChild(keywordInfo);
                 

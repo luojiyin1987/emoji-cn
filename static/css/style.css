@@ -11,6 +11,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html {
+    font-size: 16px;
+}
+
+/* 移动端基础字体大小调整 */
+@media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
 }
 
 body {
@@ -21,6 +33,7 @@ body {
     min-height: 100vh;
     display: grid;
     grid-template-rows: auto 1fr auto;
+    overflow-x: hidden;
 }
 
 header {
@@ -42,17 +55,41 @@ header p {
     opacity: 0.9;
 }
 
+/* 移动端头部适配 */
+@media (max-width: 768px) {
+    header {
+        padding: 1rem 0.5rem;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    header p {
+        font-size: 1rem;
+    }
+}
+
 main {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
     min-height: calc(100vh - 200px);
     grid-row: 2;
+    width: 100%;
+}
+
+/* 移动端主内容区域适配 */
+@media (max-width: 768px) {
+    main {
+        padding: 1rem 0.5rem;
+    }
 }
 
 .search-container {
     margin-bottom: 2rem;
     position: relative;
+    padding: 0 1rem;
 }
 
 #searchEmoji {
@@ -63,6 +100,14 @@ main {
     border-radius: 8px;
     outline: none;
     transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+/* 移动端搜索框适配 */
+@media (max-width: 768px) {
+    #searchEmoji {
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
 }
 
 #searchEmoji:focus {
@@ -80,6 +125,14 @@ main {
     border-bottom: 1px solid #e2e8f0;
 }
 
+/* 移动端分类按钮适配 */
+@media (max-width: 768px) {
+    .categories {
+        padding: 0.5rem;
+        gap: 0.3rem;
+    }
+}
+
 .category-btn {
     padding: 0.5rem 1rem;
     border: 1px solid #e2e8f0;
@@ -87,6 +140,15 @@ main {
     background-color: white;
     cursor: pointer;
     transition: all 0.2s;
+    touch-action: manipulation;
+}
+
+/* 移动端按钮适配 */
+@media (max-width: 768px) {
+    .category-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.9rem;
+    }
 }
 
 .category-btn:hover {
@@ -99,93 +161,148 @@ main {
     border-color: #1e40af;
 }
 
+/* Emoji 容器样式 */
 #emoji-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-    gap: 10px;
-    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 1rem;
     max-width: 1200px;
     margin: 0 auto;
 }
 
 .emoji-item {
+    flex: 0 0 calc(20% - 8px); /* 5列布局 */
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 10px;
-    margin: 5px;
+    justify-content: center;
+    padding: 8px 4px;
+    background: white;
     border-radius: 8px;
-    background-color: #ffffff;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid var(--border-color);
     cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    min-width: 100px;
-    animation: fadeIn 0.3s ease-in-out;
+    transition: all 0.2s;
+}
+
+/* 平板端布局 */
+@media (max-width: 768px) {
+    .emoji-item {
+        flex: 0 0 calc(25% - 8px); /* 4列布局 */
+        padding: 6px 3px;
+    }
+}
+
+/* 移动端布局 */
+@media (max-width: 480px) {
+    #emoji-container {
+        gap: 4px;
+        padding: 0.5rem;
+    }
+    
+    .emoji-item {
+        flex: 0 0 calc(33.333% - 4px); /* 3列布局 */
+        padding: 4px 2px;
+    }
+}
+
+.emoji-char {
+    font-size: 1.8rem;
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.emoji-name {
+    font-size: 0.75rem;
+    text-align: center;
+    color: var(--text-color);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+    padding: 0 2px;
+}
+
+/* 移动端文字适配 */
+@media (max-width: 768px) {
+    .emoji-char {
+        font-size: 1.5rem;
+        margin-bottom: 2px;
+    }
+
+    .emoji-name {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .emoji-char {
+        font-size: 1.3rem;
+    }
+
+    .emoji-name {
+        font-size: 0.65rem;
+    }
 }
 
 .emoji-item:hover {
     transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 6px var(--shadow-color);
 }
 
-.emoji-symbol {
-    font-size: 2em;
-    margin-bottom: 5px;
+.emoji-item:active {
+    transform: translateY(0);
+    box-shadow: none;
 }
 
-.emoji-info {
-    text-align: center;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    line-clamp: 2;
-    max-width: 120px;
-    font-size: 0.8em;
-    color: #666;
-}
-
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(10px);
+/* 添加触摸反馈效果 */
+@media (hover: none) {
+    .emoji-item:active {
+        background-color: var(--hover-color);
     }
-    to {
-        opacity: 1;
-        transform: translateY(0);
+    
+    .category-btn:active {
+        background-color: var(--hover-color);
     }
 }
 
-.result-count {
-    position: absolute;
-    right: 0;
-    top: -1.5rem;
-    font-size: 0.9rem;
-    color: #666;
+/* 添加安全区域适配 */
+@supports (padding: env(safe-area-inset-bottom)) {
+    body {
+        padding-bottom: env(safe-area-inset-bottom);
+    }
 }
 
-#copy-notification {
-    position: fixed;
-    bottom: 2rem;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(0, 0, 0, 0.8);
-    color: white;
-    padding: 0.8rem 1.5rem;
-    border-radius: 20px;
-    z-index: 1000;
-    transition: all 0.3s ease;
-}
+/* 添加暗色模式支持 */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #e0e0e0;
+        --border-color: #404040;
+        --hover-color: #2a2a2a;
+        --shadow-color: rgba(0, 0, 0, 0.3);
+    }
 
-#copy-notification.hidden {
-    opacity: 0;
-    visibility: hidden;
-}
+    body {
+        background-color: #121212;
+    }
 
-#copy-notification.show {
-    opacity: 1;
-    visibility: visible;
+    .emoji-item {
+        background-color: #1e1e1e;
+    }
+
+    #searchEmoji {
+        background-color: #1e1e1e;
+        color: var(--text-color);
+    }
+
+    .categories {
+        background-color: #1e1e1e;
+    }
+
+    .category-btn {
+        background-color: #2a2a2a;
+        color: var(--text-color);
+    }
 }
 
 footer {
@@ -211,30 +328,41 @@ footer a:hover {
     header h1 {
         font-size: 2rem;
     }
-
-    #emoji-container {
-        grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    }
-
-    .emoji-symbol {
-        font-size: 1.8em;
-    }
 }
 
 @media (max-width: 480px) {
     header h1 {
         font-size: 1.8rem;
     }
+}
 
-    #emoji-container {
-        grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
-    }
+#copy-notification {
+    position: fixed;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    padding: 0.8rem 1.5rem;
+    border-radius: 20px;
+    z-index: 1000;
+    transition: all 0.3s ease;
+}
 
-    .emoji-symbol {
-        font-size: 1.6em;
-    }
+#copy-notification.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
 
-    .emoji-info {
-        font-size: 0.7em;
-    }
+#copy-notification.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+.result-count {
+    position: absolute;
+    right: 0;
+    top: -1.5rem;
+    font-size: 0.9rem;
+    color: #666;
 }
