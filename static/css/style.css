@@ -18,6 +18,9 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: #fff;
+    min-height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
 }
 
 header {
@@ -26,6 +29,7 @@ header {
     background: linear-gradient(135deg, #6e8efb, #4a90e2);
     color: white;
     box-shadow: 0 2px 4px var(--shadow-color);
+    grid-row: 1;
 }
 
 header h1 {
@@ -42,6 +46,8 @@ main {
     max-width: 1200px;
     margin: 0 auto;
     padding: 2rem 1rem;
+    min-height: calc(100vh - 200px);
+    grid-row: 2;
 }
 
 .search-container {
@@ -229,7 +235,11 @@ footer {
     text-align: center;
     padding: 2rem;
     background: var(--secondary-color);
-    margin-top: 2rem;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-row: 3;
 }
 
 footer a {
