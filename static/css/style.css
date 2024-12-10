@@ -233,22 +233,20 @@ main {
 
 footer {
     text-align: center;
-    padding: 2rem;
-    background: var(--secondary-color);
-    height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    grid-row: 3;
+    padding: 1rem;
+    background-color: #f8fafc;
+    border-top: 1px solid #e2e8f0;
+    color: #1e293b;
 }
 
 footer a {
-    color: var(--primary-color);
+    color: #2563eb;
     text-decoration: none;
 }
 
 footer a:hover {
     text-decoration: underline;
+    color: #1e40af;
 }
 
 /* 响应式设计 */
