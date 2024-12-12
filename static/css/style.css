@@ -204,57 +204,29 @@ main {
     }
 }
 
-/* Emoji 容器样式 */
+/* Emoji网格布局 */
 #emoji-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 15px;
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
+    gap: 12px;
+    padding: 1rem;
 }
 
-/* 移动端表情符号容器适配 */
+/* 移动端布局优化 */
 @media (max-width: 768px) {
     #emoji-container {
-        grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
-        gap: 8px;
-        padding: 0.5rem;
-    }
-
-    .emoji-item {
-        padding: 6px;
-    }
-
-    .emoji-char {
-        font-size: 1.8rem;  /* 适当调整emoji大小 */
-        margin-bottom: 3px;
-    }
-
-    .emoji-keyword {
-        font-size: 0.95rem;  /* 移动端略微加大关键词字体 */
-        -webkit-line-clamp: 1;  /* 移动端只显示一行 */
+        grid-template-columns: repeat(4, 1fr);  /* 固定4列布局 */
+        gap: 10px;
+        padding: 0.8rem;
     }
 }
 
 /* 小屏幕手机适配 */
 @media (max-width: 320px) {
     #emoji-container {
-        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
-        gap: 6px;
-    }
-
-    .emoji-char {
-        font-size: 1.5rem;
-    }
-
-    .emoji-keyword {
-        font-size: 0.65rem;
-    }
-
-    .category-btn {
-        font-size: 0.75rem;
-        padding: 0.3rem 0.6rem;
+        grid-template-columns: repeat(3, 1fr);  /* 更小屏幕使用3列 */
+        gap: 8px;
+        padding: 0.6rem;
     }
 }
 
@@ -315,6 +287,39 @@ main {
     .category-btn:active {
         background-color: var(--primary-color);
         color: white;
+    }
+}
+
+/* 移动端表情符号样式调整 */
+@media (max-width: 768px) {
+    .emoji-item {
+        padding: 8px;
+    }
+
+    .emoji-char {
+        font-size: 1.8rem;
+        margin-bottom: 4px;
+    }
+
+    .emoji-keyword {
+        font-size: 0.95rem;
+        -webkit-line-clamp: 1;
+    }
+}
+
+/* 小屏幕手机适配 */
+@media (max-width: 320px) {
+    .emoji-item {
+        padding: 6px;
+    }
+
+    .emoji-char {
+        font-size: 1.6rem;
+        margin-bottom: 3px;
+    }
+
+    .emoji-keyword {
+        font-size: 0.9rem;
     }
 }
 
