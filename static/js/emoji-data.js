@@ -1,5 +1,5 @@
-// 自动生成的emoji数据 - 2024-12-09T14:52:19.199Z
-const emojiData = {
+// 自动生成的emoji数据 - 2024
+export const emojiData = {
   "smileys": [
     {
       "emoji": "😀",
@@ -303,13 +303,13 @@ const emojiData = {
     },
     {
       "emoji": "🙂‍↔️",
-      "keywords": "🙂‍↔️ E15.1 head shaking horizontally",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "中性"
     },
     {
       "emoji": "🙂‍↕️",
-      "keywords": "🙂‍↕️ E15.1 head shaking vertically",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "中性"
     },
@@ -837,7 +837,7 @@ const emojiData = {
     },
     {
       "emoji": "❣️",
-      "keywords": "❣️ E1.0 heart exclamation",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "heart"
     },
@@ -849,19 +849,19 @@ const emojiData = {
     },
     {
       "emoji": "❤️‍🔥",
-      "keywords": "❤️‍🔥 E13.1 heart on fire",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "heart"
     },
     {
       "emoji": "❤️‍🩹",
-      "keywords": "❤️‍🩹 E13.1 mending heart",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "heart"
     },
     {
       "emoji": "❤️",
-      "keywords": "❤️ E0.6 red heart",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "heart"
     },
@@ -975,7 +975,7 @@ const emojiData = {
     },
     {
       "emoji": "🕳️",
-      "keywords": "🕳️ E0.7 hole",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "情感"
     },
@@ -987,19 +987,19 @@ const emojiData = {
     },
     {
       "emoji": "👁️‍🗨️",
-      "keywords": "👁️‍🗨️ E2.0 eye in speech bubble",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "情感"
     },
     {
       "emoji": "🗨️",
-      "keywords": "🗨️ E2.0 left speech bubble",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "情感"
     },
     {
       "emoji": "🗯️",
-      "keywords": "🗯️ E0.7 right anger bubble",
+      "keywords": "表情与情感",
       "category": "表情与情感",
       "subCategory": "情感"
     },
@@ -1025,31 +1025,31 @@ const emojiData = {
     },
     {
       "emoji": "👋🏻",
-      "keywords": "👋🏻 E1.0 waving hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "👋🏼",
-      "keywords": "👋🏼 E1.0 waving hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "👋🏽",
-      "keywords": "👋🏽 E1.0 waving hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "👋🏾",
-      "keywords": "👋🏾 E1.0 waving hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "👋🏿",
-      "keywords": "👋🏿 E1.0 waving hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1061,67 +1061,67 @@ const emojiData = {
     },
     {
       "emoji": "🤚🏻",
-      "keywords": "🤚🏻 E3.0 raised back of hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🤚🏼",
-      "keywords": "🤚🏼 E3.0 raised back of hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🤚🏽",
-      "keywords": "🤚🏽 E3.0 raised back of hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🤚🏾",
-      "keywords": "🤚🏾 E3.0 raised back of hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🤚🏿",
-      "keywords": "🤚🏿 E3.0 raised back of hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐️",
-      "keywords": "🖐️ E0.7 hand with fingers splayed",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐🏻",
-      "keywords": "🖐🏻 E1.0 hand with fingers splayed: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐🏼",
-      "keywords": "🖐🏼 E1.0 hand with fingers splayed: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐🏽",
-      "keywords": "🖐🏽 E1.0 hand with fingers splayed: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐🏾",
-      "keywords": "🖐🏾 E1.0 hand with fingers splayed: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖐🏿",
-      "keywords": "🖐🏿 E1.0 hand with fingers splayed: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1133,31 +1133,31 @@ const emojiData = {
     },
     {
       "emoji": "✋🏻",
-      "keywords": "✋🏻 E1.0 raised hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "✋🏼",
-      "keywords": "✋🏼 E1.0 raised hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "✋🏽",
-      "keywords": "✋🏽 E1.0 raised hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "✋🏾",
-      "keywords": "✋🏾 E1.0 raised hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "✋🏿",
-      "keywords": "✋🏿 E1.0 raised hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1169,31 +1169,31 @@ const emojiData = {
     },
     {
       "emoji": "🖖🏻",
-      "keywords": "🖖🏻 E1.0 vulcan salute: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖖🏼",
-      "keywords": "🖖🏼 E1.0 vulcan salute: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖖🏽",
-      "keywords": "🖖🏽 E1.0 vulcan salute: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖖🏾",
-      "keywords": "🖖🏾 E1.0 vulcan salute: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🖖🏿",
-      "keywords": "🖖🏿 E1.0 vulcan salute: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1205,31 +1205,31 @@ const emojiData = {
     },
     {
       "emoji": "🫱🏻",
-      "keywords": "🫱🏻 E14.0 rightwards hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫱🏼",
-      "keywords": "🫱🏼 E14.0 rightwards hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫱🏽",
-      "keywords": "🫱🏽 E14.0 rightwards hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫱🏾",
-      "keywords": "🫱🏾 E14.0 rightwards hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫱🏿",
-      "keywords": "🫱🏿 E14.0 rightwards hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1241,31 +1241,31 @@ const emojiData = {
     },
     {
       "emoji": "🫲🏻",
-      "keywords": "🫲🏻 E14.0 leftwards hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫲🏼",
-      "keywords": "🫲🏼 E14.0 leftwards hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫲🏽",
-      "keywords": "🫲🏽 E14.0 leftwards hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫲🏾",
-      "keywords": "🫲🏾 E14.0 leftwards hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫲🏿",
-      "keywords": "🫲🏿 E14.0 leftwards hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1277,31 +1277,31 @@ const emojiData = {
     },
     {
       "emoji": "🫳🏻",
-      "keywords": "🫳🏻 E14.0 palm down hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫳🏼",
-      "keywords": "🫳🏼 E14.0 palm down hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫳🏽",
-      "keywords": "🫳🏽 E14.0 palm down hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫳🏾",
-      "keywords": "🫳🏾 E14.0 palm down hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫳🏿",
-      "keywords": "🫳🏿 E14.0 palm down hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1313,31 +1313,31 @@ const emojiData = {
     },
     {
       "emoji": "🫴🏻",
-      "keywords": "🫴🏻 E14.0 palm up hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫴🏼",
-      "keywords": "🫴🏼 E14.0 palm up hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫴🏽",
-      "keywords": "🫴🏽 E14.0 palm up hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫴🏾",
-      "keywords": "🫴🏾 E14.0 palm up hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫴🏿",
-      "keywords": "🫴🏿 E14.0 palm up hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1349,31 +1349,31 @@ const emojiData = {
     },
     {
       "emoji": "🫷🏻",
-      "keywords": "🫷🏻 E15.0 leftwards pushing hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫷🏼",
-      "keywords": "🫷🏼 E15.0 leftwards pushing hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫷🏽",
-      "keywords": "🫷🏽 E15.0 leftwards pushing hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫷🏾",
-      "keywords": "🫷🏾 E15.0 leftwards pushing hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫷🏿",
-      "keywords": "🫷🏿 E15.0 leftwards pushing hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
@@ -1385,67 +1385,67 @@ const emojiData = {
     },
     {
       "emoji": "🫸🏻",
-      "keywords": "🫸🏻 E15.0 rightwards pushing hand: light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫸🏼",
-      "keywords": "🫸🏼 E15.0 rightwards pushing hand: medium-light skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫸🏽",
-      "keywords": "🫸🏽 E15.0 rightwards pushing hand: medium skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫸🏾",
-      "keywords": "🫸🏾 E15.0 rightwards pushing hand: medium-dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "🫸🏿",
-      "keywords": "🫸🏿 E15.0 rightwards pushing hand: dark skin tone",
+      "keywords": "张开手指",
       "category": "人物",
       "subCategory": "hand-fingers-open"
     },
     {
       "emoji": "👌",
-      "keywords": "OK",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "👌🏻",
-      "keywords": "👌🏻 E1.0 OK hand: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "👌🏼",
-      "keywords": "👌🏼 E1.0 OK hand: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "👌🏽",
-      "keywords": "👌🏽 E1.0 OK hand: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "👌🏾",
-      "keywords": "👌🏾 E1.0 OK hand: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "👌🏿",
-      "keywords": "👌🏿 E1.0 OK hand: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1457,31 +1457,31 @@ const emojiData = {
     },
     {
       "emoji": "🤌🏻",
-      "keywords": "🤌🏻 E13.0 pinched fingers: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤌🏼",
-      "keywords": "🤌🏼 E13.0 pinched fingers: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤌🏽",
-      "keywords": "🤌🏽 E13.0 pinched fingers: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤌🏾",
-      "keywords": "🤌🏾 E13.0 pinched fingers: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤌🏿",
-      "keywords": "🤌🏿 E13.0 pinched fingers: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1493,67 +1493,67 @@ const emojiData = {
     },
     {
       "emoji": "🤏🏻",
-      "keywords": "🤏🏻 E12.0 pinching hand: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤏🏼",
-      "keywords": "🤏🏼 E12.0 pinching hand: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤏🏽",
-      "keywords": "🤏🏽 E12.0 pinching hand: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤏🏾",
-      "keywords": "🤏🏾 E12.0 pinching hand: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤏🏿",
-      "keywords": "🤏🏿 E12.0 pinching hand: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌️",
-      "keywords": "✌️ E0.6 victory hand",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌🏻",
-      "keywords": "✌🏻 E1.0 victory hand: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌🏼",
-      "keywords": "✌🏼 E1.0 victory hand: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌🏽",
-      "keywords": "✌🏽 E1.0 victory hand: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌🏾",
-      "keywords": "✌🏾 E1.0 victory hand: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "✌🏿",
-      "keywords": "✌🏿 E1.0 victory hand: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1565,31 +1565,31 @@ const emojiData = {
     },
     {
       "emoji": "🤞🏻",
-      "keywords": "🤞🏻 E3.0 crossed fingers: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤞🏼",
-      "keywords": "🤞🏼 E3.0 crossed fingers: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤞🏽",
-      "keywords": "🤞🏽 E3.0 crossed fingers: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤞🏾",
-      "keywords": "🤞🏾 E3.0 crossed fingers: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤞🏿",
-      "keywords": "🤞🏿 E3.0 crossed fingers: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1601,31 +1601,31 @@ const emojiData = {
     },
     {
       "emoji": "🫰🏻",
-      "keywords": "🫰🏻 E14.0 hand with index finger and thumb crossed: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🫰🏼",
-      "keywords": "🫰🏼 E14.0 hand with index finger and thumb crossed: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🫰🏽",
-      "keywords": "🫰🏽 E14.0 hand with index finger and thumb crossed: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🫰🏾",
-      "keywords": "🫰🏾 E14.0 hand with index finger and thumb crossed: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🫰🏿",
-      "keywords": "🫰🏿 E14.0 hand with index finger and thumb crossed: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1637,31 +1637,31 @@ const emojiData = {
     },
     {
       "emoji": "🤟🏻",
-      "keywords": "🤟🏻 E5.0 love-you gesture: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤟🏼",
-      "keywords": "🤟🏼 E5.0 love-you gesture: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤟🏽",
-      "keywords": "🤟🏽 E5.0 love-you gesture: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤟🏾",
-      "keywords": "🤟🏾 E5.0 love-you gesture: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤟🏿",
-      "keywords": "🤟🏿 E5.0 love-you gesture: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1673,31 +1673,31 @@ const emojiData = {
     },
     {
       "emoji": "🤘🏻",
-      "keywords": "🤘🏻 E1.0 sign of the horns: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤘🏼",
-      "keywords": "🤘🏼 E1.0 sign of the horns: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤘🏽",
-      "keywords": "🤘🏽 E1.0 sign of the horns: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤘🏾",
-      "keywords": "🤘🏾 E1.0 sign of the horns: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤘🏿",
-      "keywords": "🤘🏿 E1.0 sign of the horns: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1709,31 +1709,31 @@ const emojiData = {
     },
     {
       "emoji": "🤙🏻",
-      "keywords": "🤙🏻 E3.0 call me hand: light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤙🏼",
-      "keywords": "🤙🏼 E3.0 call me hand: medium-light skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤙🏽",
-      "keywords": "🤙🏽 E3.0 call me hand: medium skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤙🏾",
-      "keywords": "🤙🏾 E3.0 call me hand: medium-dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
     {
       "emoji": "🤙🏿",
-      "keywords": "🤙🏿 E3.0 call me hand: dark skin tone",
+      "keywords": "手指手势",
       "category": "人物",
       "subCategory": "hand-fingers-partial"
     },
@@ -1745,31 +1745,31 @@ const emojiData = {
     },
     {
       "emoji": "👈🏻",
-      "keywords": "👈🏻 E1.0 backhand index pointing left: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👈🏼",
-      "keywords": "👈🏼 E1.0 backhand index pointing left: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👈🏽",
-      "keywords": "👈🏽 E1.0 backhand index pointing left: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👈🏾",
-      "keywords": "👈🏾 E1.0 backhand index pointing left: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👈🏿",
-      "keywords": "👈🏿 E1.0 backhand index pointing left: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1781,31 +1781,31 @@ const emojiData = {
     },
     {
       "emoji": "👉🏻",
-      "keywords": "👉🏻 E1.0 backhand index pointing right: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👉🏼",
-      "keywords": "👉🏼 E1.0 backhand index pointing right: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👉🏽",
-      "keywords": "👉🏽 E1.0 backhand index pointing right: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👉🏾",
-      "keywords": "👉🏾 E1.0 backhand index pointing right: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👉🏿",
-      "keywords": "👉🏿 E1.0 backhand index pointing right: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1817,31 +1817,31 @@ const emojiData = {
     },
     {
       "emoji": "👆🏻",
-      "keywords": "👆🏻 E1.0 backhand index pointing up: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👆🏼",
-      "keywords": "👆🏼 E1.0 backhand index pointing up: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👆🏽",
-      "keywords": "👆🏽 E1.0 backhand index pointing up: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👆🏾",
-      "keywords": "👆🏾 E1.0 backhand index pointing up: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👆🏿",
-      "keywords": "👆🏿 E1.0 backhand index pointing up: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1853,31 +1853,31 @@ const emojiData = {
     },
     {
       "emoji": "🖕🏻",
-      "keywords": "🖕🏻 E1.0 middle finger: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🖕🏼",
-      "keywords": "🖕🏼 E1.0 middle finger: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🖕🏽",
-      "keywords": "🖕🏽 E1.0 middle finger: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🖕🏾",
-      "keywords": "🖕🏾 E1.0 middle finger: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🖕🏿",
-      "keywords": "🖕🏿 E1.0 middle finger: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1889,67 +1889,67 @@ const emojiData = {
     },
     {
       "emoji": "👇🏻",
-      "keywords": "👇🏻 E1.0 backhand index pointing down: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👇🏼",
-      "keywords": "👇🏼 E1.0 backhand index pointing down: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👇🏽",
-      "keywords": "👇🏽 E1.0 backhand index pointing down: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👇🏾",
-      "keywords": "👇🏾 E1.0 backhand index pointing down: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "👇🏿",
-      "keywords": "👇🏿 E1.0 backhand index pointing down: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝️",
-      "keywords": "☝️ E0.6 index pointing up",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝🏻",
-      "keywords": "☝🏻 E1.0 index pointing up: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝🏼",
-      "keywords": "☝🏼 E1.0 index pointing up: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝🏽",
-      "keywords": "☝🏽 E1.0 index pointing up: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝🏾",
-      "keywords": "☝🏾 E1.0 index pointing up: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "☝🏿",
-      "keywords": "☝🏿 E1.0 index pointing up: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1961,31 +1961,31 @@ const emojiData = {
     },
     {
       "emoji": "🫵🏻",
-      "keywords": "🫵🏻 E14.0 index pointing at the viewer: light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🫵🏼",
-      "keywords": "🫵🏼 E14.0 index pointing at the viewer: medium-light skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🫵🏽",
-      "keywords": "🫵🏽 E14.0 index pointing at the viewer: medium skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🫵🏾",
-      "keywords": "🫵🏾 E14.0 index pointing at the viewer: medium-dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
     {
       "emoji": "🫵🏿",
-      "keywords": "🫵🏿 E14.0 index pointing at the viewer: dark skin tone",
+      "keywords": "单指手势",
       "category": "人物",
       "subCategory": "hand-single-finger"
     },
@@ -1997,31 +1997,31 @@ const emojiData = {
     },
     {
       "emoji": "👍🏻",
-      "keywords": "👍🏻 E1.0 thumbs up: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👍🏼",
-      "keywords": "👍🏼 E1.0 thumbs up: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👍🏽",
-      "keywords": "👍🏽 E1.0 thumbs up: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👍🏾",
-      "keywords": "👍🏾 E1.0 thumbs up: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👍🏿",
-      "keywords": "👍🏿 E1.0 thumbs up: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2033,31 +2033,31 @@ const emojiData = {
     },
     {
       "emoji": "👎🏻",
-      "keywords": "👎🏻 E1.0 thumbs down: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👎🏼",
-      "keywords": "👎🏼 E1.0 thumbs down: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👎🏽",
-      "keywords": "👎🏽 E1.0 thumbs down: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👎🏾",
-      "keywords": "👎🏾 E1.0 thumbs down: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👎🏿",
-      "keywords": "👎🏿 E1.0 thumbs down: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2069,31 +2069,31 @@ const emojiData = {
     },
     {
       "emoji": "✊🏻",
-      "keywords": "✊🏻 E1.0 raised fist: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "✊🏼",
-      "keywords": "✊🏼 E1.0 raised fist: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "✊🏽",
-      "keywords": "✊🏽 E1.0 raised fist: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "✊🏾",
-      "keywords": "✊🏾 E1.0 raised fist: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "✊🏿",
-      "keywords": "✊🏿 E1.0 raised fist: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2105,31 +2105,31 @@ const emojiData = {
     },
     {
       "emoji": "👊🏻",
-      "keywords": "👊🏻 E1.0 oncoming fist: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👊🏼",
-      "keywords": "👊🏼 E1.0 oncoming fist: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👊🏽",
-      "keywords": "👊🏽 E1.0 oncoming fist: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👊🏾",
-      "keywords": "👊🏾 E1.0 oncoming fist: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "👊🏿",
-      "keywords": "👊🏿 E1.0 oncoming fist: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2141,31 +2141,31 @@ const emojiData = {
     },
     {
       "emoji": "🤛🏻",
-      "keywords": "🤛🏻 E3.0 left-facing fist: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤛🏼",
-      "keywords": "🤛🏼 E3.0 left-facing fist: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤛🏽",
-      "keywords": "🤛🏽 E3.0 left-facing fist: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤛🏾",
-      "keywords": "🤛🏾 E3.0 left-facing fist: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤛🏿",
-      "keywords": "🤛🏿 E3.0 left-facing fist: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2177,31 +2177,31 @@ const emojiData = {
     },
     {
       "emoji": "🤜🏻",
-      "keywords": "🤜🏻 E3.0 right-facing fist: light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤜🏼",
-      "keywords": "🤜🏼 E3.0 right-facing fist: medium-light skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤜🏽",
-      "keywords": "🤜🏽 E3.0 right-facing fist: medium skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤜🏾",
-      "keywords": "🤜🏾 E3.0 right-facing fist: medium-dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
     {
       "emoji": "🤜🏿",
-      "keywords": "🤜🏿 E3.0 right-facing fist: dark skin tone",
+      "keywords": "握拳",
       "category": "人物",
       "subCategory": "hand-fingers-closed"
     },
@@ -2213,31 +2213,31 @@ const emojiData = {
     },
     {
       "emoji": "👏🏻",
-      "keywords": "👏🏻 E1.0 clapping hands: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👏🏼",
-      "keywords": "👏🏼 E1.0 clapping hands: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👏🏽",
-      "keywords": "👏🏽 E1.0 clapping hands: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👏🏾",
-      "keywords": "👏🏾 E1.0 clapping hands: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👏🏿",
-      "keywords": "👏🏿 E1.0 clapping hands: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2249,31 +2249,31 @@ const emojiData = {
     },
     {
       "emoji": "🙌🏻",
-      "keywords": "🙌🏻 E1.0 raising hands: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙌🏼",
-      "keywords": "🙌🏼 E1.0 raising hands: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙌🏽",
-      "keywords": "🙌🏽 E1.0 raising hands: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙌🏾",
-      "keywords": "🙌🏾 E1.0 raising hands: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙌🏿",
-      "keywords": "🙌🏿 E1.0 raising hands: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2285,31 +2285,31 @@ const emojiData = {
     },
     {
       "emoji": "🫶🏻",
-      "keywords": "🫶🏻 E14.0 heart hands: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫶🏼",
-      "keywords": "🫶🏼 E14.0 heart hands: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫶🏽",
-      "keywords": "🫶🏽 E14.0 heart hands: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫶🏾",
-      "keywords": "🫶🏾 E14.0 heart hands: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫶🏿",
-      "keywords": "🫶🏿 E14.0 heart hands: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2321,31 +2321,31 @@ const emojiData = {
     },
     {
       "emoji": "👐🏻",
-      "keywords": "👐🏻 E1.0 open hands: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👐🏼",
-      "keywords": "👐🏼 E1.0 open hands: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👐🏽",
-      "keywords": "👐🏽 E1.0 open hands: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👐🏾",
-      "keywords": "👐🏾 E1.0 open hands: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "👐🏿",
-      "keywords": "👐🏿 E1.0 open hands: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2357,31 +2357,31 @@ const emojiData = {
     },
     {
       "emoji": "🤲🏻",
-      "keywords": "🤲🏻 E5.0 palms up together: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤲🏼",
-      "keywords": "🤲🏼 E5.0 palms up together: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤲🏽",
-      "keywords": "🤲🏽 E5.0 palms up together: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤲🏾",
-      "keywords": "🤲🏾 E5.0 palms up together: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤲🏿",
-      "keywords": "🤲🏿 E5.0 palms up together: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2393,151 +2393,151 @@ const emojiData = {
     },
     {
       "emoji": "🤝🏻",
-      "keywords": "🤝🏻 E14.0 handshake: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤝🏼",
-      "keywords": "🤝🏼 E14.0 handshake: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤝🏽",
-      "keywords": "🤝🏽 E14.0 handshake: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤝🏾",
-      "keywords": "🤝🏾 E14.0 handshake: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🤝🏿",
-      "keywords": "🤝🏿 E14.0 handshake: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏻‍🫲🏼",
-      "keywords": "🫱🏻‍🫲🏼 E14.0 handshake: light skin tone, medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏻‍🫲🏽",
-      "keywords": "🫱🏻‍🫲🏽 E14.0 handshake: light skin tone, medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏻‍🫲🏾",
-      "keywords": "🫱🏻‍🫲🏾 E14.0 handshake: light skin tone, medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏻‍🫲🏿",
-      "keywords": "🫱🏻‍🫲🏿 E14.0 handshake: light skin tone, dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏼‍🫲🏻",
-      "keywords": "🫱🏼‍🫲🏻 E14.0 handshake: medium-light skin tone, light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏼‍🫲🏽",
-      "keywords": "🫱🏼‍🫲🏽 E14.0 handshake: medium-light skin tone, medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏼‍🫲🏾",
-      "keywords": "🫱🏼‍🫲🏾 E14.0 handshake: medium-light skin tone, medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏼‍🫲🏿",
-      "keywords": "🫱🏼‍🫲🏿 E14.0 handshake: medium-light skin tone, dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏽‍🫲🏻",
-      "keywords": "🫱🏽‍🫲🏻 E14.0 handshake: medium skin tone, light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏽‍🫲🏼",
-      "keywords": "🫱🏽‍🫲🏼 E14.0 handshake: medium skin tone, medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏽‍🫲🏾",
-      "keywords": "🫱🏽‍🫲🏾 E14.0 handshake: medium skin tone, medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏽‍🫲🏿",
-      "keywords": "🫱🏽‍🫲🏿 E14.0 handshake: medium skin tone, dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏾‍🫲🏻",
-      "keywords": "🫱🏾‍🫲🏻 E14.0 handshake: medium-dark skin tone, light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏾‍🫲🏼",
-      "keywords": "🫱🏾‍🫲🏼 E14.0 handshake: medium-dark skin tone, medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏾‍🫲🏽",
-      "keywords": "🫱🏾‍🫲🏽 E14.0 handshake: medium-dark skin tone, medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏾‍🫲🏿",
-      "keywords": "🫱🏾‍🫲🏿 E14.0 handshake: medium-dark skin tone, dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏿‍🫲🏻",
-      "keywords": "🫱🏿‍🫲🏻 E14.0 handshake: dark skin tone, light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏿‍🫲🏼",
-      "keywords": "🫱🏿‍🫲🏼 E14.0 handshake: dark skin tone, medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏿‍🫲🏽",
-      "keywords": "🫱🏿‍🫲🏽 E14.0 handshake: dark skin tone, medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🫱🏿‍🫲🏾",
-      "keywords": "🫱🏿‍🫲🏾 E14.0 handshake: dark skin tone, medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
@@ -2549,67 +2549,67 @@ const emojiData = {
     },
     {
       "emoji": "🙏🏻",
-      "keywords": "🙏🏻 E1.0 folded hands: light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙏🏼",
-      "keywords": "🙏🏼 E1.0 folded hands: medium-light skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙏🏽",
-      "keywords": "🙏🏽 E1.0 folded hands: medium skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙏🏾",
-      "keywords": "🙏🏾 E1.0 folded hands: medium-dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "🙏🏿",
-      "keywords": "🙏🏿 E1.0 folded hands: dark skin tone",
+      "keywords": "双手手势",
       "category": "人物",
       "subCategory": "hands"
     },
     {
       "emoji": "✍️",
-      "keywords": "✍️ E0.7 writing hand",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "✍🏻",
-      "keywords": "✍🏻 E1.0 writing hand: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "✍🏼",
-      "keywords": "✍🏼 E1.0 writing hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "✍🏽",
-      "keywords": "✍🏽 E1.0 writing hand: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "✍🏾",
-      "keywords": "✍🏾 E1.0 writing hand: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "✍🏿",
-      "keywords": "✍🏿 E1.0 writing hand: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
@@ -2621,31 +2621,31 @@ const emojiData = {
     },
     {
       "emoji": "💅🏻",
-      "keywords": "💅🏻 E1.0 nail polish: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "💅🏼",
-      "keywords": "💅🏼 E1.0 nail polish: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "💅🏽",
-      "keywords": "💅🏽 E1.0 nail polish: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "💅🏾",
-      "keywords": "💅🏾 E1.0 nail polish: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "💅🏿",
-      "keywords": "💅🏿 E1.0 nail polish: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
@@ -2657,31 +2657,31 @@ const emojiData = {
     },
     {
       "emoji": "🤳🏻",
-      "keywords": "🤳🏻 E3.0 selfie: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "🤳🏼",
-      "keywords": "🤳🏼 E3.0 selfie: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "🤳🏽",
-      "keywords": "🤳🏽 E3.0 selfie: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "🤳🏾",
-      "keywords": "🤳🏾 E3.0 selfie: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
     {
       "emoji": "🤳🏿",
-      "keywords": "🤳🏿 E3.0 selfie: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "hand-prop"
     },
@@ -2693,31 +2693,31 @@ const emojiData = {
     },
     {
       "emoji": "💪🏻",
-      "keywords": "💪🏻 E1.0 flexed biceps: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "💪🏼",
-      "keywords": "💪🏼 E1.0 flexed biceps: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "💪🏽",
-      "keywords": "💪🏽 E1.0 flexed biceps: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "💪🏾",
-      "keywords": "💪🏾 E1.0 flexed biceps: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "💪🏿",
-      "keywords": "💪🏿 E1.0 flexed biceps: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2741,31 +2741,31 @@ const emojiData = {
     },
     {
       "emoji": "🦵🏻",
-      "keywords": "🦵🏻 E11.0 leg: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦵🏼",
-      "keywords": "🦵🏼 E11.0 leg: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦵🏽",
-      "keywords": "🦵🏽 E11.0 leg: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦵🏾",
-      "keywords": "🦵🏾 E11.0 leg: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦵🏿",
-      "keywords": "🦵🏿 E11.0 leg: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2777,31 +2777,31 @@ const emojiData = {
     },
     {
       "emoji": "🦶🏻",
-      "keywords": "🦶🏻 E11.0 foot: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦶🏼",
-      "keywords": "🦶🏼 E11.0 foot: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦶🏽",
-      "keywords": "🦶🏽 E11.0 foot: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦶🏾",
-      "keywords": "🦶🏾 E11.0 foot: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦶🏿",
-      "keywords": "🦶🏿 E11.0 foot: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2813,31 +2813,31 @@ const emojiData = {
     },
     {
       "emoji": "👂🏻",
-      "keywords": "👂🏻 E1.0 ear: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👂🏼",
-      "keywords": "👂🏼 E1.0 ear: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👂🏽",
-      "keywords": "👂🏽 E1.0 ear: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👂🏾",
-      "keywords": "👂🏾 E1.0 ear: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👂🏿",
-      "keywords": "👂🏿 E1.0 ear: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2849,31 +2849,31 @@ const emojiData = {
     },
     {
       "emoji": "🦻🏻",
-      "keywords": "🦻🏻 E12.0 ear with hearing aid: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦻🏼",
-      "keywords": "🦻🏼 E12.0 ear with hearing aid: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦻🏽",
-      "keywords": "🦻🏽 E12.0 ear with hearing aid: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦻🏾",
-      "keywords": "🦻🏾 E12.0 ear with hearing aid: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "🦻🏿",
-      "keywords": "🦻🏿 E12.0 ear with hearing aid: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2885,31 +2885,31 @@ const emojiData = {
     },
     {
       "emoji": "👃🏻",
-      "keywords": "👃🏻 E1.0 nose: light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👃🏼",
-      "keywords": "👃🏼 E1.0 nose: medium-light skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👃🏽",
-      "keywords": "👃🏽 E1.0 nose: medium skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👃🏾",
-      "keywords": "👃🏾 E1.0 nose: medium-dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
     {
       "emoji": "👃🏿",
-      "keywords": "👃🏿 E1.0 nose: dark skin tone",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2951,7 +2951,7 @@ const emojiData = {
     },
     {
       "emoji": "👁️",
-      "keywords": "👁️ E0.7 eye",
+      "keywords": "身体部位",
       "category": "人物",
       "subCategory": "body-parts"
     },
@@ -2981,31 +2981,31 @@ const emojiData = {
     },
     {
       "emoji": "👶🏻",
-      "keywords": "👶🏻 E1.0 baby: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👶🏼",
-      "keywords": "👶🏼 E1.0 baby: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👶🏽",
-      "keywords": "👶🏽 E1.0 baby: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👶🏾",
-      "keywords": "👶🏾 E1.0 baby: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👶🏿",
-      "keywords": "👶🏿 E1.0 baby: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3017,31 +3017,31 @@ const emojiData = {
     },
     {
       "emoji": "🧒🏻",
-      "keywords": "🧒🏻 E5.0 child: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧒🏼",
-      "keywords": "🧒🏼 E5.0 child: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧒🏽",
-      "keywords": "🧒🏽 E5.0 child: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧒🏾",
-      "keywords": "🧒🏾 E5.0 child: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧒🏿",
-      "keywords": "🧒🏿 E5.0 child: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3053,31 +3053,31 @@ const emojiData = {
     },
     {
       "emoji": "👦🏻",
-      "keywords": "👦🏻 E1.0 boy: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👦🏼",
-      "keywords": "👦🏼 E1.0 boy: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👦🏽",
-      "keywords": "👦🏽 E1.0 boy: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👦🏾",
-      "keywords": "👦🏾 E1.0 boy: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👦🏿",
-      "keywords": "👦🏿 E1.0 boy: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3089,31 +3089,31 @@ const emojiData = {
     },
     {
       "emoji": "👧🏻",
-      "keywords": "👧🏻 E1.0 girl: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👧🏼",
-      "keywords": "👧🏼 E1.0 girl: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👧🏽",
-      "keywords": "👧🏽 E1.0 girl: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👧🏾",
-      "keywords": "👧🏾 E1.0 girl: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👧🏿",
-      "keywords": "👧🏿 E1.0 girl: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3125,31 +3125,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻",
-      "keywords": "🧑🏻 E5.0 person: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏼",
-      "keywords": "🧑🏼 E5.0 person: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏽",
-      "keywords": "🧑🏽 E5.0 person: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏾",
-      "keywords": "🧑🏾 E5.0 person: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏿",
-      "keywords": "🧑🏿 E5.0 person: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3161,31 +3161,31 @@ const emojiData = {
     },
     {
       "emoji": "👱🏻",
-      "keywords": "👱🏻 E1.0 person: light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏼",
-      "keywords": "👱🏼 E1.0 person: medium-light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏽",
-      "keywords": "👱🏽 E1.0 person: medium skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏾",
-      "keywords": "👱🏾 E1.0 person: medium-dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏿",
-      "keywords": "👱🏿 E1.0 person: dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3197,31 +3197,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻",
-      "keywords": "👨🏻 E1.0 man: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏼",
-      "keywords": "👨🏼 E1.0 man: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏽",
-      "keywords": "👨🏽 E1.0 man: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏾",
-      "keywords": "👨🏾 E1.0 man: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏿",
-      "keywords": "👨🏿 E1.0 man: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3335,145 +3335,145 @@ const emojiData = {
     },
     {
       "emoji": "👨‍🦰",
-      "keywords": "👨‍🦰 E11.0 man: red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏻‍🦰",
-      "keywords": "👨🏻‍🦰 E11.0 man: light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏼‍🦰",
-      "keywords": "👨🏼‍🦰 E11.0 man: medium-light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏽‍🦰",
-      "keywords": "👨🏽‍🦰 E11.0 man: medium skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏾‍🦰",
-      "keywords": "👨🏾‍🦰 E11.0 man: medium-dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏿‍🦰",
-      "keywords": "👨🏿‍🦰 E11.0 man: dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨‍🦱",
-      "keywords": "👨‍🦱 E11.0 man: curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏻‍🦱",
-      "keywords": "👨🏻‍🦱 E11.0 man: light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏼‍🦱",
-      "keywords": "👨🏼‍🦱 E11.0 man: medium-light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏽‍🦱",
-      "keywords": "👨🏽‍🦱 E11.0 man: medium skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏾‍🦱",
-      "keywords": "👨🏾‍🦱 E11.0 man: medium-dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏿‍🦱",
-      "keywords": "👨🏿‍🦱 E11.0 man: dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨‍🦳",
-      "keywords": "👨‍🦳 E11.0 man: white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏻‍🦳",
-      "keywords": "👨🏻‍🦳 E11.0 man: light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏼‍🦳",
-      "keywords": "👨🏼‍🦳 E11.0 man: medium-light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏽‍🦳",
-      "keywords": "👨🏽‍🦳 E11.0 man: medium skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏾‍🦳",
-      "keywords": "👨🏾‍🦳 E11.0 man: medium-dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏿‍🦳",
-      "keywords": "👨🏿‍🦳 E11.0 man: dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨‍🦲",
-      "keywords": "👨‍🦲 E11.0 man: bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏻‍🦲",
-      "keywords": "👨🏻‍🦲 E11.0 man: light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏼‍🦲",
-      "keywords": "👨🏼‍🦲 E11.0 man: medium-light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏽‍🦲",
-      "keywords": "👨🏽‍🦲 E11.0 man: medium skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏾‍🦲",
-      "keywords": "👨🏾‍🦲 E11.0 man: medium-dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👨🏿‍🦲",
-      "keywords": "👨🏿‍🦲 E11.0 man: dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3485,391 +3485,391 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻",
-      "keywords": "👩🏻 E1.0 woman: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏼",
-      "keywords": "👩🏼 E1.0 woman: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏽",
-      "keywords": "👩🏽 E1.0 woman: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏾",
-      "keywords": "👩🏾 E1.0 woman: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏿",
-      "keywords": "👩🏿 E1.0 woman: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩‍🦰",
-      "keywords": "👩‍🦰 E11.0 woman: red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏻‍🦰",
-      "keywords": "👩🏻‍🦰 E11.0 woman: light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏼‍🦰",
-      "keywords": "👩🏼‍🦰 E11.0 woman: medium-light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏽‍🦰",
-      "keywords": "👩🏽‍🦰 E11.0 woman: medium skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏾‍🦰",
-      "keywords": "👩🏾‍🦰 E11.0 woman: medium-dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏿‍🦰",
-      "keywords": "👩🏿‍🦰 E11.0 woman: dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑‍🦰",
-      "keywords": "🧑‍🦰 E12.1 person: red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏻‍🦰",
-      "keywords": "🧑🏻‍🦰 E12.1 person: light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏼‍🦰",
-      "keywords": "🧑🏼‍🦰 E12.1 person: medium-light skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏽‍🦰",
-      "keywords": "🧑🏽‍🦰 E12.1 person: medium skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏾‍🦰",
-      "keywords": "🧑🏾‍🦰 E12.1 person: medium-dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏿‍🦰",
-      "keywords": "🧑🏿‍🦰 E12.1 person: dark skin tone, red hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩‍🦱",
-      "keywords": "👩‍🦱 E11.0 woman: curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏻‍🦱",
-      "keywords": "👩🏻‍🦱 E11.0 woman: light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏼‍🦱",
-      "keywords": "👩🏼‍🦱 E11.0 woman: medium-light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏽‍🦱",
-      "keywords": "👩🏽‍🦱 E11.0 woman: medium skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏾‍🦱",
-      "keywords": "👩🏾‍🦱 E11.0 woman: medium-dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏿‍🦱",
-      "keywords": "👩🏿‍🦱 E11.0 woman: dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑‍🦱",
-      "keywords": "🧑‍🦱 E12.1 person: curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏻‍🦱",
-      "keywords": "🧑🏻‍🦱 E12.1 person: light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏼‍🦱",
-      "keywords": "🧑🏼‍🦱 E12.1 person: medium-light skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏽‍🦱",
-      "keywords": "🧑🏽‍🦱 E12.1 person: medium skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏾‍🦱",
-      "keywords": "🧑🏾‍🦱 E12.1 person: medium-dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏿‍🦱",
-      "keywords": "🧑🏿‍🦱 E12.1 person: dark skin tone, curly hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩‍🦳",
-      "keywords": "👩‍🦳 E11.0 woman: white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏻‍🦳",
-      "keywords": "👩🏻‍🦳 E11.0 woman: light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏼‍🦳",
-      "keywords": "👩🏼‍🦳 E11.0 woman: medium-light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏽‍🦳",
-      "keywords": "👩🏽‍🦳 E11.0 woman: medium skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏾‍🦳",
-      "keywords": "👩🏾‍🦳 E11.0 woman: medium-dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏿‍🦳",
-      "keywords": "👩🏿‍🦳 E11.0 woman: dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑‍🦳",
-      "keywords": "🧑‍🦳 E12.1 person: white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏻‍🦳",
-      "keywords": "🧑🏻‍🦳 E12.1 person: light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏼‍🦳",
-      "keywords": "🧑🏼‍🦳 E12.1 person: medium-light skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏽‍🦳",
-      "keywords": "🧑🏽‍🦳 E12.1 person: medium skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏾‍🦳",
-      "keywords": "🧑🏾‍🦳 E12.1 person: medium-dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏿‍🦳",
-      "keywords": "🧑🏿‍🦳 E12.1 person: dark skin tone, white hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩‍🦲",
-      "keywords": "👩‍🦲 E11.0 woman: bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏻‍🦲",
-      "keywords": "👩🏻‍🦲 E11.0 woman: light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏼‍🦲",
-      "keywords": "👩🏼‍🦲 E11.0 woman: medium-light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏽‍🦲",
-      "keywords": "👩🏽‍🦲 E11.0 woman: medium skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏾‍🦲",
-      "keywords": "👩🏾‍🦲 E11.0 woman: medium-dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👩🏿‍🦲",
-      "keywords": "👩🏿‍🦲 E11.0 woman: dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑‍🦲",
-      "keywords": "🧑‍🦲 E12.1 person: bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏻‍🦲",
-      "keywords": "🧑🏻‍🦲 E12.1 person: light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏼‍🦲",
-      "keywords": "🧑🏼‍🦲 E12.1 person: medium-light skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏽‍🦲",
-      "keywords": "🧑🏽‍🦲 E12.1 person: medium skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏾‍🦲",
-      "keywords": "🧑🏾‍🦲 E12.1 person: medium-dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧑🏿‍🦲",
-      "keywords": "🧑🏿‍🦲 E12.1 person: dark skin tone, bald",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱‍♀️",
-      "keywords": "👱‍♀️ E4.0 woman: blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏻‍♀️",
-      "keywords": "👱🏻‍♀️ E4.0 woman: light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏼‍♀️",
-      "keywords": "👱🏼‍♀️ E4.0 woman: medium-light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏽‍♀️",
-      "keywords": "👱🏽‍♀️ E4.0 woman: medium skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏾‍♀️",
-      "keywords": "👱🏾‍♀️ E4.0 woman: medium-dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏿‍♀️",
-      "keywords": "👱🏿‍♀️ E4.0 woman: dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱‍♂️",
-      "keywords": "👱‍♂️ E4.0 man: blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏻‍♂️",
-      "keywords": "👱🏻‍♂️ E4.0 man: light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏼‍♂️",
-      "keywords": "👱🏼‍♂️ E4.0 man: medium-light skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏽‍♂️",
-      "keywords": "👱🏽‍♂️ E4.0 man: medium skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏾‍♂️",
-      "keywords": "👱🏾‍♂️ E4.0 man: medium-dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👱🏿‍♂️",
-      "keywords": "👱🏿‍♂️ E4.0 man: dark skin tone, blond hair",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3881,31 +3881,31 @@ const emojiData = {
     },
     {
       "emoji": "🧓🏻",
-      "keywords": "🧓🏻 E5.0 older person: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧓🏼",
-      "keywords": "🧓🏼 E5.0 older person: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧓🏽",
-      "keywords": "🧓🏽 E5.0 older person: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧓🏾",
-      "keywords": "🧓🏾 E5.0 older person: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "🧓🏿",
-      "keywords": "🧓🏿 E5.0 older person: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3917,31 +3917,31 @@ const emojiData = {
     },
     {
       "emoji": "👴🏻",
-      "keywords": "👴🏻 E1.0 old man: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👴🏼",
-      "keywords": "👴🏼 E1.0 old man: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👴🏽",
-      "keywords": "👴🏽 E1.0 old man: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👴🏾",
-      "keywords": "👴🏾 E1.0 old man: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👴🏿",
-      "keywords": "👴🏿 E1.0 old man: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3953,31 +3953,31 @@ const emojiData = {
     },
     {
       "emoji": "👵🏻",
-      "keywords": "👵🏻 E1.0 old woman: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👵🏼",
-      "keywords": "👵🏼 E1.0 old woman: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👵🏽",
-      "keywords": "👵🏽 E1.0 old woman: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👵🏾",
-      "keywords": "👵🏾 E1.0 old woman: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
     {
       "emoji": "👵🏿",
-      "keywords": "👵🏿 E1.0 old woman: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person"
     },
@@ -3989,103 +3989,103 @@ const emojiData = {
     },
     {
       "emoji": "🙍🏻",
-      "keywords": "🙍🏻 E1.0 person frowning: light skin tone",
+      "keywords": "人 皱眉: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏼",
-      "keywords": "🙍🏼 E1.0 person frowning: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏽",
-      "keywords": "🙍🏽 E1.0 person frowning: medium skin tone",
+      "keywords": "人 皱眉: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏾",
-      "keywords": "🙍🏾 E1.0 person frowning: medium-dark skin tone",
+      "keywords": "人 皱眉: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏿",
-      "keywords": "🙍🏿 E1.0 person frowning: dark skin tone",
+      "keywords": "人 皱眉: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍‍♂️",
-      "keywords": "🙍‍♂️ E4.0 man frowning",
+      "keywords": "🙍‍♂️ 男性 皱眉",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏻‍♂️",
-      "keywords": "🙍🏻‍♂️ E4.0 man frowning: light skin tone",
+      "keywords": "男性 皱眉: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏼‍♂️",
-      "keywords": "🙍🏼‍♂️ E4.0 man frowning: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏽‍♂️",
-      "keywords": "🙍🏽‍♂️ E4.0 man frowning: medium skin tone",
+      "keywords": "男性 皱眉: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏾‍♂️",
-      "keywords": "🙍🏾‍♂️ E4.0 man frowning: medium-dark skin tone",
+      "keywords": "男性 皱眉: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏿‍♂️",
-      "keywords": "🙍🏿‍♂️ E4.0 man frowning: dark skin tone",
+      "keywords": "男性 皱眉: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍‍♀️",
-      "keywords": "🙍‍♀️ E4.0 woman frowning",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏻‍♀️",
-      "keywords": "🙍🏻‍♀️ E4.0 woman frowning: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏼‍♀️",
-      "keywords": "🙍🏼‍♀️ E4.0 woman frowning: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏽‍♀️",
-      "keywords": "🙍🏽‍♀️ E4.0 woman frowning: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏾‍♀️",
-      "keywords": "🙍🏾‍♀️ E4.0 woman frowning: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙍🏿‍♀️",
-      "keywords": "🙍🏿‍♀️ E4.0 woman frowning: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4097,103 +4097,103 @@ const emojiData = {
     },
     {
       "emoji": "🙎🏻",
-      "keywords": "🙎🏻 E1.0 person pouting: light skin tone",
+      "keywords": "人 撅嘴: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏼",
-      "keywords": "🙎🏼 E1.0 person pouting: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏽",
-      "keywords": "🙎🏽 E1.0 person pouting: medium skin tone",
+      "keywords": "人 撅嘴: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏾",
-      "keywords": "🙎🏾 E1.0 person pouting: medium-dark skin tone",
+      "keywords": "人 撅嘴: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏿",
-      "keywords": "🙎🏿 E1.0 person pouting: dark skin tone",
+      "keywords": "人 撅嘴: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎‍♂️",
-      "keywords": "🙎‍♂️ E4.0 man pouting",
+      "keywords": "🙎‍♂️ 男性 撅嘴",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏻‍♂️",
-      "keywords": "🙎🏻‍♂️ E4.0 man pouting: light skin tone",
+      "keywords": "男性 撅嘴: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏼‍♂️",
-      "keywords": "🙎🏼‍♂️ E4.0 man pouting: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏽‍♂️",
-      "keywords": "🙎🏽‍♂️ E4.0 man pouting: medium skin tone",
+      "keywords": "男性 撅嘴: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏾‍♂️",
-      "keywords": "🙎🏾‍♂️ E4.0 man pouting: medium-dark skin tone",
+      "keywords": "男性 撅嘴: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏿‍♂️",
-      "keywords": "🙎🏿‍♂️ E4.0 man pouting: dark skin tone",
+      "keywords": "男性 撅嘴: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎‍♀️",
-      "keywords": "🙎‍♀️ E4.0 woman pouting",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏻‍♀️",
-      "keywords": "🙎🏻‍♀️ E4.0 woman pouting: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏼‍♀️",
-      "keywords": "🙎🏼‍♀️ E4.0 woman pouting: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏽‍♀️",
-      "keywords": "🙎🏽‍♀️ E4.0 woman pouting: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏾‍♀️",
-      "keywords": "🙎🏾‍♀️ E4.0 woman pouting: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙎🏿‍♀️",
-      "keywords": "🙎🏿‍♀️ E4.0 woman pouting: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4205,211 +4205,211 @@ const emojiData = {
     },
     {
       "emoji": "🙅🏻",
-      "keywords": "🙅🏻 E1.0 person gesturing NO: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏼",
-      "keywords": "🙅🏼 E1.0 person gesturing NO: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏽",
-      "keywords": "🙅🏽 E1.0 person gesturing NO: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏾",
-      "keywords": "🙅🏾 E1.0 person gesturing NO: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏿",
-      "keywords": "🙅🏿 E1.0 person gesturing NO: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅‍♂️",
-      "keywords": "🙅‍♂️ E4.0 man gesturing NO",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏻‍♂️",
-      "keywords": "🙅🏻‍♂️ E4.0 man gesturing NO: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏼‍♂️",
-      "keywords": "🙅🏼‍♂️ E4.0 man gesturing NO: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏽‍♂️",
-      "keywords": "🙅🏽‍♂️ E4.0 man gesturing NO: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏾‍♂️",
-      "keywords": "🙅🏾‍♂️ E4.0 man gesturing NO: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏿‍♂️",
-      "keywords": "🙅🏿‍♂️ E4.0 man gesturing NO: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅‍♀️",
-      "keywords": "🙅‍♀️ E4.0 woman gesturing NO",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏻‍♀️",
-      "keywords": "🙅🏻‍♀️ E4.0 woman gesturing NO: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏼‍♀️",
-      "keywords": "🙅🏼‍♀️ E4.0 woman gesturing NO: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏽‍♀️",
-      "keywords": "🙅🏽‍♀️ E4.0 woman gesturing NO: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏾‍♀️",
-      "keywords": "🙅🏾‍♀️ E4.0 woman gesturing NO: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙅🏿‍♀️",
-      "keywords": "🙅🏿‍♀️ E4.0 woman gesturing NO: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆",
-      "keywords": "OK手势",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏻",
-      "keywords": "🙆🏻 E1.0 person gesturing OK: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏼",
-      "keywords": "🙆🏼 E1.0 person gesturing OK: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏽",
-      "keywords": "🙆🏽 E1.0 person gesturing OK: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏾",
-      "keywords": "🙆🏾 E1.0 person gesturing OK: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏿",
-      "keywords": "🙆🏿 E1.0 person gesturing OK: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆‍♂️",
-      "keywords": "🙆‍♂️ E4.0 man gesturing OK",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏻‍♂️",
-      "keywords": "🙆🏻‍♂️ E4.0 man gesturing OK: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏼‍♂️",
-      "keywords": "🙆🏼‍♂️ E4.0 man gesturing OK: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏽‍♂️",
-      "keywords": "🙆🏽‍♂️ E4.0 man gesturing OK: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏾‍♂️",
-      "keywords": "🙆🏾‍♂️ E4.0 man gesturing OK: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏿‍♂️",
-      "keywords": "🙆🏿‍♂️ E4.0 man gesturing OK: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆‍♀️",
-      "keywords": "🙆‍♀️ E4.0 woman gesturing OK",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏻‍♀️",
-      "keywords": "🙆🏻‍♀️ E4.0 woman gesturing OK: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏼‍♀️",
-      "keywords": "🙆🏼‍♀️ E4.0 woman gesturing OK: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏽‍♀️",
-      "keywords": "🙆🏽‍♀️ E4.0 woman gesturing OK: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏾‍♀️",
-      "keywords": "🙆🏾‍♀️ E4.0 woman gesturing OK: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙆🏿‍♀️",
-      "keywords": "🙆🏿‍♀️ E4.0 woman gesturing OK: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4421,103 +4421,103 @@ const emojiData = {
     },
     {
       "emoji": "💁🏻",
-      "keywords": "💁🏻 E1.0 person tipping hand: light skin tone",
+      "keywords": "人 伸手: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏼",
-      "keywords": "💁🏼 E1.0 person tipping hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏽",
-      "keywords": "💁🏽 E1.0 person tipping hand: medium skin tone",
+      "keywords": "人 伸手: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏾",
-      "keywords": "💁🏾 E1.0 person tipping hand: medium-dark skin tone",
+      "keywords": "人 伸手: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏿",
-      "keywords": "💁🏿 E1.0 person tipping hand: dark skin tone",
+      "keywords": "人 伸手: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁‍♂️",
-      "keywords": "💁‍♂️ E4.0 man tipping hand",
+      "keywords": "💁‍♂️ 男性 伸手",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏻‍♂️",
-      "keywords": "💁🏻‍♂️ E4.0 man tipping hand: light skin tone",
+      "keywords": "男性 伸手: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏼‍♂️",
-      "keywords": "💁🏼‍♂️ E4.0 man tipping hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏽‍♂️",
-      "keywords": "💁🏽‍♂️ E4.0 man tipping hand: medium skin tone",
+      "keywords": "男性 伸手: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏾‍♂️",
-      "keywords": "💁🏾‍♂️ E4.0 man tipping hand: medium-dark skin tone",
+      "keywords": "男性 伸手: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏿‍♂️",
-      "keywords": "💁🏿‍♂️ E4.0 man tipping hand: dark skin tone",
+      "keywords": "男性 伸手: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁‍♀️",
-      "keywords": "💁‍♀️ E4.0 woman tipping hand",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏻‍♀️",
-      "keywords": "💁🏻‍♀️ E4.0 woman tipping hand: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏼‍♀️",
-      "keywords": "💁🏼‍♀️ E4.0 woman tipping hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏽‍♀️",
-      "keywords": "💁🏽‍♀️ E4.0 woman tipping hand: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏾‍♀️",
-      "keywords": "💁🏾‍♀️ E4.0 woman tipping hand: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "💁🏿‍♀️",
-      "keywords": "💁🏿‍♀️ E4.0 woman tipping hand: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4529,103 +4529,103 @@ const emojiData = {
     },
     {
       "emoji": "🙋🏻",
-      "keywords": "🙋🏻 E1.0 person raising hand: light skin tone",
+      "keywords": "人 举手: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏼",
-      "keywords": "🙋🏼 E1.0 person raising hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏽",
-      "keywords": "🙋🏽 E1.0 person raising hand: medium skin tone",
+      "keywords": "人 举手: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏾",
-      "keywords": "🙋🏾 E1.0 person raising hand: medium-dark skin tone",
+      "keywords": "人 举手: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏿",
-      "keywords": "🙋🏿 E1.0 person raising hand: dark skin tone",
+      "keywords": "人 举手: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋‍♂️",
-      "keywords": "🙋‍♂️ E4.0 man raising hand",
+      "keywords": "🙋‍♂️ 男性 举手",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏻‍♂️",
-      "keywords": "🙋🏻‍♂️ E4.0 man raising hand: light skin tone",
+      "keywords": "男性 举手: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏼‍♂️",
-      "keywords": "🙋🏼‍♂️ E4.0 man raising hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏽‍♂️",
-      "keywords": "🙋🏽‍♂️ E4.0 man raising hand: medium skin tone",
+      "keywords": "男性 举手: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏾‍♂️",
-      "keywords": "🙋🏾‍♂️ E4.0 man raising hand: medium-dark skin tone",
+      "keywords": "男性 举手: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏿‍♂️",
-      "keywords": "🙋🏿‍♂️ E4.0 man raising hand: dark skin tone",
+      "keywords": "男性 举手: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋‍♀️",
-      "keywords": "🙋‍♀️ E4.0 woman raising hand",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏻‍♀️",
-      "keywords": "🙋🏻‍♀️ E4.0 woman raising hand: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏼‍♀️",
-      "keywords": "🙋🏼‍♀️ E4.0 woman raising hand: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏽‍♀️",
-      "keywords": "🙋🏽‍♀️ E4.0 woman raising hand: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏾‍♀️",
-      "keywords": "🙋🏾‍♀️ E4.0 woman raising hand: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙋🏿‍♀️",
-      "keywords": "🙋🏿‍♀️ E4.0 woman raising hand: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4637,103 +4637,103 @@ const emojiData = {
     },
     {
       "emoji": "🧏🏻",
-      "keywords": "🧏🏻 E12.0 deaf person: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏼",
-      "keywords": "🧏🏼 E12.0 deaf person: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏽",
-      "keywords": "🧏🏽 E12.0 deaf person: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏾",
-      "keywords": "🧏🏾 E12.0 deaf person: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏿",
-      "keywords": "🧏🏿 E12.0 deaf person: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏‍♂️",
-      "keywords": "🧏‍♂️ E12.0 deaf man",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏻‍♂️",
-      "keywords": "🧏🏻‍♂️ E12.0 deaf man: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏼‍♂️",
-      "keywords": "🧏🏼‍♂️ E12.0 deaf man: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏽‍♂️",
-      "keywords": "🧏🏽‍♂️ E12.0 deaf man: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏾‍♂️",
-      "keywords": "🧏🏾‍♂️ E12.0 deaf man: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏿‍♂️",
-      "keywords": "🧏🏿‍♂️ E12.0 deaf man: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏‍♀️",
-      "keywords": "🧏‍♀️ E12.0 deaf woman",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏻‍♀️",
-      "keywords": "🧏🏻‍♀️ E12.0 deaf woman: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏼‍♀️",
-      "keywords": "🧏🏼‍♀️ E12.0 deaf woman: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏽‍♀️",
-      "keywords": "🧏🏽‍♀️ E12.0 deaf woman: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏾‍♀️",
-      "keywords": "🧏🏾‍♀️ E12.0 deaf woman: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧏🏿‍♀️",
-      "keywords": "🧏🏿‍♀️ E12.0 deaf woman: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4745,103 +4745,103 @@ const emojiData = {
     },
     {
       "emoji": "🙇🏻",
-      "keywords": "🙇🏻 E1.0 person bowing: light skin tone",
+      "keywords": "人 鞠躬: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏼",
-      "keywords": "🙇🏼 E1.0 person bowing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏽",
-      "keywords": "🙇🏽 E1.0 person bowing: medium skin tone",
+      "keywords": "人 鞠躬: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏾",
-      "keywords": "🙇🏾 E1.0 person bowing: medium-dark skin tone",
+      "keywords": "人 鞠躬: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏿",
-      "keywords": "🙇🏿 E1.0 person bowing: dark skin tone",
+      "keywords": "人 鞠躬: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇‍♂️",
-      "keywords": "🙇‍♂️ E4.0 man bowing",
+      "keywords": "🙇‍♂️ 男性 鞠躬",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏻‍♂️",
-      "keywords": "🙇🏻‍♂️ E4.0 man bowing: light skin tone",
+      "keywords": "男性 鞠躬: 浅肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏼‍♂️",
-      "keywords": "🙇🏼‍♂️ E4.0 man bowing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏽‍♂️",
-      "keywords": "🙇🏽‍♂️ E4.0 man bowing: medium skin tone",
+      "keywords": "男性 鞠躬: 中等肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏾‍♂️",
-      "keywords": "🙇🏾‍♂️ E4.0 man bowing: medium-dark skin tone",
+      "keywords": "男性 鞠躬: 中深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏿‍♂️",
-      "keywords": "🙇🏿‍♂️ E4.0 man bowing: dark skin tone",
+      "keywords": "男性 鞠躬: 深肤色",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇‍♀️",
-      "keywords": "🙇‍♀️ E4.0 woman bowing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏻‍♀️",
-      "keywords": "🙇🏻‍♀️ E4.0 woman bowing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏼‍♀️",
-      "keywords": "🙇🏼‍♀️ E4.0 woman bowing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏽‍♀️",
-      "keywords": "🙇🏽‍♀️ E4.0 woman bowing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏾‍♀️",
-      "keywords": "🙇🏾‍♀️ E4.0 woman bowing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🙇🏿‍♀️",
-      "keywords": "🙇🏿‍♀️ E4.0 woman bowing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4853,103 +4853,103 @@ const emojiData = {
     },
     {
       "emoji": "🤦🏻",
-      "keywords": "🤦🏻 E3.0 person facepalming: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏼",
-      "keywords": "🤦🏼 E3.0 person facepalming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏽",
-      "keywords": "🤦🏽 E3.0 person facepalming: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏾",
-      "keywords": "🤦🏾 E3.0 person facepalming: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏿",
-      "keywords": "🤦🏿 E3.0 person facepalming: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦‍♂️",
-      "keywords": "🤦‍♂️ E4.0 man facepalming",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏻‍♂️",
-      "keywords": "🤦🏻‍♂️ E4.0 man facepalming: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏼‍♂️",
-      "keywords": "🤦🏼‍♂️ E4.0 man facepalming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏽‍♂️",
-      "keywords": "🤦🏽‍♂️ E4.0 man facepalming: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏾‍♂️",
-      "keywords": "🤦🏾‍♂️ E4.0 man facepalming: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏿‍♂️",
-      "keywords": "🤦🏿‍♂️ E4.0 man facepalming: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦‍♀️",
-      "keywords": "🤦‍♀️ E4.0 woman facepalming",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏻‍♀️",
-      "keywords": "🤦🏻‍♀️ E4.0 woman facepalming: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏼‍♀️",
-      "keywords": "🤦🏼‍♀️ E4.0 woman facepalming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏽‍♀️",
-      "keywords": "🤦🏽‍♀️ E4.0 woman facepalming: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏾‍♀️",
-      "keywords": "🤦🏾‍♀️ E4.0 woman facepalming: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤦🏿‍♀️",
-      "keywords": "🤦🏿‍♀️ E4.0 woman facepalming: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
@@ -4961,211 +4961,211 @@ const emojiData = {
     },
     {
       "emoji": "🤷🏻",
-      "keywords": "🤷🏻 E3.0 person shrugging: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏼",
-      "keywords": "🤷🏼 E3.0 person shrugging: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏽",
-      "keywords": "🤷🏽 E3.0 person shrugging: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏾",
-      "keywords": "🤷🏾 E3.0 person shrugging: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏿",
-      "keywords": "🤷🏿 E3.0 person shrugging: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷‍♂️",
-      "keywords": "🤷‍♂️ E4.0 man shrugging",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏻‍♂️",
-      "keywords": "🤷🏻‍♂️ E4.0 man shrugging: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏼‍♂️",
-      "keywords": "🤷🏼‍♂️ E4.0 man shrugging: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏽‍♂️",
-      "keywords": "🤷🏽‍♂️ E4.0 man shrugging: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏾‍♂️",
-      "keywords": "🤷🏾‍♂️ E4.0 man shrugging: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏿‍♂️",
-      "keywords": "🤷🏿‍♂️ E4.0 man shrugging: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷‍♀️",
-      "keywords": "🤷‍♀️ E4.0 woman shrugging",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏻‍♀️",
-      "keywords": "🤷🏻‍♀️ E4.0 woman shrugging: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏼‍♀️",
-      "keywords": "🤷🏼‍♀️ E4.0 woman shrugging: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏽‍♀️",
-      "keywords": "🤷🏽‍♀️ E4.0 woman shrugging: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏾‍♀️",
-      "keywords": "🤷🏾‍♀️ E4.0 woman shrugging: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🤷🏿‍♀️",
-      "keywords": "🤷🏿‍♀️ E4.0 woman shrugging: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-gesture"
     },
     {
       "emoji": "🧑‍⚕️",
-      "keywords": "🧑‍⚕️ E12.1 health worker",
+      "keywords": "医护人员",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏻‍⚕️",
-      "keywords": "🧑🏻‍⚕️ E12.1 health worker: light skin tone",
+      "keywords": "医护人员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍⚕️",
-      "keywords": "🧑🏼‍⚕️ E12.1 health worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍⚕️",
-      "keywords": "🧑🏽‍⚕️ E12.1 health worker: medium skin tone",
+      "keywords": "医护人员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍⚕️",
-      "keywords": "🧑🏾‍⚕️ E12.1 health worker: medium-dark skin tone",
+      "keywords": "医护人员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍⚕️",
-      "keywords": "🧑🏿‍⚕️ E12.1 health worker: dark skin tone",
+      "keywords": "医护人员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨‍⚕️",
-      "keywords": "👨‍⚕️ E4.0 man health worker",
+      "keywords": "男性 医护人员",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏻‍⚕️",
-      "keywords": "👨🏻‍⚕️ E4.0 man health worker: light skin tone",
+      "keywords": "男性 医护人员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍⚕️",
-      "keywords": "👨🏼‍⚕️ E4.0 man health worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍⚕️",
-      "keywords": "👨🏽‍⚕️ E4.0 man health worker: medium skin tone",
+      "keywords": "男性 医护人员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍⚕️",
-      "keywords": "👨🏾‍⚕️ E4.0 man health worker: medium-dark skin tone",
+      "keywords": "男性 医护人员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍⚕️",
-      "keywords": "👨🏿‍⚕️ E4.0 man health worker: dark skin tone",
+      "keywords": "男性 医护人员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩‍⚕️",
-      "keywords": "👩‍⚕️ E4.0 woman health worker",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏻‍⚕️",
-      "keywords": "👩🏻‍⚕️ E4.0 woman health worker: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍⚕️",
-      "keywords": "👩🏼‍⚕️ E4.0 woman health worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍⚕️",
-      "keywords": "👩🏽‍⚕️ E4.0 woman health worker: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍⚕️",
-      "keywords": "👩🏾‍⚕️ E4.0 woman health worker: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍⚕️",
-      "keywords": "👩🏿‍⚕️ E4.0 woman health worker: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5177,31 +5177,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🎓",
-      "keywords": "🧑🏻‍🎓 E12.1 student: light skin tone",
+      "keywords": "学生: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🎓",
-      "keywords": "🧑🏼‍🎓 E12.1 student: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🎓",
-      "keywords": "🧑🏽‍🎓 E12.1 student: medium skin tone",
+      "keywords": "学生: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🎓",
-      "keywords": "🧑🏾‍🎓 E12.1 student: medium-dark skin tone",
+      "keywords": "学生: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🎓",
-      "keywords": "🧑🏿‍🎓 E12.1 student: dark skin tone",
+      "keywords": "学生: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5213,31 +5213,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🎓",
-      "keywords": "👨🏻‍🎓 E4.0 man student: light skin tone",
+      "keywords": "男性 学生: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🎓",
-      "keywords": "👨🏼‍🎓 E4.0 man student: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🎓",
-      "keywords": "👨🏽‍🎓 E4.0 man student: medium skin tone",
+      "keywords": "男性 学生: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🎓",
-      "keywords": "👨🏾‍🎓 E4.0 man student: medium-dark skin tone",
+      "keywords": "男性 学生: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🎓",
-      "keywords": "👨🏿‍🎓 E4.0 man student: dark skin tone",
+      "keywords": "男性 学生: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5249,31 +5249,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🎓",
-      "keywords": "👩🏻‍🎓 E4.0 woman student: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🎓",
-      "keywords": "👩🏼‍🎓 E4.0 woman student: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🎓",
-      "keywords": "👩🏽‍🎓 E4.0 woman student: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🎓",
-      "keywords": "👩🏾‍🎓 E4.0 woman student: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🎓",
-      "keywords": "👩🏿‍🎓 E4.0 woman student: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5285,31 +5285,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🏫",
-      "keywords": "🧑🏻‍🏫 E12.1 teacher: light skin tone",
+      "keywords": "老师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🏫",
-      "keywords": "🧑🏼‍🏫 E12.1 teacher: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🏫",
-      "keywords": "🧑🏽‍🏫 E12.1 teacher: medium skin tone",
+      "keywords": "老师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🏫",
-      "keywords": "🧑🏾‍🏫 E12.1 teacher: medium-dark skin tone",
+      "keywords": "老师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🏫",
-      "keywords": "🧑🏿‍🏫 E12.1 teacher: dark skin tone",
+      "keywords": "老师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5321,31 +5321,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🏫",
-      "keywords": "👨🏻‍🏫 E4.0 man teacher: light skin tone",
+      "keywords": "男性 老师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🏫",
-      "keywords": "👨🏼‍🏫 E4.0 man teacher: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🏫",
-      "keywords": "👨🏽‍🏫 E4.0 man teacher: medium skin tone",
+      "keywords": "男性 老师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🏫",
-      "keywords": "👨🏾‍🏫 E4.0 man teacher: medium-dark skin tone",
+      "keywords": "男性 老师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🏫",
-      "keywords": "👨🏿‍🏫 E4.0 man teacher: dark skin tone",
+      "keywords": "男性 老师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5357,139 +5357,139 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🏫",
-      "keywords": "👩🏻‍🏫 E4.0 woman teacher: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🏫",
-      "keywords": "👩🏼‍🏫 E4.0 woman teacher: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🏫",
-      "keywords": "👩🏽‍🏫 E4.0 woman teacher: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🏫",
-      "keywords": "👩🏾‍🏫 E4.0 woman teacher: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🏫",
-      "keywords": "👩🏿‍🏫 E4.0 woman teacher: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑‍⚖️",
-      "keywords": "🧑‍⚖️ E12.1 judge",
+      "keywords": "法官",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏻‍⚖️",
-      "keywords": "🧑🏻‍⚖️ E12.1 judge: light skin tone",
+      "keywords": "法官: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍⚖️",
-      "keywords": "🧑🏼‍⚖️ E12.1 judge: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍⚖️",
-      "keywords": "🧑🏽‍⚖️ E12.1 judge: medium skin tone",
+      "keywords": "法官: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍⚖️",
-      "keywords": "🧑🏾‍⚖️ E12.1 judge: medium-dark skin tone",
+      "keywords": "法官: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍⚖️",
-      "keywords": "🧑🏿‍⚖️ E12.1 judge: dark skin tone",
+      "keywords": "法官: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨‍⚖️",
-      "keywords": "👨‍⚖️ E4.0 man judge",
+      "keywords": "男性 法官",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏻‍⚖️",
-      "keywords": "👨🏻‍⚖️ E4.0 man judge: light skin tone",
+      "keywords": "男性 法官: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍⚖️",
-      "keywords": "👨🏼‍⚖️ E4.0 man judge: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍⚖️",
-      "keywords": "👨🏽‍⚖️ E4.0 man judge: medium skin tone",
+      "keywords": "男性 法官: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍⚖️",
-      "keywords": "👨🏾‍⚖️ E4.0 man judge: medium-dark skin tone",
+      "keywords": "男性 法官: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍⚖️",
-      "keywords": "👨🏿‍⚖️ E4.0 man judge: dark skin tone",
+      "keywords": "男性 法官: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩‍⚖️",
-      "keywords": "👩‍⚖️ E4.0 woman judge",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏻‍⚖️",
-      "keywords": "👩🏻‍⚖️ E4.0 woman judge: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍⚖️",
-      "keywords": "👩🏼‍⚖️ E4.0 woman judge: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍⚖️",
-      "keywords": "👩🏽‍⚖️ E4.0 woman judge: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍⚖️",
-      "keywords": "👩🏾‍⚖️ E4.0 woman judge: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍⚖️",
-      "keywords": "👩🏿‍⚖️ E4.0 woman judge: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5501,31 +5501,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🌾",
-      "keywords": "🧑🏻‍🌾 E12.1 farmer: light skin tone",
+      "keywords": "农民: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🌾",
-      "keywords": "🧑🏼‍🌾 E12.1 farmer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🌾",
-      "keywords": "🧑🏽‍🌾 E12.1 farmer: medium skin tone",
+      "keywords": "农民: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🌾",
-      "keywords": "🧑🏾‍🌾 E12.1 farmer: medium-dark skin tone",
+      "keywords": "农民: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🌾",
-      "keywords": "🧑🏿‍🌾 E12.1 farmer: dark skin tone",
+      "keywords": "农民: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5537,31 +5537,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🌾",
-      "keywords": "👨🏻‍🌾 E4.0 man farmer: light skin tone",
+      "keywords": "男性 农民: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🌾",
-      "keywords": "👨🏼‍🌾 E4.0 man farmer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🌾",
-      "keywords": "👨🏽‍🌾 E4.0 man farmer: medium skin tone",
+      "keywords": "男性 农民: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🌾",
-      "keywords": "👨🏾‍🌾 E4.0 man farmer: medium-dark skin tone",
+      "keywords": "男性 农民: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🌾",
-      "keywords": "👨🏿‍🌾 E4.0 man farmer: dark skin tone",
+      "keywords": "男性 农民: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5573,31 +5573,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🌾",
-      "keywords": "👩🏻‍🌾 E4.0 woman farmer: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🌾",
-      "keywords": "👩🏼‍🌾 E4.0 woman farmer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🌾",
-      "keywords": "👩🏽‍🌾 E4.0 woman farmer: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🌾",
-      "keywords": "👩🏾‍🌾 E4.0 woman farmer: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🌾",
-      "keywords": "👩🏿‍🌾 E4.0 woman farmer: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5609,31 +5609,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🍳",
-      "keywords": "🧑🏻‍🍳 E12.1 cook: light skin tone",
+      "keywords": "厨师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🍳",
-      "keywords": "🧑🏼‍🍳 E12.1 cook: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🍳",
-      "keywords": "🧑🏽‍🍳 E12.1 cook: medium skin tone",
+      "keywords": "厨师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🍳",
-      "keywords": "🧑🏾‍🍳 E12.1 cook: medium-dark skin tone",
+      "keywords": "厨师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🍳",
-      "keywords": "🧑🏿‍🍳 E12.1 cook: dark skin tone",
+      "keywords": "厨师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5645,31 +5645,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🍳",
-      "keywords": "👨🏻‍🍳 E4.0 man cook: light skin tone",
+      "keywords": "男性 厨师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🍳",
-      "keywords": "👨🏼‍🍳 E4.0 man cook: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🍳",
-      "keywords": "👨🏽‍🍳 E4.0 man cook: medium skin tone",
+      "keywords": "男性 厨师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🍳",
-      "keywords": "👨🏾‍🍳 E4.0 man cook: medium-dark skin tone",
+      "keywords": "男性 厨师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🍳",
-      "keywords": "👨🏿‍🍳 E4.0 man cook: dark skin tone",
+      "keywords": "男性 厨师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5681,31 +5681,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🍳",
-      "keywords": "👩🏻‍🍳 E4.0 woman cook: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🍳",
-      "keywords": "👩🏼‍🍳 E4.0 woman cook: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🍳",
-      "keywords": "👩🏽‍🍳 E4.0 woman cook: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🍳",
-      "keywords": "👩🏾‍🍳 E4.0 woman cook: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🍳",
-      "keywords": "👩🏿‍🍳 E4.0 woman cook: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5717,31 +5717,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🔧",
-      "keywords": "🧑🏻‍🔧 E12.1 mechanic: light skin tone",
+      "keywords": "机械师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🔧",
-      "keywords": "🧑🏼‍🔧 E12.1 mechanic: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🔧",
-      "keywords": "🧑🏽‍🔧 E12.1 mechanic: medium skin tone",
+      "keywords": "机械师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🔧",
-      "keywords": "🧑🏾‍🔧 E12.1 mechanic: medium-dark skin tone",
+      "keywords": "机械师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🔧",
-      "keywords": "🧑🏿‍🔧 E12.1 mechanic: dark skin tone",
+      "keywords": "机械师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5753,31 +5753,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🔧",
-      "keywords": "👨🏻‍🔧 E4.0 man mechanic: light skin tone",
+      "keywords": "男性 机械师: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🔧",
-      "keywords": "👨🏼‍🔧 E4.0 man mechanic: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🔧",
-      "keywords": "👨🏽‍🔧 E4.0 man mechanic: medium skin tone",
+      "keywords": "男性 机械师: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🔧",
-      "keywords": "👨🏾‍🔧 E4.0 man mechanic: medium-dark skin tone",
+      "keywords": "男性 机械师: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🔧",
-      "keywords": "👨🏿‍🔧 E4.0 man mechanic: dark skin tone",
+      "keywords": "男性 机械师: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5789,31 +5789,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🔧",
-      "keywords": "👩🏻‍🔧 E4.0 woman mechanic: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🔧",
-      "keywords": "👩🏼‍🔧 E4.0 woman mechanic: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🔧",
-      "keywords": "👩🏽‍🔧 E4.0 woman mechanic: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🔧",
-      "keywords": "👩🏾‍🔧 E4.0 woman mechanic: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🔧",
-      "keywords": "👩🏿‍🔧 E4.0 woman mechanic: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5825,31 +5825,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🏭",
-      "keywords": "🧑🏻‍🏭 E12.1 factory worker: light skin tone",
+      "keywords": "工厂工人: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🏭",
-      "keywords": "🧑🏼‍🏭 E12.1 factory worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🏭",
-      "keywords": "🧑🏽‍🏭 E12.1 factory worker: medium skin tone",
+      "keywords": "工厂工人: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🏭",
-      "keywords": "🧑🏾‍🏭 E12.1 factory worker: medium-dark skin tone",
+      "keywords": "工厂工人: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🏭",
-      "keywords": "🧑🏿‍🏭 E12.1 factory worker: dark skin tone",
+      "keywords": "工厂工人: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5861,31 +5861,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🏭",
-      "keywords": "👨🏻‍🏭 E4.0 man factory worker: light skin tone",
+      "keywords": "男性 工厂工人: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🏭",
-      "keywords": "👨🏼‍🏭 E4.0 man factory worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🏭",
-      "keywords": "👨🏽‍🏭 E4.0 man factory worker: medium skin tone",
+      "keywords": "男性 工厂工人: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🏭",
-      "keywords": "👨🏾‍🏭 E4.0 man factory worker: medium-dark skin tone",
+      "keywords": "男性 工厂工人: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🏭",
-      "keywords": "👨🏿‍🏭 E4.0 man factory worker: dark skin tone",
+      "keywords": "男性 工厂工人: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5897,31 +5897,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🏭",
-      "keywords": "👩🏻‍🏭 E4.0 woman factory worker: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🏭",
-      "keywords": "👩🏼‍🏭 E4.0 woman factory worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🏭",
-      "keywords": "👩🏽‍🏭 E4.0 woman factory worker: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🏭",
-      "keywords": "👩🏾‍🏭 E4.0 woman factory worker: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🏭",
-      "keywords": "👩🏿‍🏭 E4.0 woman factory worker: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5933,31 +5933,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍💼",
-      "keywords": "🧑🏻‍💼 E12.1 office worker: light skin tone",
+      "keywords": "办公室职员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍💼",
-      "keywords": "🧑🏼‍💼 E12.1 office worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍💼",
-      "keywords": "🧑🏽‍💼 E12.1 office worker: medium skin tone",
+      "keywords": "办公室职员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍💼",
-      "keywords": "🧑🏾‍💼 E12.1 office worker: medium-dark skin tone",
+      "keywords": "办公室职员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍💼",
-      "keywords": "🧑🏿‍💼 E12.1 office worker: dark skin tone",
+      "keywords": "办公室职员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -5969,31 +5969,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍💼",
-      "keywords": "👨🏻‍💼 E4.0 man office worker: light skin tone",
+      "keywords": "男性 办公室职员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍💼",
-      "keywords": "👨🏼‍💼 E4.0 man office worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍💼",
-      "keywords": "👨🏽‍💼 E4.0 man office worker: medium skin tone",
+      "keywords": "男性 办公室职员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍💼",
-      "keywords": "👨🏾‍💼 E4.0 man office worker: medium-dark skin tone",
+      "keywords": "男性 办公室职员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍💼",
-      "keywords": "👨🏿‍💼 E4.0 man office worker: dark skin tone",
+      "keywords": "男性 办公室职员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6005,31 +6005,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍💼",
-      "keywords": "👩🏻‍💼 E4.0 woman office worker: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍💼",
-      "keywords": "👩🏼‍💼 E4.0 woman office worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍💼",
-      "keywords": "👩🏽‍💼 E4.0 woman office worker: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍💼",
-      "keywords": "👩🏾‍💼 E4.0 woman office worker: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍💼",
-      "keywords": "👩🏿‍💼 E4.0 woman office worker: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6041,31 +6041,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🔬",
-      "keywords": "🧑🏻‍🔬 E12.1 scientist: light skin tone",
+      "keywords": "科学家: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🔬",
-      "keywords": "🧑🏼‍🔬 E12.1 scientist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🔬",
-      "keywords": "🧑🏽‍🔬 E12.1 scientist: medium skin tone",
+      "keywords": "科学家: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🔬",
-      "keywords": "🧑🏾‍🔬 E12.1 scientist: medium-dark skin tone",
+      "keywords": "科学家: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🔬",
-      "keywords": "🧑🏿‍🔬 E12.1 scientist: dark skin tone",
+      "keywords": "科学家: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6077,31 +6077,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🔬",
-      "keywords": "👨🏻‍🔬 E4.0 man scientist: light skin tone",
+      "keywords": "男性 科学家: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🔬",
-      "keywords": "👨🏼‍🔬 E4.0 man scientist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🔬",
-      "keywords": "👨🏽‍🔬 E4.0 man scientist: medium skin tone",
+      "keywords": "男性 科学家: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🔬",
-      "keywords": "👨🏾‍🔬 E4.0 man scientist: medium-dark skin tone",
+      "keywords": "男性 科学家: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🔬",
-      "keywords": "👨🏿‍🔬 E4.0 man scientist: dark skin tone",
+      "keywords": "男性 科学家: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6113,31 +6113,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🔬",
-      "keywords": "👩🏻‍🔬 E4.0 woman scientist: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🔬",
-      "keywords": "👩🏼‍🔬 E4.0 woman scientist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🔬",
-      "keywords": "👩🏽‍🔬 E4.0 woman scientist: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🔬",
-      "keywords": "👩🏾‍🔬 E4.0 woman scientist: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🔬",
-      "keywords": "👩🏿‍🔬 E4.0 woman scientist: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6149,31 +6149,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍💻",
-      "keywords": "🧑🏻‍💻 E12.1 technologist: light skin tone",
+      "keywords": "技术人员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍💻",
-      "keywords": "🧑🏼‍💻 E12.1 technologist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍💻",
-      "keywords": "🧑🏽‍💻 E12.1 technologist: medium skin tone",
+      "keywords": "技术人员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍💻",
-      "keywords": "🧑🏾‍💻 E12.1 technologist: medium-dark skin tone",
+      "keywords": "技术人员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍💻",
-      "keywords": "🧑🏿‍💻 E12.1 technologist: dark skin tone",
+      "keywords": "技术人员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6185,31 +6185,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍💻",
-      "keywords": "👨🏻‍💻 E4.0 man technologist: light skin tone",
+      "keywords": "男性 技术人员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍💻",
-      "keywords": "👨🏼‍💻 E4.0 man technologist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍💻",
-      "keywords": "👨🏽‍💻 E4.0 man technologist: medium skin tone",
+      "keywords": "男性 技术人员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍💻",
-      "keywords": "👨🏾‍💻 E4.0 man technologist: medium-dark skin tone",
+      "keywords": "男性 技术人员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍💻",
-      "keywords": "👨🏿‍💻 E4.0 man technologist: dark skin tone",
+      "keywords": "男性 技术人员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6221,31 +6221,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍💻",
-      "keywords": "👩🏻‍💻 E4.0 woman technologist: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍💻",
-      "keywords": "👩🏼‍💻 E4.0 woman technologist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍💻",
-      "keywords": "👩🏽‍💻 E4.0 woman technologist: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍💻",
-      "keywords": "👩🏾‍💻 E4.0 woman technologist: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍💻",
-      "keywords": "👩🏿‍💻 E4.0 woman technologist: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6257,31 +6257,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🎤",
-      "keywords": "🧑🏻‍🎤 E12.1 singer: light skin tone",
+      "keywords": "歌手: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🎤",
-      "keywords": "🧑🏼‍🎤 E12.1 singer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🎤",
-      "keywords": "🧑🏽‍🎤 E12.1 singer: medium skin tone",
+      "keywords": "歌手: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🎤",
-      "keywords": "🧑🏾‍🎤 E12.1 singer: medium-dark skin tone",
+      "keywords": "歌手: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🎤",
-      "keywords": "🧑🏿‍🎤 E12.1 singer: dark skin tone",
+      "keywords": "歌手: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6293,31 +6293,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🎤",
-      "keywords": "👨🏻‍🎤 E4.0 man singer: light skin tone",
+      "keywords": "男性 歌手: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🎤",
-      "keywords": "👨🏼‍🎤 E4.0 man singer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🎤",
-      "keywords": "👨🏽‍🎤 E4.0 man singer: medium skin tone",
+      "keywords": "男性 歌手: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🎤",
-      "keywords": "👨🏾‍🎤 E4.0 man singer: medium-dark skin tone",
+      "keywords": "男性 歌手: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🎤",
-      "keywords": "👨🏿‍🎤 E4.0 man singer: dark skin tone",
+      "keywords": "男性 歌手: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6329,31 +6329,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🎤",
-      "keywords": "👩🏻‍🎤 E4.0 woman singer: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🎤",
-      "keywords": "👩🏼‍🎤 E4.0 woman singer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🎤",
-      "keywords": "👩🏽‍🎤 E4.0 woman singer: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🎤",
-      "keywords": "👩🏾‍🎤 E4.0 woman singer: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🎤",
-      "keywords": "👩🏿‍🎤 E4.0 woman singer: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6365,31 +6365,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🎨",
-      "keywords": "🧑🏻‍🎨 E12.1 artist: light skin tone",
+      "keywords": "艺术家: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🎨",
-      "keywords": "🧑🏼‍🎨 E12.1 artist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🎨",
-      "keywords": "🧑🏽‍🎨 E12.1 artist: medium skin tone",
+      "keywords": "艺术家: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🎨",
-      "keywords": "🧑🏾‍🎨 E12.1 artist: medium-dark skin tone",
+      "keywords": "艺术家: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🎨",
-      "keywords": "🧑🏿‍🎨 E12.1 artist: dark skin tone",
+      "keywords": "艺术家: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6401,31 +6401,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🎨",
-      "keywords": "👨🏻‍🎨 E4.0 man artist: light skin tone",
+      "keywords": "男性 艺术家: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🎨",
-      "keywords": "👨🏼‍🎨 E4.0 man artist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🎨",
-      "keywords": "👨🏽‍🎨 E4.0 man artist: medium skin tone",
+      "keywords": "男性 艺术家: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🎨",
-      "keywords": "👨🏾‍🎨 E4.0 man artist: medium-dark skin tone",
+      "keywords": "男性 艺术家: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🎨",
-      "keywords": "👨🏿‍🎨 E4.0 man artist: dark skin tone",
+      "keywords": "男性 艺术家: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6437,139 +6437,139 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🎨",
-      "keywords": "👩🏻‍🎨 E4.0 woman artist: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🎨",
-      "keywords": "👩🏼‍🎨 E4.0 woman artist: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🎨",
-      "keywords": "👩🏽‍🎨 E4.0 woman artist: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🎨",
-      "keywords": "👩🏾‍🎨 E4.0 woman artist: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🎨",
-      "keywords": "👩🏿‍🎨 E4.0 woman artist: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑‍✈️",
-      "keywords": "🧑‍✈️ E12.1 pilot",
+      "keywords": "飞行员",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏻‍✈️",
-      "keywords": "🧑🏻‍✈️ E12.1 pilot: light skin tone",
+      "keywords": "飞行员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍✈️",
-      "keywords": "🧑🏼‍✈️ E12.1 pilot: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍✈️",
-      "keywords": "🧑🏽‍✈️ E12.1 pilot: medium skin tone",
+      "keywords": "飞行员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍✈️",
-      "keywords": "🧑🏾‍✈️ E12.1 pilot: medium-dark skin tone",
+      "keywords": "飞行员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍✈️",
-      "keywords": "🧑🏿‍✈️ E12.1 pilot: dark skin tone",
+      "keywords": "飞行员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨‍✈️",
-      "keywords": "👨‍✈️ E4.0 man pilot",
+      "keywords": "男性 飞行员",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏻‍✈️",
-      "keywords": "👨🏻‍✈️ E4.0 man pilot: light skin tone",
+      "keywords": "男性 飞行员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍✈️",
-      "keywords": "👨🏼‍✈️ E4.0 man pilot: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍✈️",
-      "keywords": "👨🏽‍✈️ E4.0 man pilot: medium skin tone",
+      "keywords": "男性 飞行员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍✈️",
-      "keywords": "👨🏾‍✈️ E4.0 man pilot: medium-dark skin tone",
+      "keywords": "男性 飞行员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍✈️",
-      "keywords": "👨🏿‍✈️ E4.0 man pilot: dark skin tone",
+      "keywords": "男性 飞行员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩‍✈️",
-      "keywords": "👩‍✈️ E4.0 woman pilot",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏻‍✈️",
-      "keywords": "👩🏻‍✈️ E4.0 woman pilot: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍✈️",
-      "keywords": "👩🏼‍✈️ E4.0 woman pilot: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍✈️",
-      "keywords": "👩🏽‍✈️ E4.0 woman pilot: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍✈️",
-      "keywords": "👩🏾‍✈️ E4.0 woman pilot: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍✈️",
-      "keywords": "👩🏿‍✈️ E4.0 woman pilot: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6581,31 +6581,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🚀",
-      "keywords": "🧑🏻‍🚀 E12.1 astronaut: light skin tone",
+      "keywords": "宇航员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🚀",
-      "keywords": "🧑🏼‍🚀 E12.1 astronaut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🚀",
-      "keywords": "🧑🏽‍🚀 E12.1 astronaut: medium skin tone",
+      "keywords": "宇航员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🚀",
-      "keywords": "🧑🏾‍🚀 E12.1 astronaut: medium-dark skin tone",
+      "keywords": "宇航员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🚀",
-      "keywords": "🧑🏿‍🚀 E12.1 astronaut: dark skin tone",
+      "keywords": "宇航员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6617,31 +6617,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🚀",
-      "keywords": "👨🏻‍🚀 E4.0 man astronaut: light skin tone",
+      "keywords": "男性 宇航员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🚀",
-      "keywords": "👨🏼‍🚀 E4.0 man astronaut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🚀",
-      "keywords": "👨🏽‍🚀 E4.0 man astronaut: medium skin tone",
+      "keywords": "男性 宇航员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🚀",
-      "keywords": "👨🏾‍🚀 E4.0 man astronaut: medium-dark skin tone",
+      "keywords": "男性 宇航员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🚀",
-      "keywords": "👨🏿‍🚀 E4.0 man astronaut: dark skin tone",
+      "keywords": "男性 宇航员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6653,31 +6653,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🚀",
-      "keywords": "👩🏻‍🚀 E4.0 woman astronaut: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🚀",
-      "keywords": "👩🏼‍🚀 E4.0 woman astronaut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🚀",
-      "keywords": "👩🏽‍🚀 E4.0 woman astronaut: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🚀",
-      "keywords": "👩🏾‍🚀 E4.0 woman astronaut: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🚀",
-      "keywords": "👩🏿‍🚀 E4.0 woman astronaut: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6689,31 +6689,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🚒",
-      "keywords": "🧑🏻‍🚒 E12.1 firefighter: light skin tone",
+      "keywords": "消防员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🚒",
-      "keywords": "🧑🏼‍🚒 E12.1 firefighter: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🚒",
-      "keywords": "🧑🏽‍🚒 E12.1 firefighter: medium skin tone",
+      "keywords": "消防员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🚒",
-      "keywords": "🧑🏾‍🚒 E12.1 firefighter: medium-dark skin tone",
+      "keywords": "消防员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🚒",
-      "keywords": "🧑🏿‍🚒 E12.1 firefighter: dark skin tone",
+      "keywords": "消防员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6725,31 +6725,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🚒",
-      "keywords": "👨🏻‍🚒 E4.0 man firefighter: light skin tone",
+      "keywords": "男性 消防员: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🚒",
-      "keywords": "👨🏼‍🚒 E4.0 man firefighter: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🚒",
-      "keywords": "👨🏽‍🚒 E4.0 man firefighter: medium skin tone",
+      "keywords": "男性 消防员: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🚒",
-      "keywords": "👨🏾‍🚒 E4.0 man firefighter: medium-dark skin tone",
+      "keywords": "男性 消防员: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🚒",
-      "keywords": "👨🏿‍🚒 E4.0 man firefighter: dark skin tone",
+      "keywords": "男性 消防员: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6761,31 +6761,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🚒",
-      "keywords": "👩🏻‍🚒 E4.0 woman firefighter: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🚒",
-      "keywords": "👩🏼‍🚒 E4.0 woman firefighter: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🚒",
-      "keywords": "👩🏽‍🚒 E4.0 woman firefighter: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🚒",
-      "keywords": "👩🏾‍🚒 E4.0 woman firefighter: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🚒",
-      "keywords": "👩🏿‍🚒 E4.0 woman firefighter: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -6797,211 +6797,211 @@ const emojiData = {
     },
     {
       "emoji": "👮🏻",
-      "keywords": "👮🏻 E1.0 police officer: light skin tone",
+      "keywords": "警察: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏼",
-      "keywords": "👮🏼 E1.0 police officer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏽",
-      "keywords": "👮🏽 E1.0 police officer: medium skin tone",
+      "keywords": "警察: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏾",
-      "keywords": "👮🏾 E1.0 police officer: medium-dark skin tone",
+      "keywords": "警察: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏿",
-      "keywords": "👮🏿 E1.0 police officer: dark skin tone",
+      "keywords": "警察: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮‍♂️",
-      "keywords": "👮‍♂️ E4.0 man police officer",
+      "keywords": "👮‍♂️ 男性 警察",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏻‍♂️",
-      "keywords": "👮🏻‍♂️ E4.0 man police officer: light skin tone",
+      "keywords": "男性 警察: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏼‍♂️",
-      "keywords": "👮🏼‍♂️ E4.0 man police officer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏽‍♂️",
-      "keywords": "👮🏽‍♂️ E4.0 man police officer: medium skin tone",
+      "keywords": "男性 警察: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏾‍♂️",
-      "keywords": "👮🏾‍♂️ E4.0 man police officer: medium-dark skin tone",
+      "keywords": "男性 警察: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏿‍♂️",
-      "keywords": "👮🏿‍♂️ E4.0 man police officer: dark skin tone",
+      "keywords": "男性 警察: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮‍♀️",
-      "keywords": "👮‍♀️ E4.0 woman police officer",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏻‍♀️",
-      "keywords": "👮🏻‍♀️ E4.0 woman police officer: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏼‍♀️",
-      "keywords": "👮🏼‍♀️ E4.0 woman police officer: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏽‍♀️",
-      "keywords": "👮🏽‍♀️ E4.0 woman police officer: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏾‍♀️",
-      "keywords": "👮🏾‍♀️ E4.0 woman police officer: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👮🏿‍♀️",
-      "keywords": "👮🏿‍♀️ E4.0 woman police officer: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵️",
-      "keywords": "🕵️ E0.7 detective",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏻",
-      "keywords": "🕵🏻 E2.0 detective: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏼",
-      "keywords": "🕵🏼 E2.0 detective: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏽",
-      "keywords": "🕵🏽 E2.0 detective: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏾",
-      "keywords": "🕵🏾 E2.0 detective: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏿",
-      "keywords": "🕵🏿 E2.0 detective: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵️‍♂️",
-      "keywords": "🕵️‍♂️ E4.0 man detective",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏻‍♂️",
-      "keywords": "🕵🏻‍♂️ E4.0 man detective: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏼‍♂️",
-      "keywords": "🕵🏼‍♂️ E4.0 man detective: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏽‍♂️",
-      "keywords": "🕵🏽‍♂️ E4.0 man detective: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏾‍♂️",
-      "keywords": "🕵🏾‍♂️ E4.0 man detective: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏿‍♂️",
-      "keywords": "🕵🏿‍♂️ E4.0 man detective: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵️‍♀️",
-      "keywords": "🕵️‍♀️ E4.0 woman detective",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏻‍♀️",
-      "keywords": "🕵🏻‍♀️ E4.0 woman detective: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏼‍♀️",
-      "keywords": "🕵🏼‍♀️ E4.0 woman detective: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏽‍♀️",
-      "keywords": "🕵🏽‍♀️ E4.0 woman detective: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏾‍♀️",
-      "keywords": "🕵🏾‍♀️ E4.0 woman detective: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🕵🏿‍♀️",
-      "keywords": "🕵🏿‍♀️ E4.0 woman detective: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7013,103 +7013,103 @@ const emojiData = {
     },
     {
       "emoji": "💂🏻",
-      "keywords": "💂🏻 E1.0 guard: light skin tone",
+      "keywords": "守卫: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏼",
-      "keywords": "💂🏼 E1.0 guard: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏽",
-      "keywords": "💂🏽 E1.0 guard: medium skin tone",
+      "keywords": "守卫: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏾",
-      "keywords": "💂🏾 E1.0 guard: medium-dark skin tone",
+      "keywords": "守卫: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏿",
-      "keywords": "💂🏿 E1.0 guard: dark skin tone",
+      "keywords": "守卫: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂‍♂️",
-      "keywords": "💂‍♂️ E4.0 man guard",
+      "keywords": "💂‍♂️ 男性 守卫",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏻‍♂️",
-      "keywords": "💂🏻‍♂️ E4.0 man guard: light skin tone",
+      "keywords": "男性 守卫: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏼‍♂️",
-      "keywords": "💂🏼‍♂️ E4.0 man guard: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏽‍♂️",
-      "keywords": "💂🏽‍♂️ E4.0 man guard: medium skin tone",
+      "keywords": "男性 守卫: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏾‍♂️",
-      "keywords": "💂🏾‍♂️ E4.0 man guard: medium-dark skin tone",
+      "keywords": "男性 守卫: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏿‍♂️",
-      "keywords": "💂🏿‍♂️ E4.0 man guard: dark skin tone",
+      "keywords": "男性 守卫: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂‍♀️",
-      "keywords": "💂‍♀️ E4.0 woman guard",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏻‍♀️",
-      "keywords": "💂🏻‍♀️ E4.0 woman guard: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏼‍♀️",
-      "keywords": "💂🏼‍♀️ E4.0 woman guard: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏽‍♀️",
-      "keywords": "💂🏽‍♀️ E4.0 woman guard: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏾‍♀️",
-      "keywords": "💂🏾‍♀️ E4.0 woman guard: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "💂🏿‍♀️",
-      "keywords": "💂🏿‍♀️ E4.0 woman guard: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7121,31 +7121,31 @@ const emojiData = {
     },
     {
       "emoji": "🥷🏻",
-      "keywords": "🥷🏻 E13.0 ninja: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🥷🏼",
-      "keywords": "🥷🏼 E13.0 ninja: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🥷🏽",
-      "keywords": "🥷🏽 E13.0 ninja: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🥷🏾",
-      "keywords": "🥷🏾 E13.0 ninja: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🥷🏿",
-      "keywords": "🥷🏿 E13.0 ninja: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7157,103 +7157,103 @@ const emojiData = {
     },
     {
       "emoji": "👷🏻",
-      "keywords": "👷🏻 E1.0 construction worker: light skin tone",
+      "keywords": "建筑工人: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏼",
-      "keywords": "👷🏼 E1.0 construction worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏽",
-      "keywords": "👷🏽 E1.0 construction worker: medium skin tone",
+      "keywords": "建筑工人: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏾",
-      "keywords": "👷🏾 E1.0 construction worker: medium-dark skin tone",
+      "keywords": "建筑工人: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏿",
-      "keywords": "👷🏿 E1.0 construction worker: dark skin tone",
+      "keywords": "建筑工人: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷‍♂️",
-      "keywords": "👷‍♂️ E4.0 man construction worker",
+      "keywords": "👷‍♂️ 男性 建筑工人",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏻‍♂️",
-      "keywords": "👷🏻‍♂️ E4.0 man construction worker: light skin tone",
+      "keywords": "男性 建筑工人: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏼‍♂️",
-      "keywords": "👷🏼‍♂️ E4.0 man construction worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏽‍♂️",
-      "keywords": "👷🏽‍♂️ E4.0 man construction worker: medium skin tone",
+      "keywords": "男性 建筑工人: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏾‍♂️",
-      "keywords": "👷🏾‍♂️ E4.0 man construction worker: medium-dark skin tone",
+      "keywords": "男性 建筑工人: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏿‍♂️",
-      "keywords": "👷🏿‍♂️ E4.0 man construction worker: dark skin tone",
+      "keywords": "男性 建筑工人: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷‍♀️",
-      "keywords": "👷‍♀️ E4.0 woman construction worker",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏻‍♀️",
-      "keywords": "👷🏻‍♀️ E4.0 woman construction worker: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏼‍♀️",
-      "keywords": "👷🏼‍♀️ E4.0 woman construction worker: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏽‍♀️",
-      "keywords": "👷🏽‍♀️ E4.0 woman construction worker: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏾‍♀️",
-      "keywords": "👷🏾‍♀️ E4.0 woman construction worker: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👷🏿‍♀️",
-      "keywords": "👷🏿‍♀️ E4.0 woman construction worker: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7265,31 +7265,31 @@ const emojiData = {
     },
     {
       "emoji": "🫅🏻",
-      "keywords": "🫅🏻 E14.0 person with crown: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫅🏼",
-      "keywords": "🫅🏼 E14.0 person with crown: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫅🏽",
-      "keywords": "🫅🏽 E14.0 person with crown: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫅🏾",
-      "keywords": "🫅🏾 E14.0 person with crown: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫅🏿",
-      "keywords": "🫅🏿 E14.0 person with crown: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7301,31 +7301,31 @@ const emojiData = {
     },
     {
       "emoji": "🤴🏻",
-      "keywords": "🤴🏻 E3.0 prince: light skin tone",
+      "keywords": "王子: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤴🏼",
-      "keywords": "🤴🏼 E3.0 prince: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤴🏽",
-      "keywords": "🤴🏽 E3.0 prince: medium skin tone",
+      "keywords": "王子: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤴🏾",
-      "keywords": "🤴🏾 E3.0 prince: medium-dark skin tone",
+      "keywords": "王子: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤴🏿",
-      "keywords": "🤴🏿 E3.0 prince: dark skin tone",
+      "keywords": "王子: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7337,31 +7337,31 @@ const emojiData = {
     },
     {
       "emoji": "👸🏻",
-      "keywords": "👸🏻 E1.0 princess: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👸🏼",
-      "keywords": "👸🏼 E1.0 princess: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👸🏽",
-      "keywords": "👸🏽 E1.0 princess: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👸🏾",
-      "keywords": "👸🏾 E1.0 princess: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👸🏿",
-      "keywords": "👸🏿 E1.0 princess: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7373,103 +7373,103 @@ const emojiData = {
     },
     {
       "emoji": "👳🏻",
-      "keywords": "👳🏻 E1.0 person wearing turban: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏼",
-      "keywords": "👳🏼 E1.0 person wearing turban: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏽",
-      "keywords": "👳🏽 E1.0 person wearing turban: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏾",
-      "keywords": "👳🏾 E1.0 person wearing turban: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏿",
-      "keywords": "👳🏿 E1.0 person wearing turban: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳‍♂️",
-      "keywords": "👳‍♂️ E4.0 man wearing turban",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏻‍♂️",
-      "keywords": "👳🏻‍♂️ E4.0 man wearing turban: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏼‍♂️",
-      "keywords": "👳🏼‍♂️ E4.0 man wearing turban: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏽‍♂️",
-      "keywords": "👳🏽‍♂️ E4.0 man wearing turban: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏾‍♂️",
-      "keywords": "👳🏾‍♂️ E4.0 man wearing turban: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏿‍♂️",
-      "keywords": "👳🏿‍♂️ E4.0 man wearing turban: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳‍♀️",
-      "keywords": "👳‍♀️ E4.0 woman wearing turban",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏻‍♀️",
-      "keywords": "👳🏻‍♀️ E4.0 woman wearing turban: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏼‍♀️",
-      "keywords": "👳🏼‍♀️ E4.0 woman wearing turban: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏽‍♀️",
-      "keywords": "👳🏽‍♀️ E4.0 woman wearing turban: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏾‍♀️",
-      "keywords": "👳🏾‍♀️ E4.0 woman wearing turban: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👳🏿‍♀️",
-      "keywords": "👳🏿‍♀️ E4.0 woman wearing turban: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7517,31 +7517,31 @@ const emojiData = {
     },
     {
       "emoji": "🧕🏻",
-      "keywords": "🧕🏻 E5.0 woman with headscarf: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧕🏼",
-      "keywords": "🧕🏼 E5.0 woman with headscarf: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧕🏽",
-      "keywords": "🧕🏽 E5.0 woman with headscarf: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧕🏾",
-      "keywords": "🧕🏾 E5.0 woman with headscarf: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧕🏿",
-      "keywords": "🧕🏿 E5.0 woman with headscarf: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7553,103 +7553,103 @@ const emojiData = {
     },
     {
       "emoji": "🤵🏻",
-      "keywords": "🤵🏻 E3.0 person in tuxedo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏼",
-      "keywords": "🤵🏼 E3.0 person in tuxedo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏽",
-      "keywords": "🤵🏽 E3.0 person in tuxedo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏾",
-      "keywords": "🤵🏾 E3.0 person in tuxedo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏿",
-      "keywords": "🤵🏿 E3.0 person in tuxedo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵‍♂️",
-      "keywords": "🤵‍♂️ E13.0 man in tuxedo",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏻‍♂️",
-      "keywords": "🤵🏻‍♂️ E13.0 man in tuxedo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏼‍♂️",
-      "keywords": "🤵🏼‍♂️ E13.0 man in tuxedo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏽‍♂️",
-      "keywords": "🤵🏽‍♂️ E13.0 man in tuxedo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏾‍♂️",
-      "keywords": "🤵🏾‍♂️ E13.0 man in tuxedo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏿‍♂️",
-      "keywords": "🤵🏿‍♂️ E13.0 man in tuxedo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵‍♀️",
-      "keywords": "🤵‍♀️ E13.0 woman in tuxedo",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏻‍♀️",
-      "keywords": "🤵🏻‍♀️ E13.0 woman in tuxedo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏼‍♀️",
-      "keywords": "🤵🏼‍♀️ E13.0 woman in tuxedo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏽‍♀️",
-      "keywords": "🤵🏽‍♀️ E13.0 woman in tuxedo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏾‍♀️",
-      "keywords": "🤵🏾‍♀️ E13.0 woman in tuxedo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤵🏿‍♀️",
-      "keywords": "🤵🏿‍♀️ E13.0 woman in tuxedo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7661,103 +7661,103 @@ const emojiData = {
     },
     {
       "emoji": "👰🏻",
-      "keywords": "👰🏻 E1.0 person with veil: light skin tone",
+      "keywords": "人 戴面纱: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏼",
-      "keywords": "👰🏼 E1.0 person with veil: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏽",
-      "keywords": "👰🏽 E1.0 person with veil: medium skin tone",
+      "keywords": "人 戴面纱: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏾",
-      "keywords": "👰🏾 E1.0 person with veil: medium-dark skin tone",
+      "keywords": "人 戴面纱: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏿",
-      "keywords": "👰🏿 E1.0 person with veil: dark skin tone",
+      "keywords": "人 戴面纱: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰‍♂️",
-      "keywords": "👰‍♂️ E13.0 man with veil",
+      "keywords": "👰‍♂️ 男性 戴面纱",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏻‍♂️",
-      "keywords": "👰🏻‍♂️ E13.0 man with veil: light skin tone",
+      "keywords": "男性 戴面纱: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏼‍♂️",
-      "keywords": "👰🏼‍♂️ E13.0 man with veil: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏽‍♂️",
-      "keywords": "👰🏽‍♂️ E13.0 man with veil: medium skin tone",
+      "keywords": "男性 戴面纱: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏾‍♂️",
-      "keywords": "👰🏾‍♂️ E13.0 man with veil: medium-dark skin tone",
+      "keywords": "男性 戴面纱: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏿‍♂️",
-      "keywords": "👰🏿‍♂️ E13.0 man with veil: dark skin tone",
+      "keywords": "男性 戴面纱: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰‍♀️",
-      "keywords": "👰‍♀️ E13.0 woman with veil",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏻‍♀️",
-      "keywords": "👰🏻‍♀️ E13.0 woman with veil: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏼‍♀️",
-      "keywords": "👰🏼‍♀️ E13.0 woman with veil: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏽‍♀️",
-      "keywords": "👰🏽‍♀️ E13.0 woman with veil: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏾‍♀️",
-      "keywords": "👰🏾‍♀️ E13.0 woman with veil: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👰🏿‍♀️",
-      "keywords": "👰🏿‍♀️ E13.0 woman with veil: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7769,31 +7769,31 @@ const emojiData = {
     },
     {
       "emoji": "🤰🏻",
-      "keywords": "🤰🏻 E3.0 pregnant woman: light skin tone",
+      "keywords": "孕 女性: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤰🏼",
-      "keywords": "🤰🏼 E3.0 pregnant woman: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤰🏽",
-      "keywords": "🤰🏽 E3.0 pregnant woman: medium skin tone",
+      "keywords": "孕 女性: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤰🏾",
-      "keywords": "🤰🏾 E3.0 pregnant woman: medium-dark skin tone",
+      "keywords": "孕 女性: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤰🏿",
-      "keywords": "🤰🏿 E3.0 pregnant woman: dark skin tone",
+      "keywords": "孕 女性: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7805,31 +7805,31 @@ const emojiData = {
     },
     {
       "emoji": "🫃🏻",
-      "keywords": "🫃🏻 E14.0 pregnant man: light skin tone",
+      "keywords": "孕 男性: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫃🏼",
-      "keywords": "🫃🏼 E14.0 pregnant man: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫃🏽",
-      "keywords": "🫃🏽 E14.0 pregnant man: medium skin tone",
+      "keywords": "孕 男性: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫃🏾",
-      "keywords": "🫃🏾 E14.0 pregnant man: medium-dark skin tone",
+      "keywords": "孕 男性: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫃🏿",
-      "keywords": "🫃🏿 E14.0 pregnant man: dark skin tone",
+      "keywords": "孕 男性: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7841,31 +7841,31 @@ const emojiData = {
     },
     {
       "emoji": "🫄🏻",
-      "keywords": "🫄🏻 E14.0 pregnant person: light skin tone",
+      "keywords": "孕 人: 浅肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫄🏼",
-      "keywords": "🫄🏼 E14.0 pregnant person: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫄🏽",
-      "keywords": "🫄🏽 E14.0 pregnant person: medium skin tone",
+      "keywords": "孕 人: 中等肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫄🏾",
-      "keywords": "🫄🏾 E14.0 pregnant person: medium-dark skin tone",
+      "keywords": "孕 人: 中深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🫄🏿",
-      "keywords": "🫄🏿 E14.0 pregnant person: dark skin tone",
+      "keywords": "孕 人: 深肤色",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7877,31 +7877,31 @@ const emojiData = {
     },
     {
       "emoji": "🤱🏻",
-      "keywords": "🤱🏻 E5.0 breast-feeding: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤱🏼",
-      "keywords": "🤱🏼 E5.0 breast-feeding: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤱🏽",
-      "keywords": "🤱🏽 E5.0 breast-feeding: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤱🏾",
-      "keywords": "🤱🏾 E5.0 breast-feeding: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🤱🏿",
-      "keywords": "🤱🏿 E5.0 breast-feeding: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7913,31 +7913,31 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🍼",
-      "keywords": "👩🏻‍🍼 E13.0 woman feeding baby: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏼‍🍼",
-      "keywords": "👩🏼‍🍼 E13.0 woman feeding baby: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏽‍🍼",
-      "keywords": "👩🏽‍🍼 E13.0 woman feeding baby: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏾‍🍼",
-      "keywords": "👩🏾‍🍼 E13.0 woman feeding baby: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👩🏿‍🍼",
-      "keywords": "👩🏿‍🍼 E13.0 woman feeding baby: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7949,31 +7949,31 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🍼",
-      "keywords": "👨🏻‍🍼 E13.0 man feeding baby: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏼‍🍼",
-      "keywords": "👨🏼‍🍼 E13.0 man feeding baby: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏽‍🍼",
-      "keywords": "👨🏽‍🍼 E13.0 man feeding baby: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏾‍🍼",
-      "keywords": "👨🏾‍🍼 E13.0 man feeding baby: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "👨🏿‍🍼",
-      "keywords": "👨🏿‍🍼 E13.0 man feeding baby: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -7985,31 +7985,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🍼",
-      "keywords": "🧑🏻‍🍼 E13.0 person feeding baby: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏼‍🍼",
-      "keywords": "🧑🏼‍🍼 E13.0 person feeding baby: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏽‍🍼",
-      "keywords": "🧑🏽‍🍼 E13.0 person feeding baby: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏾‍🍼",
-      "keywords": "🧑🏾‍🍼 E13.0 person feeding baby: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
     {
       "emoji": "🧑🏿‍🍼",
-      "keywords": "🧑🏿‍🍼 E13.0 person feeding baby: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-role"
     },
@@ -8021,31 +8021,31 @@ const emojiData = {
     },
     {
       "emoji": "👼🏻",
-      "keywords": "👼🏻 E1.0 baby angel: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "👼🏼",
-      "keywords": "👼🏼 E1.0 baby angel: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "👼🏽",
-      "keywords": "👼🏽 E1.0 baby angel: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "👼🏾",
-      "keywords": "👼🏾 E1.0 baby angel: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "👼🏿",
-      "keywords": "👼🏿 E1.0 baby angel: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8057,31 +8057,31 @@ const emojiData = {
     },
     {
       "emoji": "🎅🏻",
-      "keywords": "🎅🏻 E1.0 Santa Claus: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🎅🏼",
-      "keywords": "🎅🏼 E1.0 Santa Claus: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🎅🏽",
-      "keywords": "🎅🏽 E1.0 Santa Claus: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🎅🏾",
-      "keywords": "🎅🏾 E1.0 Santa Claus: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🎅🏿",
-      "keywords": "🎅🏿 E1.0 Santa Claus: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8093,31 +8093,31 @@ const emojiData = {
     },
     {
       "emoji": "🤶🏻",
-      "keywords": "🤶🏻 E3.0 Mrs. Claus: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🤶🏼",
-      "keywords": "🤶🏼 E3.0 Mrs. Claus: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🤶🏽",
-      "keywords": "🤶🏽 E3.0 Mrs. Claus: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🤶🏾",
-      "keywords": "🤶🏾 E3.0 Mrs. Claus: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🤶🏿",
-      "keywords": "🤶🏿 E3.0 Mrs. Claus: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8129,31 +8129,31 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🎄",
-      "keywords": "🧑🏻‍🎄 E13.0 Mx Claus: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧑🏼‍🎄",
-      "keywords": "🧑🏼‍🎄 E13.0 Mx Claus: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧑🏽‍🎄",
-      "keywords": "🧑🏽‍🎄 E13.0 Mx Claus: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧑🏾‍🎄",
-      "keywords": "🧑🏾‍🎄 E13.0 Mx Claus: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧑🏿‍🎄",
-      "keywords": "🧑🏿‍🎄 E13.0 Mx Claus: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8165,103 +8165,103 @@ const emojiData = {
     },
     {
       "emoji": "🦸🏻",
-      "keywords": "🦸🏻 E11.0 superhero: light skin tone",
+      "keywords": "超级英雄: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏼",
-      "keywords": "🦸🏼 E11.0 superhero: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏽",
-      "keywords": "🦸🏽 E11.0 superhero: medium skin tone",
+      "keywords": "超级英雄: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏾",
-      "keywords": "🦸🏾 E11.0 superhero: medium-dark skin tone",
+      "keywords": "超级英雄: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏿",
-      "keywords": "🦸🏿 E11.0 superhero: dark skin tone",
+      "keywords": "超级英雄: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸‍♂️",
-      "keywords": "🦸‍♂️ E11.0 man superhero",
+      "keywords": "🦸‍♂️ 男性 超级英雄",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏻‍♂️",
-      "keywords": "🦸🏻‍♂️ E11.0 man superhero: light skin tone",
+      "keywords": "男性 超级英雄: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏼‍♂️",
-      "keywords": "🦸🏼‍♂️ E11.0 man superhero: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏽‍♂️",
-      "keywords": "🦸🏽‍♂️ E11.0 man superhero: medium skin tone",
+      "keywords": "男性 超级英雄: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏾‍♂️",
-      "keywords": "🦸🏾‍♂️ E11.0 man superhero: medium-dark skin tone",
+      "keywords": "男性 超级英雄: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏿‍♂️",
-      "keywords": "🦸🏿‍♂️ E11.0 man superhero: dark skin tone",
+      "keywords": "男性 超级英雄: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸‍♀️",
-      "keywords": "🦸‍♀️ E11.0 woman superhero",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏻‍♀️",
-      "keywords": "🦸🏻‍♀️ E11.0 woman superhero: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏼‍♀️",
-      "keywords": "🦸🏼‍♀️ E11.0 woman superhero: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏽‍♀️",
-      "keywords": "🦸🏽‍♀️ E11.0 woman superhero: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏾‍♀️",
-      "keywords": "🦸🏾‍♀️ E11.0 woman superhero: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦸🏿‍♀️",
-      "keywords": "🦸🏿‍♀️ E11.0 woman superhero: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8273,103 +8273,103 @@ const emojiData = {
     },
     {
       "emoji": "🦹🏻",
-      "keywords": "🦹🏻 E11.0 supervillain: light skin tone",
+      "keywords": "超级反派: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏼",
-      "keywords": "🦹🏼 E11.0 supervillain: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏽",
-      "keywords": "🦹🏽 E11.0 supervillain: medium skin tone",
+      "keywords": "超级反派: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏾",
-      "keywords": "🦹🏾 E11.0 supervillain: medium-dark skin tone",
+      "keywords": "超级反派: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏿",
-      "keywords": "🦹🏿 E11.0 supervillain: dark skin tone",
+      "keywords": "超级反派: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹‍♂️",
-      "keywords": "🦹‍♂️ E11.0 man supervillain",
+      "keywords": "🦹‍♂️ 男性 超级反派",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏻‍♂️",
-      "keywords": "🦹🏻‍♂️ E11.0 man supervillain: light skin tone",
+      "keywords": "男性 超级反派: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏼‍♂️",
-      "keywords": "🦹🏼‍♂️ E11.0 man supervillain: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏽‍♂️",
-      "keywords": "🦹🏽‍♂️ E11.0 man supervillain: medium skin tone",
+      "keywords": "男性 超级反派: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏾‍♂️",
-      "keywords": "🦹🏾‍♂️ E11.0 man supervillain: medium-dark skin tone",
+      "keywords": "男性 超级反派: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏿‍♂️",
-      "keywords": "🦹🏿‍♂️ E11.0 man supervillain: dark skin tone",
+      "keywords": "男性 超级反派: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹‍♀️",
-      "keywords": "🦹‍♀️ E11.0 woman supervillain",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏻‍♀️",
-      "keywords": "🦹🏻‍♀️ E11.0 woman supervillain: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏼‍♀️",
-      "keywords": "🦹🏼‍♀️ E11.0 woman supervillain: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏽‍♀️",
-      "keywords": "🦹🏽‍♀️ E11.0 woman supervillain: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏾‍♀️",
-      "keywords": "🦹🏾‍♀️ E11.0 woman supervillain: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🦹🏿‍♀️",
-      "keywords": "🦹🏿‍♀️ E11.0 woman supervillain: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8381,103 +8381,103 @@ const emojiData = {
     },
     {
       "emoji": "🧙🏻",
-      "keywords": "🧙🏻 E5.0 mage: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏼",
-      "keywords": "🧙🏼 E5.0 mage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏽",
-      "keywords": "🧙🏽 E5.0 mage: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏾",
-      "keywords": "🧙🏾 E5.0 mage: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏿",
-      "keywords": "🧙🏿 E5.0 mage: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙‍♂️",
-      "keywords": "🧙‍♂️ E5.0 man mage",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏻‍♂️",
-      "keywords": "🧙🏻‍♂️ E5.0 man mage: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏼‍♂️",
-      "keywords": "🧙🏼‍♂️ E5.0 man mage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏽‍♂️",
-      "keywords": "🧙🏽‍♂️ E5.0 man mage: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏾‍♂️",
-      "keywords": "🧙🏾‍♂️ E5.0 man mage: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏿‍♂️",
-      "keywords": "🧙🏿‍♂️ E5.0 man mage: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙‍♀️",
-      "keywords": "🧙‍♀️ E5.0 woman mage",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏻‍♀️",
-      "keywords": "🧙🏻‍♀️ E5.0 woman mage: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏼‍♀️",
-      "keywords": "🧙🏼‍♀️ E5.0 woman mage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏽‍♀️",
-      "keywords": "🧙🏽‍♀️ E5.0 woman mage: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏾‍♀️",
-      "keywords": "🧙🏾‍♀️ E5.0 woman mage: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧙🏿‍♀️",
-      "keywords": "🧙🏿‍♀️ E5.0 woman mage: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8489,103 +8489,103 @@ const emojiData = {
     },
     {
       "emoji": "🧚🏻",
-      "keywords": "🧚🏻 E5.0 fairy: light skin tone",
+      "keywords": "仙子: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏼",
-      "keywords": "🧚🏼 E5.0 fairy: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏽",
-      "keywords": "🧚🏽 E5.0 fairy: medium skin tone",
+      "keywords": "仙子: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏾",
-      "keywords": "🧚🏾 E5.0 fairy: medium-dark skin tone",
+      "keywords": "仙子: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏿",
-      "keywords": "🧚🏿 E5.0 fairy: dark skin tone",
+      "keywords": "仙子: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚‍♂️",
-      "keywords": "🧚‍♂️ E5.0 man fairy",
+      "keywords": "🧚‍♂️ 男性 仙子",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏻‍♂️",
-      "keywords": "🧚🏻‍♂️ E5.0 man fairy: light skin tone",
+      "keywords": "男性 仙子: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏼‍♂️",
-      "keywords": "🧚🏼‍♂️ E5.0 man fairy: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏽‍♂️",
-      "keywords": "🧚🏽‍♂️ E5.0 man fairy: medium skin tone",
+      "keywords": "男性 仙子: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏾‍♂️",
-      "keywords": "🧚🏾‍♂️ E5.0 man fairy: medium-dark skin tone",
+      "keywords": "男性 仙子: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏿‍♂️",
-      "keywords": "🧚🏿‍♂️ E5.0 man fairy: dark skin tone",
+      "keywords": "男性 仙子: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚‍♀️",
-      "keywords": "🧚‍♀️ E5.0 woman fairy",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏻‍♀️",
-      "keywords": "🧚🏻‍♀️ E5.0 woman fairy: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏼‍♀️",
-      "keywords": "🧚🏼‍♀️ E5.0 woman fairy: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏽‍♀️",
-      "keywords": "🧚🏽‍♀️ E5.0 woman fairy: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏾‍♀️",
-      "keywords": "🧚🏾‍♀️ E5.0 woman fairy: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧚🏿‍♀️",
-      "keywords": "🧚🏿‍♀️ E5.0 woman fairy: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8597,103 +8597,103 @@ const emojiData = {
     },
     {
       "emoji": "🧛🏻",
-      "keywords": "🧛🏻 E5.0 vampire: light skin tone",
+      "keywords": "吸血鬼: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏼",
-      "keywords": "🧛🏼 E5.0 vampire: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏽",
-      "keywords": "🧛🏽 E5.0 vampire: medium skin tone",
+      "keywords": "吸血鬼: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏾",
-      "keywords": "🧛🏾 E5.0 vampire: medium-dark skin tone",
+      "keywords": "吸血鬼: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏿",
-      "keywords": "🧛🏿 E5.0 vampire: dark skin tone",
+      "keywords": "吸血鬼: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛‍♂️",
-      "keywords": "🧛‍♂️ E5.0 man vampire",
+      "keywords": "🧛‍♂️ 男性 吸血鬼",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏻‍♂️",
-      "keywords": "🧛🏻‍♂️ E5.0 man vampire: light skin tone",
+      "keywords": "男性 吸血鬼: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏼‍♂️",
-      "keywords": "🧛🏼‍♂️ E5.0 man vampire: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏽‍♂️",
-      "keywords": "🧛🏽‍♂️ E5.0 man vampire: medium skin tone",
+      "keywords": "男性 吸血鬼: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏾‍♂️",
-      "keywords": "🧛🏾‍♂️ E5.0 man vampire: medium-dark skin tone",
+      "keywords": "男性 吸血鬼: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏿‍♂️",
-      "keywords": "🧛🏿‍♂️ E5.0 man vampire: dark skin tone",
+      "keywords": "男性 吸血鬼: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛‍♀️",
-      "keywords": "🧛‍♀️ E5.0 woman vampire",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏻‍♀️",
-      "keywords": "🧛🏻‍♀️ E5.0 woman vampire: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏼‍♀️",
-      "keywords": "🧛🏼‍♀️ E5.0 woman vampire: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏽‍♀️",
-      "keywords": "🧛🏽‍♀️ E5.0 woman vampire: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏾‍♀️",
-      "keywords": "🧛🏾‍♀️ E5.0 woman vampire: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧛🏿‍♀️",
-      "keywords": "🧛🏿‍♀️ E5.0 woman vampire: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8705,103 +8705,103 @@ const emojiData = {
     },
     {
       "emoji": "🧜🏻",
-      "keywords": "🧜🏻 E5.0 merperson: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏼",
-      "keywords": "🧜🏼 E5.0 merperson: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏽",
-      "keywords": "🧜🏽 E5.0 merperson: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏾",
-      "keywords": "🧜🏾 E5.0 merperson: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏿",
-      "keywords": "🧜🏿 E5.0 merperson: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜‍♂️",
-      "keywords": "🧜‍♂️ E5.0 merman",
+      "keywords": "🧜‍♂️ 人鱼",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏻‍♂️",
-      "keywords": "🧜🏻‍♂️ E5.0 merman: light skin tone",
+      "keywords": "人鱼: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏼‍♂️",
-      "keywords": "🧜🏼‍♂️ E5.0 merman: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏽‍♂️",
-      "keywords": "🧜🏽‍♂️ E5.0 merman: medium skin tone",
+      "keywords": "人鱼: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏾‍♂️",
-      "keywords": "🧜🏾‍♂️ E5.0 merman: medium-dark skin tone",
+      "keywords": "人鱼: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏿‍♂️",
-      "keywords": "🧜🏿‍♂️ E5.0 merman: dark skin tone",
+      "keywords": "人鱼: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜‍♀️",
-      "keywords": "🧜‍♀️ E5.0 mermaid",
+      "keywords": "🧜‍♀️ 美人鱼",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏻‍♀️",
-      "keywords": "🧜🏻‍♀️ E5.0 mermaid: light skin tone",
+      "keywords": "美人鱼: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏼‍♀️",
-      "keywords": "🧜🏼‍♀️ E5.0 mermaid: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏽‍♀️",
-      "keywords": "🧜🏽‍♀️ E5.0 mermaid: medium skin tone",
+      "keywords": "美人鱼: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏾‍♀️",
-      "keywords": "🧜🏾‍♀️ E5.0 mermaid: medium-dark skin tone",
+      "keywords": "美人鱼: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧜🏿‍♀️",
-      "keywords": "🧜🏿‍♀️ E5.0 mermaid: dark skin tone",
+      "keywords": "美人鱼: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8813,103 +8813,103 @@ const emojiData = {
     },
     {
       "emoji": "🧝🏻",
-      "keywords": "🧝🏻 E5.0 elf: light skin tone",
+      "keywords": "精灵: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏼",
-      "keywords": "🧝🏼 E5.0 elf: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏽",
-      "keywords": "🧝🏽 E5.0 elf: medium skin tone",
+      "keywords": "精灵: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏾",
-      "keywords": "🧝🏾 E5.0 elf: medium-dark skin tone",
+      "keywords": "精灵: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏿",
-      "keywords": "🧝🏿 E5.0 elf: dark skin tone",
+      "keywords": "精灵: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝‍♂️",
-      "keywords": "🧝‍♂️ E5.0 man elf",
+      "keywords": "🧝‍♂️ 男性 精灵",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏻‍♂️",
-      "keywords": "🧝🏻‍♂️ E5.0 man elf: light skin tone",
+      "keywords": "男性 精灵: 浅肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏼‍♂️",
-      "keywords": "🧝🏼‍♂️ E5.0 man elf: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏽‍♂️",
-      "keywords": "🧝🏽‍♂️ E5.0 man elf: medium skin tone",
+      "keywords": "男性 精灵: 中等肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏾‍♂️",
-      "keywords": "🧝🏾‍♂️ E5.0 man elf: medium-dark skin tone",
+      "keywords": "男性 精灵: 中深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏿‍♂️",
-      "keywords": "🧝🏿‍♂️ E5.0 man elf: dark skin tone",
+      "keywords": "男性 精灵: 深肤色",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝‍♀️",
-      "keywords": "🧝‍♀️ E5.0 woman elf",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏻‍♀️",
-      "keywords": "🧝🏻‍♀️ E5.0 woman elf: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏼‍♀️",
-      "keywords": "🧝🏼‍♀️ E5.0 woman elf: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏽‍♀️",
-      "keywords": "🧝🏽‍♀️ E5.0 woman elf: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏾‍♀️",
-      "keywords": "🧝🏾‍♀️ E5.0 woman elf: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧝🏿‍♀️",
-      "keywords": "🧝🏿‍♀️ E5.0 woman elf: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8921,13 +8921,13 @@ const emojiData = {
     },
     {
       "emoji": "🧞‍♂️",
-      "keywords": "🧞‍♂️ E5.0 man genie",
+      "keywords": "🧞‍♂️ 男性 精灵",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧞‍♀️",
-      "keywords": "🧞‍♀️ E5.0 woman genie",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8939,13 +8939,13 @@ const emojiData = {
     },
     {
       "emoji": "🧟‍♂️",
-      "keywords": "🧟‍♂️ E5.0 man zombie",
+      "keywords": "🧟‍♂️ 男性 僵尸",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
     {
       "emoji": "🧟‍♀️",
-      "keywords": "🧟‍♀️ E5.0 woman zombie",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-fantasy"
     },
@@ -8963,103 +8963,103 @@ const emojiData = {
     },
     {
       "emoji": "💆🏻",
-      "keywords": "💆🏻 E1.0 person getting massage: light skin tone",
+      "keywords": "人 按摩: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏼",
-      "keywords": "💆🏼 E1.0 person getting massage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏽",
-      "keywords": "💆🏽 E1.0 person getting massage: medium skin tone",
+      "keywords": "人 按摩: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏾",
-      "keywords": "💆🏾 E1.0 person getting massage: medium-dark skin tone",
+      "keywords": "人 按摩: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏿",
-      "keywords": "💆🏿 E1.0 person getting massage: dark skin tone",
+      "keywords": "人 按摩: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆‍♂️",
-      "keywords": "💆‍♂️ E4.0 man getting massage",
+      "keywords": "💆‍♂️ 男性 按摩",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏻‍♂️",
-      "keywords": "💆🏻‍♂️ E4.0 man getting massage: light skin tone",
+      "keywords": "男性 按摩: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏼‍♂️",
-      "keywords": "💆🏼‍♂️ E4.0 man getting massage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏽‍♂️",
-      "keywords": "💆🏽‍♂️ E4.0 man getting massage: medium skin tone",
+      "keywords": "男性 按摩: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏾‍♂️",
-      "keywords": "💆🏾‍♂️ E4.0 man getting massage: medium-dark skin tone",
+      "keywords": "男性 按摩: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏿‍♂️",
-      "keywords": "💆🏿‍♂️ E4.0 man getting massage: dark skin tone",
+      "keywords": "男性 按摩: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆‍♀️",
-      "keywords": "💆‍♀️ E4.0 woman getting massage",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏻‍♀️",
-      "keywords": "💆🏻‍♀️ E4.0 woman getting massage: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏼‍♀️",
-      "keywords": "💆🏼‍♀️ E4.0 woman getting massage: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏽‍♀️",
-      "keywords": "💆🏽‍♀️ E4.0 woman getting massage: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏾‍♀️",
-      "keywords": "💆🏾‍♀️ E4.0 woman getting massage: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💆🏿‍♀️",
-      "keywords": "💆🏿‍♀️ E4.0 woman getting massage: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9071,103 +9071,103 @@ const emojiData = {
     },
     {
       "emoji": "💇🏻",
-      "keywords": "💇🏻 E1.0 person getting haircut: light skin tone",
+      "keywords": "人 理发: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏼",
-      "keywords": "💇🏼 E1.0 person getting haircut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏽",
-      "keywords": "💇🏽 E1.0 person getting haircut: medium skin tone",
+      "keywords": "人 理发: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏾",
-      "keywords": "💇🏾 E1.0 person getting haircut: medium-dark skin tone",
+      "keywords": "人 理发: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏿",
-      "keywords": "💇🏿 E1.0 person getting haircut: dark skin tone",
+      "keywords": "人 理发: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇‍♂️",
-      "keywords": "💇‍♂️ E4.0 man getting haircut",
+      "keywords": "💇‍♂️ 男性 理发",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏻‍♂️",
-      "keywords": "💇🏻‍♂️ E4.0 man getting haircut: light skin tone",
+      "keywords": "男性 理发: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏼‍♂️",
-      "keywords": "💇🏼‍♂️ E4.0 man getting haircut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏽‍♂️",
-      "keywords": "💇🏽‍♂️ E4.0 man getting haircut: medium skin tone",
+      "keywords": "男性 理发: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏾‍♂️",
-      "keywords": "💇🏾‍♂️ E4.0 man getting haircut: medium-dark skin tone",
+      "keywords": "男性 理发: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏿‍♂️",
-      "keywords": "💇🏿‍♂️ E4.0 man getting haircut: dark skin tone",
+      "keywords": "男性 理发: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇‍♀️",
-      "keywords": "💇‍♀️ E4.0 woman getting haircut",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏻‍♀️",
-      "keywords": "💇🏻‍♀️ E4.0 woman getting haircut: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏼‍♀️",
-      "keywords": "💇🏼‍♀️ E4.0 woman getting haircut: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏽‍♀️",
-      "keywords": "💇🏽‍♀️ E4.0 woman getting haircut: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏾‍♀️",
-      "keywords": "💇🏾‍♀️ E4.0 woman getting haircut: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💇🏿‍♀️",
-      "keywords": "💇🏿‍♀️ E4.0 woman getting haircut: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9179,211 +9179,211 @@ const emojiData = {
     },
     {
       "emoji": "🚶🏻",
-      "keywords": "🚶🏻 E1.0 person walking: light skin tone",
+      "keywords": "人 走路: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼",
-      "keywords": "🚶🏼 E1.0 person walking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽",
-      "keywords": "🚶🏽 E1.0 person walking: medium skin tone",
+      "keywords": "人 走路: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾",
-      "keywords": "🚶🏾 E1.0 person walking: medium-dark skin tone",
+      "keywords": "人 走路: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿",
-      "keywords": "🚶🏿 E1.0 person walking: dark skin tone",
+      "keywords": "人 走路: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶‍♂️",
-      "keywords": "🚶‍♂️ E4.0 man walking",
+      "keywords": "🚶‍♂️ 男性 走路",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏻‍♂️",
-      "keywords": "🚶🏻‍♂️ E4.0 man walking: light skin tone",
+      "keywords": "男性 走路: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼‍♂️",
-      "keywords": "🚶🏼‍♂️ E4.0 man walking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽‍♂️",
-      "keywords": "🚶🏽‍♂️ E4.0 man walking: medium skin tone",
+      "keywords": "男性 走路: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾‍♂️",
-      "keywords": "🚶🏾‍♂️ E4.0 man walking: medium-dark skin tone",
+      "keywords": "男性 走路: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿‍♂️",
-      "keywords": "🚶🏿‍♂️ E4.0 man walking: dark skin tone",
+      "keywords": "男性 走路: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶‍♀️",
-      "keywords": "🚶‍♀️ E4.0 woman walking",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏻‍♀️",
-      "keywords": "🚶🏻‍♀️ E4.0 woman walking: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼‍♀️",
-      "keywords": "🚶🏼‍♀️ E4.0 woman walking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽‍♀️",
-      "keywords": "🚶🏽‍♀️ E4.0 woman walking: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾‍♀️",
-      "keywords": "🚶🏾‍♀️ E4.0 woman walking: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿‍♀️",
-      "keywords": "🚶🏿‍♀️ E4.0 woman walking: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶‍➡️",
-      "keywords": "🚶‍➡️ E15.1 person walking facing right",
+      "keywords": "人 走路 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏻‍➡️",
-      "keywords": "🚶🏻‍➡️ E15.1 person walking facing right: light skin tone",
+      "keywords": "人 走路 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼‍➡️",
-      "keywords": "🚶🏼‍➡️ E15.1 person walking facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽‍➡️",
-      "keywords": "🚶🏽‍➡️ E15.1 person walking facing right: medium skin tone",
+      "keywords": "人 走路 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾‍➡️",
-      "keywords": "🚶🏾‍➡️ E15.1 person walking facing right: medium-dark skin tone",
+      "keywords": "人 走路 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿‍➡️",
-      "keywords": "🚶🏿‍➡️ E15.1 person walking facing right: dark skin tone",
+      "keywords": "人 走路 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶‍♀️‍➡️",
-      "keywords": "🚶‍♀️‍➡️ E15.1 woman walking facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏻‍♀️‍➡️",
-      "keywords": "🚶🏻‍♀️‍➡️ E15.1 woman walking facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼‍♀️‍➡️",
-      "keywords": "🚶🏼‍♀️‍➡️ E15.1 woman walking facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽‍♀️‍➡️",
-      "keywords": "🚶🏽‍♀️‍➡️ E15.1 woman walking facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾‍♀️‍➡️",
-      "keywords": "🚶🏾‍♀️‍➡️ E15.1 woman walking facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿‍♀️‍➡️",
-      "keywords": "🚶🏿‍♀️‍➡️ E15.1 woman walking facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶‍♂️‍➡️",
-      "keywords": "🚶‍♂️‍➡️ E15.1 man walking facing right",
+      "keywords": "男性 走路 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏻‍♂️‍➡️",
-      "keywords": "🚶🏻‍♂️‍➡️ E15.1 man walking facing right: light skin tone",
+      "keywords": "男性 走路 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏼‍♂️‍➡️",
-      "keywords": "🚶🏼‍♂️‍➡️ E15.1 man walking facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏽‍♂️‍➡️",
-      "keywords": "🚶🏽‍♂️‍➡️ E15.1 man walking facing right: medium skin tone",
+      "keywords": "男性 走路 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏾‍♂️‍➡️",
-      "keywords": "🚶🏾‍♂️‍➡️ E15.1 man walking facing right: medium-dark skin tone",
+      "keywords": "男性 走路 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🚶🏿‍♂️‍➡️",
-      "keywords": "🚶🏿‍♂️‍➡️ E15.1 man walking facing right: dark skin tone",
+      "keywords": "男性 走路 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9395,103 +9395,103 @@ const emojiData = {
     },
     {
       "emoji": "🧍🏻",
-      "keywords": "🧍🏻 E12.0 person standing: light skin tone",
+      "keywords": "人 站立: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏼",
-      "keywords": "🧍🏼 E12.0 person standing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏽",
-      "keywords": "🧍🏽 E12.0 person standing: medium skin tone",
+      "keywords": "人 站立: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏾",
-      "keywords": "🧍🏾 E12.0 person standing: medium-dark skin tone",
+      "keywords": "人 站立: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏿",
-      "keywords": "🧍🏿 E12.0 person standing: dark skin tone",
+      "keywords": "人 站立: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍‍♂️",
-      "keywords": "🧍‍♂️ E12.0 man standing",
+      "keywords": "🧍‍♂️ 男性 站立",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏻‍♂️",
-      "keywords": "🧍🏻‍♂️ E12.0 man standing: light skin tone",
+      "keywords": "男性 站立: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏼‍♂️",
-      "keywords": "🧍🏼‍♂️ E12.0 man standing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏽‍♂️",
-      "keywords": "🧍🏽‍♂️ E12.0 man standing: medium skin tone",
+      "keywords": "男性 站立: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏾‍♂️",
-      "keywords": "🧍🏾‍♂️ E12.0 man standing: medium-dark skin tone",
+      "keywords": "男性 站立: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏿‍♂️",
-      "keywords": "🧍🏿‍♂️ E12.0 man standing: dark skin tone",
+      "keywords": "男性 站立: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍‍♀️",
-      "keywords": "🧍‍♀️ E12.0 woman standing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏻‍♀️",
-      "keywords": "🧍🏻‍♀️ E12.0 woman standing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏼‍♀️",
-      "keywords": "🧍🏼‍♀️ E12.0 woman standing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏽‍♀️",
-      "keywords": "🧍🏽‍♀️ E12.0 woman standing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏾‍♀️",
-      "keywords": "🧍🏾‍♀️ E12.0 woman standing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧍🏿‍♀️",
-      "keywords": "🧍🏿‍♀️ E12.0 woman standing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9503,211 +9503,211 @@ const emojiData = {
     },
     {
       "emoji": "🧎🏻",
-      "keywords": "🧎🏻 E12.0 person kneeling: light skin tone",
+      "keywords": "人 跪着: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼",
-      "keywords": "🧎🏼 E12.0 person kneeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽",
-      "keywords": "🧎🏽 E12.0 person kneeling: medium skin tone",
+      "keywords": "人 跪着: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾",
-      "keywords": "🧎🏾 E12.0 person kneeling: medium-dark skin tone",
+      "keywords": "人 跪着: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿",
-      "keywords": "🧎🏿 E12.0 person kneeling: dark skin tone",
+      "keywords": "人 跪着: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎‍♂️",
-      "keywords": "🧎‍♂️ E12.0 man kneeling",
+      "keywords": "🧎‍♂️ 男性 跪着",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏻‍♂️",
-      "keywords": "🧎🏻‍♂️ E12.0 man kneeling: light skin tone",
+      "keywords": "男性 跪着: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼‍♂️",
-      "keywords": "🧎🏼‍♂️ E12.0 man kneeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽‍♂️",
-      "keywords": "🧎🏽‍♂️ E12.0 man kneeling: medium skin tone",
+      "keywords": "男性 跪着: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾‍♂️",
-      "keywords": "🧎🏾‍♂️ E12.0 man kneeling: medium-dark skin tone",
+      "keywords": "男性 跪着: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿‍♂️",
-      "keywords": "🧎🏿‍♂️ E12.0 man kneeling: dark skin tone",
+      "keywords": "男性 跪着: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎‍♀️",
-      "keywords": "🧎‍♀️ E12.0 woman kneeling",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏻‍♀️",
-      "keywords": "🧎🏻‍♀️ E12.0 woman kneeling: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼‍♀️",
-      "keywords": "🧎🏼‍♀️ E12.0 woman kneeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽‍♀️",
-      "keywords": "🧎🏽‍♀️ E12.0 woman kneeling: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾‍♀️",
-      "keywords": "🧎🏾‍♀️ E12.0 woman kneeling: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿‍♀️",
-      "keywords": "🧎🏿‍♀️ E12.0 woman kneeling: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎‍➡️",
-      "keywords": "🧎‍➡️ E15.1 person kneeling facing right",
+      "keywords": "人 跪着 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏻‍➡️",
-      "keywords": "🧎🏻‍➡️ E15.1 person kneeling facing right: light skin tone",
+      "keywords": "人 跪着 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼‍➡️",
-      "keywords": "🧎🏼‍➡️ E15.1 person kneeling facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽‍➡️",
-      "keywords": "🧎🏽‍➡️ E15.1 person kneeling facing right: medium skin tone",
+      "keywords": "人 跪着 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾‍➡️",
-      "keywords": "🧎🏾‍➡️ E15.1 person kneeling facing right: medium-dark skin tone",
+      "keywords": "人 跪着 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿‍➡️",
-      "keywords": "🧎🏿‍➡️ E15.1 person kneeling facing right: dark skin tone",
+      "keywords": "人 跪着 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎‍♀️‍➡️",
-      "keywords": "🧎‍♀️‍➡️ E15.1 woman kneeling facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏻‍♀️‍➡️",
-      "keywords": "🧎🏻‍♀️‍➡️ E15.1 woman kneeling facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼‍♀️‍➡️",
-      "keywords": "🧎🏼‍♀️‍➡️ E15.1 woman kneeling facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽‍♀️‍➡️",
-      "keywords": "🧎🏽‍♀️‍➡️ E15.1 woman kneeling facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾‍♀️‍➡️",
-      "keywords": "🧎🏾‍♀️‍➡️ E15.1 woman kneeling facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿‍♀️‍➡️",
-      "keywords": "🧎🏿‍♀️‍➡️ E15.1 woman kneeling facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎‍♂️‍➡️",
-      "keywords": "🧎‍♂️‍➡️ E15.1 man kneeling facing right",
+      "keywords": "男性 跪着 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏻‍♂️‍➡️",
-      "keywords": "🧎🏻‍♂️‍➡️ E15.1 man kneeling facing right: light skin tone",
+      "keywords": "男性 跪着 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏼‍♂️‍➡️",
-      "keywords": "🧎🏼‍♂️‍➡️ E15.1 man kneeling facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏽‍♂️‍➡️",
-      "keywords": "🧎🏽‍♂️‍➡️ E15.1 man kneeling facing right: medium skin tone",
+      "keywords": "男性 跪着 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏾‍♂️‍➡️",
-      "keywords": "🧎🏾‍♂️‍➡️ E15.1 man kneeling facing right: medium-dark skin tone",
+      "keywords": "男性 跪着 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧎🏿‍♂️‍➡️",
-      "keywords": "🧎🏿‍♂️‍➡️ E15.1 man kneeling facing right: dark skin tone",
+      "keywords": "男性 跪着 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9719,67 +9719,67 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🦯",
-      "keywords": "🧑🏻‍🦯 E12.1 person with white cane: light skin tone",
+      "keywords": "人 拿白手杖: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦯",
-      "keywords": "🧑🏼‍🦯 E12.1 person with white cane: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦯",
-      "keywords": "🧑🏽‍🦯 E12.1 person with white cane: medium skin tone",
+      "keywords": "人 拿白手杖: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦯",
-      "keywords": "🧑🏾‍🦯 E12.1 person with white cane: medium-dark skin tone",
+      "keywords": "人 拿白手杖: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦯",
-      "keywords": "🧑🏿‍🦯 E12.1 person with white cane: dark skin tone",
+      "keywords": "人 拿白手杖: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑‍🦯‍➡️",
-      "keywords": "🧑‍🦯‍➡️ E15.1 person with white cane facing right",
+      "keywords": "人 拿白手杖 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏻‍🦯‍➡️",
-      "keywords": "🧑🏻‍🦯‍➡️ E15.1 person with white cane facing right: light skin tone",
+      "keywords": "人 拿白手杖 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦯‍➡️",
-      "keywords": "🧑🏼‍🦯‍➡️ E15.1 person with white cane facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦯‍➡️",
-      "keywords": "🧑🏽‍🦯‍➡️ E15.1 person with white cane facing right: medium skin tone",
+      "keywords": "人 拿白手杖 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦯‍➡️",
-      "keywords": "🧑🏾‍🦯‍➡️ E15.1 person with white cane facing right: medium-dark skin tone",
+      "keywords": "人 拿白手杖 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦯‍➡️",
-      "keywords": "🧑🏿‍🦯‍➡️ E15.1 person with white cane facing right: dark skin tone",
+      "keywords": "人 拿白手杖 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9791,67 +9791,67 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🦯",
-      "keywords": "👨🏻‍🦯 E12.0 man with white cane: light skin tone",
+      "keywords": "男性 拿白手杖: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦯",
-      "keywords": "👨🏼‍🦯 E12.0 man with white cane: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦯",
-      "keywords": "👨🏽‍🦯 E12.0 man with white cane: medium skin tone",
+      "keywords": "男性 拿白手杖: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦯",
-      "keywords": "👨🏾‍🦯 E12.0 man with white cane: medium-dark skin tone",
+      "keywords": "男性 拿白手杖: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦯",
-      "keywords": "👨🏿‍🦯 E12.0 man with white cane: dark skin tone",
+      "keywords": "男性 拿白手杖: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨‍🦯‍➡️",
-      "keywords": "👨‍🦯‍➡️ E15.1 man with white cane facing right",
+      "keywords": "男性 拿白手杖 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏻‍🦯‍➡️",
-      "keywords": "👨🏻‍🦯‍➡️ E15.1 man with white cane facing right: light skin tone",
+      "keywords": "男性 拿白手杖 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦯‍➡️",
-      "keywords": "👨🏼‍🦯‍➡️ E15.1 man with white cane facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦯‍➡️",
-      "keywords": "👨🏽‍🦯‍➡️ E15.1 man with white cane facing right: medium skin tone",
+      "keywords": "男性 拿白手杖 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦯‍➡️",
-      "keywords": "👨🏾‍🦯‍➡️ E15.1 man with white cane facing right: medium-dark skin tone",
+      "keywords": "男性 拿白手杖 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦯‍➡️",
-      "keywords": "👨🏿‍🦯‍➡️ E15.1 man with white cane facing right: dark skin tone",
+      "keywords": "男性 拿白手杖 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9863,67 +9863,67 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🦯",
-      "keywords": "👩🏻‍🦯 E12.0 woman with white cane: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦯",
-      "keywords": "👩🏼‍🦯 E12.0 woman with white cane: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦯",
-      "keywords": "👩🏽‍🦯 E12.0 woman with white cane: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦯",
-      "keywords": "👩🏾‍🦯 E12.0 woman with white cane: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦯",
-      "keywords": "👩🏿‍🦯 E12.0 woman with white cane: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩‍🦯‍➡️",
-      "keywords": "👩‍🦯‍➡️ E15.1 woman with white cane facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏻‍🦯‍➡️",
-      "keywords": "👩🏻‍🦯‍➡️ E15.1 woman with white cane facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦯‍➡️",
-      "keywords": "👩🏼‍🦯‍➡️ E15.1 woman with white cane facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦯‍➡️",
-      "keywords": "👩🏽‍🦯‍➡️ E15.1 woman with white cane facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦯‍➡️",
-      "keywords": "👩🏾‍🦯‍➡️ E15.1 woman with white cane facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦯‍➡️",
-      "keywords": "👩🏿‍🦯‍➡️ E15.1 woman with white cane facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -9935,67 +9935,67 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🦼",
-      "keywords": "🧑🏻‍🦼 E12.1 person in motorized wheelchair: light skin tone",
+      "keywords": "人 坐电动轮椅: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦼",
-      "keywords": "🧑🏼‍🦼 E12.1 person in motorized wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦼",
-      "keywords": "🧑🏽‍🦼 E12.1 person in motorized wheelchair: medium skin tone",
+      "keywords": "人 坐电动轮椅: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦼",
-      "keywords": "🧑🏾‍🦼 E12.1 person in motorized wheelchair: medium-dark skin tone",
+      "keywords": "人 坐电动轮椅: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦼",
-      "keywords": "🧑🏿‍🦼 E12.1 person in motorized wheelchair: dark skin tone",
+      "keywords": "人 坐电动轮椅: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑‍🦼‍➡️",
-      "keywords": "🧑‍🦼‍➡️ E15.1 person in motorized wheelchair facing right",
+      "keywords": "人 坐电动轮椅 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏻‍🦼‍➡️",
-      "keywords": "🧑🏻‍🦼‍➡️ E15.1 person in motorized wheelchair facing right: light skin tone",
+      "keywords": "人 坐电动轮椅 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦼‍➡️",
-      "keywords": "🧑🏼‍🦼‍➡️ E15.1 person in motorized wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦼‍➡️",
-      "keywords": "🧑🏽‍🦼‍➡️ E15.1 person in motorized wheelchair facing right: medium skin tone",
+      "keywords": "人 坐电动轮椅 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦼‍➡️",
-      "keywords": "🧑🏾‍🦼‍➡️ E15.1 person in motorized wheelchair facing right: medium-dark skin tone",
+      "keywords": "人 坐电动轮椅 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦼‍➡️",
-      "keywords": "🧑🏿‍🦼‍➡️ E15.1 person in motorized wheelchair facing right: dark skin tone",
+      "keywords": "人 坐电动轮椅 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10007,67 +10007,67 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🦼",
-      "keywords": "👨🏻‍🦼 E12.0 man in motorized wheelchair: light skin tone",
+      "keywords": "男性 坐电动轮椅: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦼",
-      "keywords": "👨🏼‍🦼 E12.0 man in motorized wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦼",
-      "keywords": "👨🏽‍🦼 E12.0 man in motorized wheelchair: medium skin tone",
+      "keywords": "男性 坐电动轮椅: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦼",
-      "keywords": "👨🏾‍🦼 E12.0 man in motorized wheelchair: medium-dark skin tone",
+      "keywords": "男性 坐电动轮椅: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦼",
-      "keywords": "👨🏿‍🦼 E12.0 man in motorized wheelchair: dark skin tone",
+      "keywords": "男性 坐电动轮椅: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨‍🦼‍➡️",
-      "keywords": "👨‍🦼‍➡️ E15.1 man in motorized wheelchair facing right",
+      "keywords": "男性 坐电动轮椅 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏻‍🦼‍➡️",
-      "keywords": "👨🏻‍🦼‍➡️ E15.1 man in motorized wheelchair facing right: light skin tone",
+      "keywords": "男性 坐电动轮椅 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦼‍➡️",
-      "keywords": "👨🏼‍🦼‍➡️ E15.1 man in motorized wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦼‍➡️",
-      "keywords": "👨🏽‍🦼‍➡️ E15.1 man in motorized wheelchair facing right: medium skin tone",
+      "keywords": "男性 坐电动轮椅 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦼‍➡️",
-      "keywords": "👨🏾‍🦼‍➡️ E15.1 man in motorized wheelchair facing right: medium-dark skin tone",
+      "keywords": "男性 坐电动轮椅 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦼‍➡️",
-      "keywords": "👨🏿‍🦼‍➡️ E15.1 man in motorized wheelchair facing right: dark skin tone",
+      "keywords": "男性 坐电动轮椅 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10079,67 +10079,67 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🦼",
-      "keywords": "👩🏻‍🦼 E12.0 woman in motorized wheelchair: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦼",
-      "keywords": "👩🏼‍🦼 E12.0 woman in motorized wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦼",
-      "keywords": "👩🏽‍🦼 E12.0 woman in motorized wheelchair: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦼",
-      "keywords": "👩🏾‍🦼 E12.0 woman in motorized wheelchair: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦼",
-      "keywords": "👩🏿‍🦼 E12.0 woman in motorized wheelchair: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩‍🦼‍➡️",
-      "keywords": "👩‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏻‍🦼‍➡️",
-      "keywords": "👩🏻‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦼‍➡️",
-      "keywords": "👩🏼‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦼‍➡️",
-      "keywords": "👩🏽‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦼‍➡️",
-      "keywords": "👩🏾‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦼‍➡️",
-      "keywords": "👩🏿‍🦼‍➡️ E15.1 woman in motorized wheelchair facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10151,67 +10151,67 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🦽",
-      "keywords": "🧑🏻‍🦽 E12.1 person in manual wheelchair: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦽",
-      "keywords": "🧑🏼‍🦽 E12.1 person in manual wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦽",
-      "keywords": "🧑🏽‍🦽 E12.1 person in manual wheelchair: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦽",
-      "keywords": "🧑🏾‍🦽 E12.1 person in manual wheelchair: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦽",
-      "keywords": "🧑🏿‍🦽 E12.1 person in manual wheelchair: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑‍🦽‍➡️",
-      "keywords": "🧑‍🦽‍➡️ E15.1 person in manual wheelchair facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏻‍🦽‍➡️",
-      "keywords": "🧑🏻‍🦽‍➡️ E15.1 person in manual wheelchair facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏼‍🦽‍➡️",
-      "keywords": "🧑🏼‍🦽‍➡️ E15.1 person in manual wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏽‍🦽‍➡️",
-      "keywords": "🧑🏽‍🦽‍➡️ E15.1 person in manual wheelchair facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏾‍🦽‍➡️",
-      "keywords": "🧑🏾‍🦽‍➡️ E15.1 person in manual wheelchair facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧑🏿‍🦽‍➡️",
-      "keywords": "🧑🏿‍🦽‍➡️ E15.1 person in manual wheelchair facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10223,67 +10223,67 @@ const emojiData = {
     },
     {
       "emoji": "👨🏻‍🦽",
-      "keywords": "👨🏻‍🦽 E12.0 man in manual wheelchair: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦽",
-      "keywords": "👨🏼‍🦽 E12.0 man in manual wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦽",
-      "keywords": "👨🏽‍🦽 E12.0 man in manual wheelchair: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦽",
-      "keywords": "👨🏾‍🦽 E12.0 man in manual wheelchair: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦽",
-      "keywords": "👨🏿‍🦽 E12.0 man in manual wheelchair: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨‍🦽‍➡️",
-      "keywords": "👨‍🦽‍➡️ E15.1 man in manual wheelchair facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏻‍🦽‍➡️",
-      "keywords": "👨🏻‍🦽‍➡️ E15.1 man in manual wheelchair facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏼‍🦽‍➡️",
-      "keywords": "👨🏼‍🦽‍➡️ E15.1 man in manual wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏽‍🦽‍➡️",
-      "keywords": "👨🏽‍🦽‍➡️ E15.1 man in manual wheelchair facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏾‍🦽‍➡️",
-      "keywords": "👨🏾‍🦽‍➡️ E15.1 man in manual wheelchair facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👨🏿‍🦽‍➡️",
-      "keywords": "👨🏿‍🦽‍➡️ E15.1 man in manual wheelchair facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10295,67 +10295,67 @@ const emojiData = {
     },
     {
       "emoji": "👩🏻‍🦽",
-      "keywords": "👩🏻‍🦽 E12.0 woman in manual wheelchair: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦽",
-      "keywords": "👩🏼‍🦽 E12.0 woman in manual wheelchair: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦽",
-      "keywords": "👩🏽‍🦽 E12.0 woman in manual wheelchair: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦽",
-      "keywords": "👩🏾‍🦽 E12.0 woman in manual wheelchair: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦽",
-      "keywords": "👩🏿‍🦽 E12.0 woman in manual wheelchair: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩‍🦽‍➡️",
-      "keywords": "👩‍🦽‍➡️ E15.1 woman in manual wheelchair facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏻‍🦽‍➡️",
-      "keywords": "👩🏻‍🦽‍➡️ E15.1 woman in manual wheelchair facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏼‍🦽‍➡️",
-      "keywords": "👩🏼‍🦽‍➡️ E15.1 woman in manual wheelchair facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏽‍🦽‍➡️",
-      "keywords": "👩🏽‍🦽‍➡️ E15.1 woman in manual wheelchair facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏾‍🦽‍➡️",
-      "keywords": "👩🏾‍🦽‍➡️ E15.1 woman in manual wheelchair facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👩🏿‍🦽‍➡️",
-      "keywords": "👩🏿‍🦽‍➡️ E15.1 woman in manual wheelchair facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10367,211 +10367,211 @@ const emojiData = {
     },
     {
       "emoji": "🏃🏻",
-      "keywords": "🏃🏻 E1.0 person running: light skin tone",
+      "keywords": "人 跑步: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼",
-      "keywords": "🏃🏼 E1.0 person running: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽",
-      "keywords": "🏃🏽 E1.0 person running: medium skin tone",
+      "keywords": "人 跑步: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾",
-      "keywords": "🏃🏾 E1.0 person running: medium-dark skin tone",
+      "keywords": "人 跑步: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿",
-      "keywords": "🏃🏿 E1.0 person running: dark skin tone",
+      "keywords": "人 跑步: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃‍♂️",
-      "keywords": "🏃‍♂️ E4.0 man running",
+      "keywords": "🏃‍♂️ 男性 跑步",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏻‍♂️",
-      "keywords": "🏃🏻‍♂️ E4.0 man running: light skin tone",
+      "keywords": "男性 跑步: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼‍♂️",
-      "keywords": "🏃🏼‍♂️ E4.0 man running: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽‍♂️",
-      "keywords": "🏃🏽‍♂️ E4.0 man running: medium skin tone",
+      "keywords": "男性 跑步: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾‍♂️",
-      "keywords": "🏃🏾‍♂️ E4.0 man running: medium-dark skin tone",
+      "keywords": "男性 跑步: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿‍♂️",
-      "keywords": "🏃🏿‍♂️ E4.0 man running: dark skin tone",
+      "keywords": "男性 跑步: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃‍♀️",
-      "keywords": "🏃‍♀️ E4.0 woman running",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏻‍♀️",
-      "keywords": "🏃🏻‍♀️ E4.0 woman running: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼‍♀️",
-      "keywords": "🏃🏼‍♀️ E4.0 woman running: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽‍♀️",
-      "keywords": "🏃🏽‍♀️ E4.0 woman running: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾‍♀️",
-      "keywords": "🏃🏾‍♀️ E4.0 woman running: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿‍♀️",
-      "keywords": "🏃🏿‍♀️ E4.0 woman running: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃‍➡️",
-      "keywords": "🏃‍➡️ E15.1 person running facing right",
+      "keywords": "人 跑步 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏻‍➡️",
-      "keywords": "🏃🏻‍➡️ E15.1 person running facing right: light skin tone",
+      "keywords": "人 跑步 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼‍➡️",
-      "keywords": "🏃🏼‍➡️ E15.1 person running facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽‍➡️",
-      "keywords": "🏃🏽‍➡️ E15.1 person running facing right: medium skin tone",
+      "keywords": "人 跑步 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾‍➡️",
-      "keywords": "🏃🏾‍➡️ E15.1 person running facing right: medium-dark skin tone",
+      "keywords": "人 跑步 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿‍➡️",
-      "keywords": "🏃🏿‍➡️ E15.1 person running facing right: dark skin tone",
+      "keywords": "人 跑步 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃‍♀️‍➡️",
-      "keywords": "🏃‍♀️‍➡️ E15.1 woman running facing right",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏻‍♀️‍➡️",
-      "keywords": "🏃🏻‍♀️‍➡️ E15.1 woman running facing right: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼‍♀️‍➡️",
-      "keywords": "🏃🏼‍♀️‍➡️ E15.1 woman running facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽‍♀️‍➡️",
-      "keywords": "🏃🏽‍♀️‍➡️ E15.1 woman running facing right: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾‍♀️‍➡️",
-      "keywords": "🏃🏾‍♀️‍➡️ E15.1 woman running facing right: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿‍♀️‍➡️",
-      "keywords": "🏃🏿‍♀️‍➡️ E15.1 woman running facing right: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃‍♂️‍➡️",
-      "keywords": "🏃‍♂️‍➡️ E15.1 man running facing right",
+      "keywords": "男性 跑步 向右",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏻‍♂️‍➡️",
-      "keywords": "🏃🏻‍♂️‍➡️ E15.1 man running facing right: light skin tone",
+      "keywords": "男性 跑步 向右: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏼‍♂️‍➡️",
-      "keywords": "🏃🏼‍♂️‍➡️ E15.1 man running facing right: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏽‍♂️‍➡️",
-      "keywords": "🏃🏽‍♂️‍➡️ E15.1 man running facing right: medium skin tone",
+      "keywords": "男性 跑步 向右: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏾‍♂️‍➡️",
-      "keywords": "🏃🏾‍♂️‍➡️ E15.1 man running facing right: medium-dark skin tone",
+      "keywords": "男性 跑步 向右: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🏃🏿‍♂️‍➡️",
-      "keywords": "🏃🏿‍♂️‍➡️ E15.1 man running facing right: dark skin tone",
+      "keywords": "男性 跑步 向右: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10583,31 +10583,31 @@ const emojiData = {
     },
     {
       "emoji": "💃🏻",
-      "keywords": "💃🏻 E1.0 woman dancing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💃🏼",
-      "keywords": "💃🏼 E1.0 woman dancing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💃🏽",
-      "keywords": "💃🏽 E1.0 woman dancing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💃🏾",
-      "keywords": "💃🏾 E1.0 woman dancing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "💃🏿",
-      "keywords": "💃🏿 E1.0 woman dancing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10619,67 +10619,67 @@ const emojiData = {
     },
     {
       "emoji": "🕺🏻",
-      "keywords": "🕺🏻 E3.0 man dancing: light skin tone",
+      "keywords": "男性 跳舞: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕺🏼",
-      "keywords": "🕺🏼 E3.0 man dancing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕺🏽",
-      "keywords": "🕺🏽 E3.0 man dancing: medium skin tone",
+      "keywords": "男性 跳舞: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕺🏾",
-      "keywords": "🕺🏾 E3.0 man dancing: medium-dark skin tone",
+      "keywords": "男性 跳舞: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕺🏿",
-      "keywords": "🕺🏿 E3.0 man dancing: dark skin tone",
+      "keywords": "男性 跳舞: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴️",
-      "keywords": "🕴️ E0.7 person in suit levitating",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴🏻",
-      "keywords": "🕴🏻 E4.0 person in suit levitating: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴🏼",
-      "keywords": "🕴🏼 E4.0 person in suit levitating: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴🏽",
-      "keywords": "🕴🏽 E4.0 person in suit levitating: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴🏾",
-      "keywords": "🕴🏾 E4.0 person in suit levitating: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🕴🏿",
-      "keywords": "🕴🏿 E4.0 person in suit levitating: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10691,13 +10691,13 @@ const emojiData = {
     },
     {
       "emoji": "👯‍♂️",
-      "keywords": "👯‍♂️ E4.0 men with bunny ears",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "👯‍♀️",
-      "keywords": "👯‍♀️ E4.0 women with bunny ears",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10709,103 +10709,103 @@ const emojiData = {
     },
     {
       "emoji": "🧖🏻",
-      "keywords": "🧖🏻 E5.0 person in steamy room: light skin tone",
+      "keywords": "人 在蒸汽房: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏼",
-      "keywords": "🧖🏼 E5.0 person in steamy room: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏽",
-      "keywords": "🧖🏽 E5.0 person in steamy room: medium skin tone",
+      "keywords": "人 在蒸汽房: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏾",
-      "keywords": "🧖🏾 E5.0 person in steamy room: medium-dark skin tone",
+      "keywords": "人 在蒸汽房: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏿",
-      "keywords": "🧖🏿 E5.0 person in steamy room: dark skin tone",
+      "keywords": "人 在蒸汽房: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖‍♂️",
-      "keywords": "🧖‍♂️ E5.0 man in steamy room",
+      "keywords": "🧖‍♂️ 男性 在蒸汽房",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏻‍♂️",
-      "keywords": "🧖🏻‍♂️ E5.0 man in steamy room: light skin tone",
+      "keywords": "男性 在蒸汽房: 浅肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏼‍♂️",
-      "keywords": "🧖🏼‍♂️ E5.0 man in steamy room: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏽‍♂️",
-      "keywords": "🧖🏽‍♂️ E5.0 man in steamy room: medium skin tone",
+      "keywords": "男性 在蒸汽房: 中等肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏾‍♂️",
-      "keywords": "🧖🏾‍♂️ E5.0 man in steamy room: medium-dark skin tone",
+      "keywords": "男性 在蒸汽房: 中深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏿‍♂️",
-      "keywords": "🧖🏿‍♂️ E5.0 man in steamy room: dark skin tone",
+      "keywords": "男性 在蒸汽房: 深肤色",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖‍♀️",
-      "keywords": "🧖‍♀️ E5.0 woman in steamy room",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏻‍♀️",
-      "keywords": "🧖🏻‍♀️ E5.0 woman in steamy room: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏼‍♀️",
-      "keywords": "🧖🏼‍♀️ E5.0 woman in steamy room: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏽‍♀️",
-      "keywords": "🧖🏽‍♀️ E5.0 woman in steamy room: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏾‍♀️",
-      "keywords": "🧖🏾‍♀️ E5.0 woman in steamy room: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧖🏿‍♀️",
-      "keywords": "🧖🏿‍♀️ E5.0 woman in steamy room: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10817,103 +10817,103 @@ const emojiData = {
     },
     {
       "emoji": "🧗🏻",
-      "keywords": "🧗🏻 E5.0 person climbing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏼",
-      "keywords": "🧗🏼 E5.0 person climbing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏽",
-      "keywords": "🧗🏽 E5.0 person climbing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏾",
-      "keywords": "🧗🏾 E5.0 person climbing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏿",
-      "keywords": "🧗🏿 E5.0 person climbing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗‍♂️",
-      "keywords": "🧗‍♂️ E5.0 man climbing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏻‍♂️",
-      "keywords": "🧗🏻‍♂️ E5.0 man climbing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏼‍♂️",
-      "keywords": "🧗🏼‍♂️ E5.0 man climbing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏽‍♂️",
-      "keywords": "🧗🏽‍♂️ E5.0 man climbing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏾‍♂️",
-      "keywords": "🧗🏾‍♂️ E5.0 man climbing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏿‍♂️",
-      "keywords": "🧗🏿‍♂️ E5.0 man climbing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗‍♀️",
-      "keywords": "🧗‍♀️ E5.0 woman climbing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏻‍♀️",
-      "keywords": "🧗🏻‍♀️ E5.0 woman climbing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏼‍♀️",
-      "keywords": "🧗🏼‍♀️ E5.0 woman climbing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏽‍♀️",
-      "keywords": "🧗🏽‍♀️ E5.0 woman climbing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏾‍♀️",
-      "keywords": "🧗🏾‍♀️ E5.0 woman climbing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
     {
       "emoji": "🧗🏿‍♀️",
-      "keywords": "🧗🏿‍♀️ E5.0 woman climbing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-activity"
     },
@@ -10931,37 +10931,37 @@ const emojiData = {
     },
     {
       "emoji": "🏇🏻",
-      "keywords": "🏇🏻 E1.0 horse racing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏇🏼",
-      "keywords": "🏇🏼 E1.0 horse racing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏇🏽",
-      "keywords": "🏇🏽 E1.0 horse racing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏇🏾",
-      "keywords": "🏇🏾 E1.0 horse racing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏇🏿",
-      "keywords": "🏇🏿 E1.0 horse racing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛷️",
-      "keywords": "⛷️ E0.7 skier",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11003,109 +11003,109 @@ const emojiData = {
     },
     {
       "emoji": "🏌️",
-      "keywords": "🏌️ E0.7 person golfing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏻",
-      "keywords": "🏌🏻 E4.0 person golfing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏼",
-      "keywords": "🏌🏼 E4.0 person golfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏽",
-      "keywords": "🏌🏽 E4.0 person golfing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏾",
-      "keywords": "🏌🏾 E4.0 person golfing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏿",
-      "keywords": "🏌🏿 E4.0 person golfing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌️‍♂️",
-      "keywords": "🏌️‍♂️ E4.0 man golfing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏻‍♂️",
-      "keywords": "🏌🏻‍♂️ E4.0 man golfing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏼‍♂️",
-      "keywords": "🏌🏼‍♂️ E4.0 man golfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏽‍♂️",
-      "keywords": "🏌🏽‍♂️ E4.0 man golfing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏾‍♂️",
-      "keywords": "🏌🏾‍♂️ E4.0 man golfing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏿‍♂️",
-      "keywords": "🏌🏿‍♂️ E4.0 man golfing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌️‍♀️",
-      "keywords": "🏌️‍♀️ E4.0 woman golfing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏻‍♀️",
-      "keywords": "🏌🏻‍♀️ E4.0 woman golfing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏼‍♀️",
-      "keywords": "🏌🏼‍♀️ E4.0 woman golfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏽‍♀️",
-      "keywords": "🏌🏽‍♀️ E4.0 woman golfing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏾‍♀️",
-      "keywords": "🏌🏾‍♀️ E4.0 woman golfing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏌🏿‍♀️",
-      "keywords": "🏌🏿‍♀️ E4.0 woman golfing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11117,103 +11117,103 @@ const emojiData = {
     },
     {
       "emoji": "🏄🏻",
-      "keywords": "🏄🏻 E1.0 person surfing: light skin tone",
+      "keywords": "人 冲浪: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏼",
-      "keywords": "🏄🏼 E1.0 person surfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏽",
-      "keywords": "🏄🏽 E1.0 person surfing: medium skin tone",
+      "keywords": "人 冲浪: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏾",
-      "keywords": "🏄🏾 E1.0 person surfing: medium-dark skin tone",
+      "keywords": "人 冲浪: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏿",
-      "keywords": "🏄🏿 E1.0 person surfing: dark skin tone",
+      "keywords": "人 冲浪: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄‍♂️",
-      "keywords": "🏄‍♂️ E4.0 man surfing",
+      "keywords": "🏄‍♂️ 男性 冲浪",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏻‍♂️",
-      "keywords": "🏄🏻‍♂️ E4.0 man surfing: light skin tone",
+      "keywords": "男性 冲浪: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏼‍♂️",
-      "keywords": "🏄🏼‍♂️ E4.0 man surfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏽‍♂️",
-      "keywords": "🏄🏽‍♂️ E4.0 man surfing: medium skin tone",
+      "keywords": "男性 冲浪: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏾‍♂️",
-      "keywords": "🏄🏾‍♂️ E4.0 man surfing: medium-dark skin tone",
+      "keywords": "男性 冲浪: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏿‍♂️",
-      "keywords": "🏄🏿‍♂️ E4.0 man surfing: dark skin tone",
+      "keywords": "男性 冲浪: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄‍♀️",
-      "keywords": "🏄‍♀️ E4.0 woman surfing",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏻‍♀️",
-      "keywords": "🏄🏻‍♀️ E4.0 woman surfing: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏼‍♀️",
-      "keywords": "🏄🏼‍♀️ E4.0 woman surfing: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏽‍♀️",
-      "keywords": "🏄🏽‍♀️ E4.0 woman surfing: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏾‍♀️",
-      "keywords": "🏄🏾‍♀️ E4.0 woman surfing: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏄🏿‍♀️",
-      "keywords": "🏄🏿‍♀️ E4.0 woman surfing: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11225,103 +11225,103 @@ const emojiData = {
     },
     {
       "emoji": "🚣🏻",
-      "keywords": "🚣🏻 E1.0 person rowing boat: light skin tone",
+      "keywords": "人 划船: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏼",
-      "keywords": "🚣🏼 E1.0 person rowing boat: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏽",
-      "keywords": "🚣🏽 E1.0 person rowing boat: medium skin tone",
+      "keywords": "人 划船: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏾",
-      "keywords": "🚣🏾 E1.0 person rowing boat: medium-dark skin tone",
+      "keywords": "人 划船: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏿",
-      "keywords": "🚣🏿 E1.0 person rowing boat: dark skin tone",
+      "keywords": "人 划船: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣‍♂️",
-      "keywords": "🚣‍♂️ E4.0 man rowing boat",
+      "keywords": "🚣‍♂️ 男性 划船",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏻‍♂️",
-      "keywords": "🚣🏻‍♂️ E4.0 man rowing boat: light skin tone",
+      "keywords": "男性 划船: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏼‍♂️",
-      "keywords": "🚣🏼‍♂️ E4.0 man rowing boat: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏽‍♂️",
-      "keywords": "🚣🏽‍♂️ E4.0 man rowing boat: medium skin tone",
+      "keywords": "男性 划船: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏾‍♂️",
-      "keywords": "🚣🏾‍♂️ E4.0 man rowing boat: medium-dark skin tone",
+      "keywords": "男性 划船: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏿‍♂️",
-      "keywords": "🚣🏿‍♂️ E4.0 man rowing boat: dark skin tone",
+      "keywords": "男性 划船: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣‍♀️",
-      "keywords": "🚣‍♀️ E4.0 woman rowing boat",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏻‍♀️",
-      "keywords": "🚣🏻‍♀️ E4.0 woman rowing boat: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏼‍♀️",
-      "keywords": "🚣🏼‍♀️ E4.0 woman rowing boat: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏽‍♀️",
-      "keywords": "🚣🏽‍♀️ E4.0 woman rowing boat: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏾‍♀️",
-      "keywords": "🚣🏾‍♀️ E4.0 woman rowing boat: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚣🏿‍♀️",
-      "keywords": "🚣🏿‍♀️ E4.0 woman rowing boat: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11333,319 +11333,319 @@ const emojiData = {
     },
     {
       "emoji": "🏊🏻",
-      "keywords": "🏊🏻 E1.0 person swimming: light skin tone",
+      "keywords": "人 游泳: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏼",
-      "keywords": "🏊🏼 E1.0 person swimming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏽",
-      "keywords": "🏊🏽 E1.0 person swimming: medium skin tone",
+      "keywords": "人 游泳: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏾",
-      "keywords": "🏊🏾 E1.0 person swimming: medium-dark skin tone",
+      "keywords": "人 游泳: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏿",
-      "keywords": "🏊🏿 E1.0 person swimming: dark skin tone",
+      "keywords": "人 游泳: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊‍♂️",
-      "keywords": "🏊‍♂️ E4.0 man swimming",
+      "keywords": "🏊‍♂️ 男性 游泳",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏻‍♂️",
-      "keywords": "🏊🏻‍♂️ E4.0 man swimming: light skin tone",
+      "keywords": "男性 游泳: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏼‍♂️",
-      "keywords": "🏊🏼‍♂️ E4.0 man swimming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏽‍♂️",
-      "keywords": "🏊🏽‍♂️ E4.0 man swimming: medium skin tone",
+      "keywords": "男性 游泳: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏾‍♂️",
-      "keywords": "🏊🏾‍♂️ E4.0 man swimming: medium-dark skin tone",
+      "keywords": "男性 游泳: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏿‍♂️",
-      "keywords": "🏊🏿‍♂️ E4.0 man swimming: dark skin tone",
+      "keywords": "男性 游泳: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊‍♀️",
-      "keywords": "🏊‍♀️ E4.0 woman swimming",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏻‍♀️",
-      "keywords": "🏊🏻‍♀️ E4.0 woman swimming: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏼‍♀️",
-      "keywords": "🏊🏼‍♀️ E4.0 woman swimming: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏽‍♀️",
-      "keywords": "🏊🏽‍♀️ E4.0 woman swimming: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏾‍♀️",
-      "keywords": "🏊🏾‍♀️ E4.0 woman swimming: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏊🏿‍♀️",
-      "keywords": "🏊🏿‍♀️ E4.0 woman swimming: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹️",
-      "keywords": "⛹️ E0.7 person bouncing ball",
+      "keywords": "⛹️ 人 拍球",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏻",
-      "keywords": "⛹🏻 E2.0 person bouncing ball: light skin tone",
+      "keywords": "人 拍球: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏼",
-      "keywords": "⛹🏼 E2.0 person bouncing ball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏽",
-      "keywords": "⛹🏽 E2.0 person bouncing ball: medium skin tone",
+      "keywords": "人 拍球: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏾",
-      "keywords": "⛹🏾 E2.0 person bouncing ball: medium-dark skin tone",
+      "keywords": "人 拍球: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏿",
-      "keywords": "⛹🏿 E2.0 person bouncing ball: dark skin tone",
+      "keywords": "人 拍球: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹️‍♂️",
-      "keywords": "⛹️‍♂️ E4.0 man bouncing ball",
+      "keywords": "⛹️‍♂️ 男性 拍球",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏻‍♂️",
-      "keywords": "⛹🏻‍♂️ E4.0 man bouncing ball: light skin tone",
+      "keywords": "男性 拍球: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏼‍♂️",
-      "keywords": "⛹🏼‍♂️ E4.0 man bouncing ball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏽‍♂️",
-      "keywords": "⛹🏽‍♂️ E4.0 man bouncing ball: medium skin tone",
+      "keywords": "男性 拍球: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏾‍♂️",
-      "keywords": "⛹🏾‍♂️ E4.0 man bouncing ball: medium-dark skin tone",
+      "keywords": "男性 拍球: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏿‍♂️",
-      "keywords": "⛹🏿‍♂️ E4.0 man bouncing ball: dark skin tone",
+      "keywords": "男性 拍球: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹️‍♀️",
-      "keywords": "⛹️‍♀️ E4.0 woman bouncing ball",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏻‍♀️",
-      "keywords": "⛹🏻‍♀️ E4.0 woman bouncing ball: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏼‍♀️",
-      "keywords": "⛹🏼‍♀️ E4.0 woman bouncing ball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏽‍♀️",
-      "keywords": "⛹🏽‍♀️ E4.0 woman bouncing ball: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏾‍♀️",
-      "keywords": "⛹🏾‍♀️ E4.0 woman bouncing ball: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "⛹🏿‍♀️",
-      "keywords": "⛹🏿‍♀️ E4.0 woman bouncing ball: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋️",
-      "keywords": "🏋️ E0.7 person lifting weights",
+      "keywords": "🏋️ 人 举重",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏻",
-      "keywords": "🏋🏻 E2.0 person lifting weights: light skin tone",
+      "keywords": "人 举重: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏼",
-      "keywords": "🏋🏼 E2.0 person lifting weights: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏽",
-      "keywords": "🏋🏽 E2.0 person lifting weights: medium skin tone",
+      "keywords": "人 举重: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏾",
-      "keywords": "🏋🏾 E2.0 person lifting weights: medium-dark skin tone",
+      "keywords": "人 举重: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏿",
-      "keywords": "🏋🏿 E2.0 person lifting weights: dark skin tone",
+      "keywords": "人 举重: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋️‍♂️",
-      "keywords": "🏋️‍♂️ E4.0 man lifting weights",
+      "keywords": "🏋️‍♂️ 男性 举重",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏻‍♂️",
-      "keywords": "🏋🏻‍♂️ E4.0 man lifting weights: light skin tone",
+      "keywords": "男性 举重: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏼‍♂️",
-      "keywords": "🏋🏼‍♂️ E4.0 man lifting weights: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏽‍♂️",
-      "keywords": "🏋🏽‍♂️ E4.0 man lifting weights: medium skin tone",
+      "keywords": "男性 举重: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏾‍♂️",
-      "keywords": "🏋🏾‍♂️ E4.0 man lifting weights: medium-dark skin tone",
+      "keywords": "男性 举重: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏿‍♂️",
-      "keywords": "🏋🏿‍♂️ E4.0 man lifting weights: dark skin tone",
+      "keywords": "男性 举重: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋️‍♀️",
-      "keywords": "🏋️‍♀️ E4.0 woman lifting weights",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏻‍♀️",
-      "keywords": "🏋🏻‍♀️ E4.0 woman lifting weights: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏼‍♀️",
-      "keywords": "🏋🏼‍♀️ E4.0 woman lifting weights: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏽‍♀️",
-      "keywords": "🏋🏽‍♀️ E4.0 woman lifting weights: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏾‍♀️",
-      "keywords": "🏋🏾‍♀️ E4.0 woman lifting weights: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🏋🏿‍♀️",
-      "keywords": "🏋🏿‍♀️ E4.0 woman lifting weights: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11657,103 +11657,103 @@ const emojiData = {
     },
     {
       "emoji": "🚴🏻",
-      "keywords": "🚴🏻 E1.0 person biking: light skin tone",
+      "keywords": "人 骑自行车: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏼",
-      "keywords": "🚴🏼 E1.0 person biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏽",
-      "keywords": "🚴🏽 E1.0 person biking: medium skin tone",
+      "keywords": "人 骑自行车: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏾",
-      "keywords": "🚴🏾 E1.0 person biking: medium-dark skin tone",
+      "keywords": "人 骑自行车: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏿",
-      "keywords": "🚴🏿 E1.0 person biking: dark skin tone",
+      "keywords": "人 骑自行车: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴‍♂️",
-      "keywords": "🚴‍♂️ E4.0 man biking",
+      "keywords": "🚴‍♂️ 男性 骑自行车",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏻‍♂️",
-      "keywords": "🚴🏻‍♂️ E4.0 man biking: light skin tone",
+      "keywords": "男性 骑自行车: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏼‍♂️",
-      "keywords": "🚴🏼‍♂️ E4.0 man biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏽‍♂️",
-      "keywords": "🚴🏽‍♂️ E4.0 man biking: medium skin tone",
+      "keywords": "男性 骑自行车: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏾‍♂️",
-      "keywords": "🚴🏾‍♂️ E4.0 man biking: medium-dark skin tone",
+      "keywords": "男性 骑自行车: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏿‍♂️",
-      "keywords": "🚴🏿‍♂️ E4.0 man biking: dark skin tone",
+      "keywords": "男性 骑自行车: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴‍♀️",
-      "keywords": "🚴‍♀️ E4.0 woman biking",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏻‍♀️",
-      "keywords": "🚴🏻‍♀️ E4.0 woman biking: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏼‍♀️",
-      "keywords": "🚴🏼‍♀️ E4.0 woman biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏽‍♀️",
-      "keywords": "🚴🏽‍♀️ E4.0 woman biking: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏾‍♀️",
-      "keywords": "🚴🏾‍♀️ E4.0 woman biking: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚴🏿‍♀️",
-      "keywords": "🚴🏿‍♀️ E4.0 woman biking: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11765,103 +11765,103 @@ const emojiData = {
     },
     {
       "emoji": "🚵🏻",
-      "keywords": "🚵🏻 E1.0 person mountain biking: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏼",
-      "keywords": "🚵🏼 E1.0 person mountain biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏽",
-      "keywords": "🚵🏽 E1.0 person mountain biking: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏾",
-      "keywords": "🚵🏾 E1.0 person mountain biking: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏿",
-      "keywords": "🚵🏿 E1.0 person mountain biking: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵‍♂️",
-      "keywords": "🚵‍♂️ E4.0 man mountain biking",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏻‍♂️",
-      "keywords": "🚵🏻‍♂️ E4.0 man mountain biking: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏼‍♂️",
-      "keywords": "🚵🏼‍♂️ E4.0 man mountain biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏽‍♂️",
-      "keywords": "🚵🏽‍♂️ E4.0 man mountain biking: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏾‍♂️",
-      "keywords": "🚵🏾‍♂️ E4.0 man mountain biking: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏿‍♂️",
-      "keywords": "🚵🏿‍♂️ E4.0 man mountain biking: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵‍♀️",
-      "keywords": "🚵‍♀️ E4.0 woman mountain biking",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏻‍♀️",
-      "keywords": "🚵🏻‍♀️ E4.0 woman mountain biking: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏼‍♀️",
-      "keywords": "🚵🏼‍♀️ E4.0 woman mountain biking: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏽‍♀️",
-      "keywords": "🚵🏽‍♀️ E4.0 woman mountain biking: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏾‍♀️",
-      "keywords": "🚵🏾‍♀️ E4.0 woman mountain biking: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🚵🏿‍♀️",
-      "keywords": "🚵🏿‍♀️ E4.0 woman mountain biking: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11873,103 +11873,103 @@ const emojiData = {
     },
     {
       "emoji": "🤸🏻",
-      "keywords": "🤸🏻 E3.0 person cartwheeling: light skin tone",
+      "keywords": "人 侧手翻: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏼",
-      "keywords": "🤸🏼 E3.0 person cartwheeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏽",
-      "keywords": "🤸🏽 E3.0 person cartwheeling: medium skin tone",
+      "keywords": "人 侧手翻: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏾",
-      "keywords": "🤸🏾 E3.0 person cartwheeling: medium-dark skin tone",
+      "keywords": "人 侧手翻: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏿",
-      "keywords": "🤸🏿 E3.0 person cartwheeling: dark skin tone",
+      "keywords": "人 侧手翻: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸‍♂️",
-      "keywords": "🤸‍♂️ E4.0 man cartwheeling",
+      "keywords": "🤸‍♂️ 男性 侧手翻",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏻‍♂️",
-      "keywords": "🤸🏻‍♂️ E4.0 man cartwheeling: light skin tone",
+      "keywords": "男性 侧手翻: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏼‍♂️",
-      "keywords": "🤸🏼‍♂️ E4.0 man cartwheeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏽‍♂️",
-      "keywords": "🤸🏽‍♂️ E4.0 man cartwheeling: medium skin tone",
+      "keywords": "男性 侧手翻: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏾‍♂️",
-      "keywords": "🤸🏾‍♂️ E4.0 man cartwheeling: medium-dark skin tone",
+      "keywords": "男性 侧手翻: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏿‍♂️",
-      "keywords": "🤸🏿‍♂️ E4.0 man cartwheeling: dark skin tone",
+      "keywords": "男性 侧手翻: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸‍♀️",
-      "keywords": "🤸‍♀️ E4.0 woman cartwheeling",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏻‍♀️",
-      "keywords": "🤸🏻‍♀️ E4.0 woman cartwheeling: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏼‍♀️",
-      "keywords": "🤸🏼‍♀️ E4.0 woman cartwheeling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏽‍♀️",
-      "keywords": "🤸🏽‍♀️ E4.0 woman cartwheeling: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏾‍♀️",
-      "keywords": "🤸🏾‍♀️ E4.0 woman cartwheeling: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤸🏿‍♀️",
-      "keywords": "🤸🏿‍♀️ E4.0 woman cartwheeling: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11981,13 +11981,13 @@ const emojiData = {
     },
     {
       "emoji": "🤼‍♂️",
-      "keywords": "🤼‍♂️ E4.0 men wrestling",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤼‍♀️",
-      "keywords": "🤼‍♀️ E4.0 women wrestling",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -11999,103 +11999,103 @@ const emojiData = {
     },
     {
       "emoji": "🤽🏻",
-      "keywords": "🤽🏻 E3.0 person playing water polo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏼",
-      "keywords": "🤽🏼 E3.0 person playing water polo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏽",
-      "keywords": "🤽🏽 E3.0 person playing water polo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏾",
-      "keywords": "🤽🏾 E3.0 person playing water polo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏿",
-      "keywords": "🤽🏿 E3.0 person playing water polo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽‍♂️",
-      "keywords": "🤽‍♂️ E4.0 man playing water polo",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏻‍♂️",
-      "keywords": "🤽🏻‍♂️ E4.0 man playing water polo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏼‍♂️",
-      "keywords": "🤽🏼‍♂️ E4.0 man playing water polo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏽‍♂️",
-      "keywords": "🤽🏽‍♂️ E4.0 man playing water polo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏾‍♂️",
-      "keywords": "🤽🏾‍♂️ E4.0 man playing water polo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏿‍♂️",
-      "keywords": "🤽🏿‍♂️ E4.0 man playing water polo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽‍♀️",
-      "keywords": "🤽‍♀️ E4.0 woman playing water polo",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏻‍♀️",
-      "keywords": "🤽🏻‍♀️ E4.0 woman playing water polo: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏼‍♀️",
-      "keywords": "🤽🏼‍♀️ E4.0 woman playing water polo: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏽‍♀️",
-      "keywords": "🤽🏽‍♀️ E4.0 woman playing water polo: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏾‍♀️",
-      "keywords": "🤽🏾‍♀️ E4.0 woman playing water polo: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤽🏿‍♀️",
-      "keywords": "🤽🏿‍♀️ E4.0 woman playing water polo: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -12107,103 +12107,103 @@ const emojiData = {
     },
     {
       "emoji": "🤾🏻",
-      "keywords": "🤾🏻 E3.0 person playing handball: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏼",
-      "keywords": "🤾🏼 E3.0 person playing handball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏽",
-      "keywords": "🤾🏽 E3.0 person playing handball: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏾",
-      "keywords": "🤾🏾 E3.0 person playing handball: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏿",
-      "keywords": "🤾🏿 E3.0 person playing handball: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾‍♂️",
-      "keywords": "🤾‍♂️ E4.0 man playing handball",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏻‍♂️",
-      "keywords": "🤾🏻‍♂️ E4.0 man playing handball: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏼‍♂️",
-      "keywords": "🤾🏼‍♂️ E4.0 man playing handball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏽‍♂️",
-      "keywords": "🤾🏽‍♂️ E4.0 man playing handball: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏾‍♂️",
-      "keywords": "🤾🏾‍♂️ E4.0 man playing handball: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏿‍♂️",
-      "keywords": "🤾🏿‍♂️ E4.0 man playing handball: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾‍♀️",
-      "keywords": "🤾‍♀️ E4.0 woman playing handball",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏻‍♀️",
-      "keywords": "🤾🏻‍♀️ E4.0 woman playing handball: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏼‍♀️",
-      "keywords": "🤾🏼‍♀️ E4.0 woman playing handball: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏽‍♀️",
-      "keywords": "🤾🏽‍♀️ E4.0 woman playing handball: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏾‍♀️",
-      "keywords": "🤾🏾‍♀️ E4.0 woman playing handball: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤾🏿‍♀️",
-      "keywords": "🤾🏿‍♀️ E4.0 woman playing handball: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -12215,103 +12215,103 @@ const emojiData = {
     },
     {
       "emoji": "🤹🏻",
-      "keywords": "🤹🏻 E3.0 person juggling: light skin tone",
+      "keywords": "人 杂耍: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏼",
-      "keywords": "🤹🏼 E3.0 person juggling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏽",
-      "keywords": "🤹🏽 E3.0 person juggling: medium skin tone",
+      "keywords": "人 杂耍: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏾",
-      "keywords": "🤹🏾 E3.0 person juggling: medium-dark skin tone",
+      "keywords": "人 杂耍: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏿",
-      "keywords": "🤹🏿 E3.0 person juggling: dark skin tone",
+      "keywords": "人 杂耍: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹‍♂️",
-      "keywords": "🤹‍♂️ E4.0 man juggling",
+      "keywords": "🤹‍♂️ 男性 杂耍",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏻‍♂️",
-      "keywords": "🤹🏻‍♂️ E4.0 man juggling: light skin tone",
+      "keywords": "男性 杂耍: 浅肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏼‍♂️",
-      "keywords": "🤹🏼‍♂️ E4.0 man juggling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏽‍♂️",
-      "keywords": "🤹🏽‍♂️ E4.0 man juggling: medium skin tone",
+      "keywords": "男性 杂耍: 中等肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏾‍♂️",
-      "keywords": "🤹🏾‍♂️ E4.0 man juggling: medium-dark skin tone",
+      "keywords": "男性 杂耍: 中深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏿‍♂️",
-      "keywords": "🤹🏿‍♂️ E4.0 man juggling: dark skin tone",
+      "keywords": "男性 杂耍: 深肤色",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹‍♀️",
-      "keywords": "🤹‍♀️ E4.0 woman juggling",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏻‍♀️",
-      "keywords": "🤹🏻‍♀️ E4.0 woman juggling: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏼‍♀️",
-      "keywords": "🤹🏼‍♀️ E4.0 woman juggling: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏽‍♀️",
-      "keywords": "🤹🏽‍♀️ E4.0 woman juggling: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏾‍♀️",
-      "keywords": "🤹🏾‍♀️ E4.0 woman juggling: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
     {
       "emoji": "🤹🏿‍♀️",
-      "keywords": "🤹🏿‍♀️ E4.0 woman juggling: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-sport"
     },
@@ -12323,103 +12323,103 @@ const emojiData = {
     },
     {
       "emoji": "🧘🏻",
-      "keywords": "🧘🏻 E5.0 person in lotus position: light skin tone",
+      "keywords": "人 盘腿而坐: 浅肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏼",
-      "keywords": "🧘🏼 E5.0 person in lotus position: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏽",
-      "keywords": "🧘🏽 E5.0 person in lotus position: medium skin tone",
+      "keywords": "人 盘腿而坐: 中等肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏾",
-      "keywords": "🧘🏾 E5.0 person in lotus position: medium-dark skin tone",
+      "keywords": "人 盘腿而坐: 中深肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏿",
-      "keywords": "🧘🏿 E5.0 person in lotus position: dark skin tone",
+      "keywords": "人 盘腿而坐: 深肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘‍♂️",
-      "keywords": "🧘‍♂️ E5.0 man in lotus position",
+      "keywords": "🧘‍♂️ 男性 盘腿而坐",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏻‍♂️",
-      "keywords": "🧘🏻‍♂️ E5.0 man in lotus position: light skin tone",
+      "keywords": "男性 盘腿而坐: 浅肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏼‍♂️",
-      "keywords": "🧘🏼‍♂️ E5.0 man in lotus position: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏽‍♂️",
-      "keywords": "🧘🏽‍♂️ E5.0 man in lotus position: medium skin tone",
+      "keywords": "男性 盘腿而坐: 中等肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏾‍♂️",
-      "keywords": "🧘🏾‍♂️ E5.0 man in lotus position: medium-dark skin tone",
+      "keywords": "男性 盘腿而坐: 中深肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏿‍♂️",
-      "keywords": "🧘🏿‍♂️ E5.0 man in lotus position: dark skin tone",
+      "keywords": "男性 盘腿而坐: 深肤色",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘‍♀️",
-      "keywords": "🧘‍♀️ E5.0 woman in lotus position",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏻‍♀️",
-      "keywords": "🧘🏻‍♀️ E5.0 woman in lotus position: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏼‍♀️",
-      "keywords": "🧘🏼‍♀️ E5.0 woman in lotus position: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏽‍♀️",
-      "keywords": "🧘🏽‍♀️ E5.0 woman in lotus position: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏾‍♀️",
-      "keywords": "🧘🏾‍♀️ E5.0 woman in lotus position: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🧘🏿‍♀️",
-      "keywords": "🧘🏿‍♀️ E5.0 woman in lotus position: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
@@ -12431,31 +12431,31 @@ const emojiData = {
     },
     {
       "emoji": "🛀🏻",
-      "keywords": "🛀🏻 E1.0 person taking bath: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛀🏼",
-      "keywords": "🛀🏼 E1.0 person taking bath: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛀🏽",
-      "keywords": "🛀🏽 E1.0 person taking bath: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛀🏾",
-      "keywords": "🛀🏾 E1.0 person taking bath: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛀🏿",
-      "keywords": "🛀🏿 E1.0 person taking bath: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
@@ -12467,31 +12467,31 @@ const emojiData = {
     },
     {
       "emoji": "🛌🏻",
-      "keywords": "🛌🏻 E4.0 person in bed: light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛌🏼",
-      "keywords": "🛌🏼 E4.0 person in bed: medium-light skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛌🏽",
-      "keywords": "🛌🏽 E4.0 person in bed: medium skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛌🏾",
-      "keywords": "🛌🏾 E4.0 person in bed: medium-dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
     {
       "emoji": "🛌🏿",
-      "keywords": "🛌🏿 E4.0 person in bed: dark skin tone",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-resting"
     },
@@ -12503,151 +12503,151 @@ const emojiData = {
     },
     {
       "emoji": "🧑🏻‍🤝‍🧑🏻",
-      "keywords": "🧑🏻‍🤝‍🧑🏻 E12.0 people holding hands: light skin tone",
+      "keywords": "人们 牵手: 浅肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍🤝‍🧑🏼",
-      "keywords": "🧑🏻‍🤝‍🧑🏼 E12.1 people holding hands: light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍🤝‍🧑🏽",
-      "keywords": "🧑🏻‍🤝‍🧑🏽 E12.1 people holding hands: light skin tone, medium skin tone",
+      "keywords": "人们 牵手: 浅肤色, 中等肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍🤝‍🧑🏾",
-      "keywords": "🧑🏻‍🤝‍🧑🏾 E12.1 people holding hands: light skin tone, medium-dark skin tone",
+      "keywords": "人们 牵手: 浅肤色, 中深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍🤝‍🧑🏿",
-      "keywords": "🧑🏻‍🤝‍🧑🏿 E12.1 people holding hands: light skin tone, dark skin tone",
+      "keywords": "人们 牵手: 浅肤色, 深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍🤝‍🧑🏻",
-      "keywords": "🧑🏼‍🤝‍🧑🏻 E12.0 people holding hands: medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍🤝‍🧑🏼",
-      "keywords": "🧑🏼‍🤝‍🧑🏼 E12.0 people holding hands: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍🤝‍🧑🏽",
-      "keywords": "🧑🏼‍🤝‍🧑🏽 E12.1 people holding hands: medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍🤝‍🧑🏾",
-      "keywords": "🧑🏼‍🤝‍🧑🏾 E12.1 people holding hands: medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍🤝‍🧑🏿",
-      "keywords": "🧑🏼‍🤝‍🧑🏿 E12.1 people holding hands: medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍🤝‍🧑🏻",
-      "keywords": "🧑🏽‍🤝‍🧑🏻 E12.0 people holding hands: medium skin tone, light skin tone",
+      "keywords": "人们 牵手: 中等肤色, 浅肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍🤝‍🧑🏼",
-      "keywords": "🧑🏽‍🤝‍🧑🏼 E12.0 people holding hands: medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍🤝‍🧑🏽",
-      "keywords": "🧑🏽‍🤝‍🧑🏽 E12.0 people holding hands: medium skin tone",
+      "keywords": "人们 牵手: 中等肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍🤝‍🧑🏾",
-      "keywords": "🧑🏽‍🤝‍🧑🏾 E12.1 people holding hands: medium skin tone, medium-dark skin tone",
+      "keywords": "人们 牵手: 中等肤色, 中深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍🤝‍🧑🏿",
-      "keywords": "🧑🏽‍🤝‍🧑🏿 E12.1 people holding hands: medium skin tone, dark skin tone",
+      "keywords": "人们 牵手: 中等肤色, 深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍🤝‍🧑🏻",
-      "keywords": "🧑🏾‍🤝‍🧑🏻 E12.0 people holding hands: medium-dark skin tone, light skin tone",
+      "keywords": "人们 牵手: 中深肤色, 浅肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍🤝‍🧑🏼",
-      "keywords": "🧑🏾‍🤝‍🧑🏼 E12.0 people holding hands: medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍🤝‍🧑🏽",
-      "keywords": "🧑🏾‍🤝‍🧑🏽 E12.0 people holding hands: medium-dark skin tone, medium skin tone",
+      "keywords": "人们 牵手: 中深肤色, 中等肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍🤝‍🧑🏾",
-      "keywords": "🧑🏾‍🤝‍🧑🏾 E12.0 people holding hands: medium-dark skin tone",
+      "keywords": "人们 牵手: 中深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍🤝‍🧑🏿",
-      "keywords": "🧑🏾‍🤝‍🧑🏿 E12.1 people holding hands: medium-dark skin tone, dark skin tone",
+      "keywords": "人们 牵手: 中深肤色, 深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍🤝‍🧑🏻",
-      "keywords": "🧑🏿‍🤝‍🧑🏻 E12.0 people holding hands: dark skin tone, light skin tone",
+      "keywords": "人们 牵手: 深肤色, 浅肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍🤝‍🧑🏼",
-      "keywords": "🧑🏿‍🤝‍🧑🏼 E12.0 people holding hands: dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍🤝‍🧑🏽",
-      "keywords": "🧑🏿‍🤝‍🧑🏽 E12.0 people holding hands: dark skin tone, medium skin tone",
+      "keywords": "人们 牵手: 深肤色, 中等肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍🤝‍🧑🏾",
-      "keywords": "🧑🏿‍🤝‍🧑🏾 E12.0 people holding hands: dark skin tone, medium-dark skin tone",
+      "keywords": "人们 牵手: 深肤色, 中深肤色",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍🤝‍🧑🏿",
-      "keywords": "🧑🏿‍🤝‍🧑🏿 E12.0 people holding hands: dark skin tone",
+      "keywords": "人们 牵手: 深肤色",
       "category": "人物",
       "subCategory": "family"
     },
@@ -12659,151 +12659,151 @@ const emojiData = {
     },
     {
       "emoji": "👭🏻",
-      "keywords": "👭🏻 E12.0 women holding hands: light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👩🏼",
-      "keywords": "👩🏻‍🤝‍👩🏼 E12.1 women holding hands: light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👩🏽",
-      "keywords": "👩🏻‍🤝‍👩🏽 E12.1 women holding hands: light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👩🏾",
-      "keywords": "👩🏻‍🤝‍👩🏾 E12.1 women holding hands: light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👩🏿",
-      "keywords": "👩🏻‍🤝‍👩🏿 E12.1 women holding hands: light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👩🏻",
-      "keywords": "👩🏼‍🤝‍👩🏻 E12.0 women holding hands: medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👭🏼",
-      "keywords": "👭🏼 E12.0 women holding hands: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👩🏽",
-      "keywords": "👩🏼‍🤝‍👩🏽 E12.1 women holding hands: medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👩🏾",
-      "keywords": "👩🏼‍🤝‍👩🏾 E12.1 women holding hands: medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👩🏿",
-      "keywords": "👩🏼‍🤝‍👩🏿 E12.1 women holding hands: medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👩🏻",
-      "keywords": "👩🏽‍🤝‍👩🏻 E12.0 women holding hands: medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👩🏼",
-      "keywords": "👩🏽‍🤝‍👩🏼 E12.0 women holding hands: medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👭🏽",
-      "keywords": "👭🏽 E12.0 women holding hands: medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👩🏾",
-      "keywords": "👩🏽‍🤝‍👩🏾 E12.1 women holding hands: medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👩🏿",
-      "keywords": "👩🏽‍🤝‍👩🏿 E12.1 women holding hands: medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👩🏻",
-      "keywords": "👩🏾‍🤝‍👩🏻 E12.0 women holding hands: medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👩🏼",
-      "keywords": "👩🏾‍🤝‍👩🏼 E12.0 women holding hands: medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👩🏽",
-      "keywords": "👩🏾‍🤝‍👩🏽 E12.0 women holding hands: medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👭🏾",
-      "keywords": "👭🏾 E12.0 women holding hands: medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👩🏿",
-      "keywords": "👩🏾‍🤝‍👩🏿 E12.1 women holding hands: medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👩🏻",
-      "keywords": "👩🏿‍🤝‍👩🏻 E12.0 women holding hands: dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👩🏼",
-      "keywords": "👩🏿‍🤝‍👩🏼 E12.0 women holding hands: dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👩🏽",
-      "keywords": "👩🏿‍🤝‍👩🏽 E12.0 women holding hands: dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👩🏾",
-      "keywords": "👩🏿‍🤝‍👩🏾 E12.0 women holding hands: dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👭🏿",
-      "keywords": "👭🏿 E12.0 women holding hands: dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
@@ -12815,151 +12815,151 @@ const emojiData = {
     },
     {
       "emoji": "👫🏻",
-      "keywords": "👫🏻 E12.0 woman and man holding hands: light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👨🏼",
-      "keywords": "👩🏻‍🤝‍👨🏼 E12.0 woman and man holding hands: light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👨🏽",
-      "keywords": "👩🏻‍🤝‍👨🏽 E12.0 woman and man holding hands: light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👨🏾",
-      "keywords": "👩🏻‍🤝‍👨🏾 E12.0 woman and man holding hands: light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍🤝‍👨🏿",
-      "keywords": "👩🏻‍🤝‍👨🏿 E12.0 woman and man holding hands: light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👨🏻",
-      "keywords": "👩🏼‍🤝‍👨🏻 E12.0 woman and man holding hands: medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👫🏼",
-      "keywords": "👫🏼 E12.0 woman and man holding hands: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👨🏽",
-      "keywords": "👩🏼‍🤝‍👨🏽 E12.0 woman and man holding hands: medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👨🏾",
-      "keywords": "👩🏼‍🤝‍👨🏾 E12.0 woman and man holding hands: medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍🤝‍👨🏿",
-      "keywords": "👩🏼‍🤝‍👨🏿 E12.0 woman and man holding hands: medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👨🏻",
-      "keywords": "👩🏽‍🤝‍👨🏻 E12.0 woman and man holding hands: medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👨🏼",
-      "keywords": "👩🏽‍🤝‍👨🏼 E12.0 woman and man holding hands: medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👫🏽",
-      "keywords": "👫🏽 E12.0 woman and man holding hands: medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👨🏾",
-      "keywords": "👩🏽‍🤝‍👨🏾 E12.0 woman and man holding hands: medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍🤝‍👨🏿",
-      "keywords": "👩🏽‍🤝‍👨🏿 E12.0 woman and man holding hands: medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👨🏻",
-      "keywords": "👩🏾‍🤝‍👨🏻 E12.0 woman and man holding hands: medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👨🏼",
-      "keywords": "👩🏾‍🤝‍👨🏼 E12.0 woman and man holding hands: medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👨🏽",
-      "keywords": "👩🏾‍🤝‍👨🏽 E12.0 woman and man holding hands: medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👫🏾",
-      "keywords": "👫🏾 E12.0 woman and man holding hands: medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍🤝‍👨🏿",
-      "keywords": "👩🏾‍🤝‍👨🏿 E12.0 woman and man holding hands: medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👨🏻",
-      "keywords": "👩🏿‍🤝‍👨🏻 E12.0 woman and man holding hands: dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👨🏼",
-      "keywords": "👩🏿‍🤝‍👨🏼 E12.0 woman and man holding hands: dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👨🏽",
-      "keywords": "👩🏿‍🤝‍👨🏽 E12.0 woman and man holding hands: dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍🤝‍👨🏾",
-      "keywords": "👩🏿‍🤝‍👨🏾 E12.0 woman and man holding hands: dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👫🏿",
-      "keywords": "👫🏿 E12.0 woman and man holding hands: dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
@@ -12971,151 +12971,151 @@ const emojiData = {
     },
     {
       "emoji": "👬🏻",
-      "keywords": "👬🏻 E12.0 men holding hands: light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍🤝‍👨🏼",
-      "keywords": "👨🏻‍🤝‍👨🏼 E12.1 men holding hands: light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍🤝‍👨🏽",
-      "keywords": "👨🏻‍🤝‍👨🏽 E12.1 men holding hands: light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍🤝‍👨🏾",
-      "keywords": "👨🏻‍🤝‍👨🏾 E12.1 men holding hands: light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍🤝‍👨🏿",
-      "keywords": "👨🏻‍🤝‍👨🏿 E12.1 men holding hands: light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍🤝‍👨🏻",
-      "keywords": "👨🏼‍🤝‍👨🏻 E12.0 men holding hands: medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👬🏼",
-      "keywords": "👬🏼 E12.0 men holding hands: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍🤝‍👨🏽",
-      "keywords": "👨🏼‍🤝‍👨🏽 E12.1 men holding hands: medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍🤝‍👨🏾",
-      "keywords": "👨🏼‍🤝‍👨🏾 E12.1 men holding hands: medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍🤝‍👨🏿",
-      "keywords": "👨🏼‍🤝‍👨🏿 E12.1 men holding hands: medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍🤝‍👨🏻",
-      "keywords": "👨🏽‍🤝‍👨🏻 E12.0 men holding hands: medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍🤝‍👨🏼",
-      "keywords": "👨🏽‍🤝‍👨🏼 E12.0 men holding hands: medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👬🏽",
-      "keywords": "👬🏽 E12.0 men holding hands: medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍🤝‍👨🏾",
-      "keywords": "👨🏽‍🤝‍👨🏾 E12.1 men holding hands: medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍🤝‍👨🏿",
-      "keywords": "👨🏽‍🤝‍👨🏿 E12.1 men holding hands: medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍🤝‍👨🏻",
-      "keywords": "👨🏾‍🤝‍👨🏻 E12.0 men holding hands: medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍🤝‍👨🏼",
-      "keywords": "👨🏾‍🤝‍👨🏼 E12.0 men holding hands: medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍🤝‍👨🏽",
-      "keywords": "👨🏾‍🤝‍👨🏽 E12.0 men holding hands: medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👬🏾",
-      "keywords": "👬🏾 E12.0 men holding hands: medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍🤝‍👨🏿",
-      "keywords": "👨🏾‍🤝‍👨🏿 E12.1 men holding hands: medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍🤝‍👨🏻",
-      "keywords": "👨🏿‍🤝‍👨🏻 E12.0 men holding hands: dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍🤝‍👨🏼",
-      "keywords": "👨🏿‍🤝‍👨🏼 E12.0 men holding hands: dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍🤝‍👨🏽",
-      "keywords": "👨🏿‍🤝‍👨🏽 E12.0 men holding hands: dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍🤝‍👨🏾",
-      "keywords": "👨🏿‍🤝‍👨🏾 E12.0 men holding hands: dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👬🏿",
-      "keywords": "👬🏿 E12.0 men holding hands: dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
@@ -13127,619 +13127,619 @@ const emojiData = {
     },
     {
       "emoji": "💏🏻",
-      "keywords": "💏🏻 E13.1 kiss: light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💏🏼",
-      "keywords": "💏🏼 E13.1 kiss: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💏🏽",
-      "keywords": "💏🏽 E13.1 kiss: medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💏🏾",
-      "keywords": "💏🏾 E13.1 kiss: medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💏🏿",
-      "keywords": "💏🏿 E13.1 kiss: dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍💋‍🧑🏼",
-      "keywords": "🧑🏻‍❤️‍💋‍🧑🏼 E13.1 kiss: person, person, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍💋‍🧑🏽",
-      "keywords": "🧑🏻‍❤️‍💋‍🧑🏽 E13.1 kiss: person, person, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍💋‍🧑🏾",
-      "keywords": "🧑🏻‍❤️‍💋‍🧑🏾 E13.1 kiss: person, person, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍💋‍🧑🏿",
-      "keywords": "🧑🏻‍❤️‍💋‍🧑🏿 E13.1 kiss: person, person, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍💋‍🧑🏻",
-      "keywords": "🧑🏼‍❤️‍💋‍🧑🏻 E13.1 kiss: person, person, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍💋‍🧑🏽",
-      "keywords": "🧑🏼‍❤️‍💋‍🧑🏽 E13.1 kiss: person, person, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍💋‍🧑🏾",
-      "keywords": "🧑🏼‍❤️‍💋‍🧑🏾 E13.1 kiss: person, person, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍💋‍🧑🏿",
-      "keywords": "🧑🏼‍❤️‍💋‍🧑🏿 E13.1 kiss: person, person, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍💋‍🧑🏻",
-      "keywords": "🧑🏽‍❤️‍💋‍🧑🏻 E13.1 kiss: person, person, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍💋‍🧑🏼",
-      "keywords": "🧑🏽‍❤️‍💋‍🧑🏼 E13.1 kiss: person, person, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍💋‍🧑🏾",
-      "keywords": "🧑🏽‍❤️‍💋‍🧑🏾 E13.1 kiss: person, person, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍💋‍🧑🏿",
-      "keywords": "🧑🏽‍❤️‍💋‍🧑🏿 E13.1 kiss: person, person, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍💋‍🧑🏻",
-      "keywords": "🧑🏾‍❤️‍💋‍🧑🏻 E13.1 kiss: person, person, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍💋‍🧑🏼",
-      "keywords": "🧑🏾‍❤️‍💋‍🧑🏼 E13.1 kiss: person, person, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍💋‍🧑🏽",
-      "keywords": "🧑🏾‍❤️‍💋‍🧑🏽 E13.1 kiss: person, person, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍💋‍🧑🏿",
-      "keywords": "🧑🏾‍❤️‍💋‍🧑🏿 E13.1 kiss: person, person, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍💋‍🧑🏻",
-      "keywords": "🧑🏿‍❤️‍💋‍🧑🏻 E13.1 kiss: person, person, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍💋‍🧑🏼",
-      "keywords": "🧑🏿‍❤️‍💋‍🧑🏼 E13.1 kiss: person, person, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍💋‍🧑🏽",
-      "keywords": "🧑🏿‍❤️‍💋‍🧑🏽 E13.1 kiss: person, person, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍💋‍🧑🏾",
-      "keywords": "🧑🏿‍❤️‍💋‍🧑🏾 E13.1 kiss: person, person, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍❤️‍💋‍👨",
-      "keywords": "👩‍❤️‍💋‍👨 E2.0 kiss: woman, man",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👨🏻",
-      "keywords": "👩🏻‍❤️‍💋‍👨🏻 E13.1 kiss: woman, man, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👨🏼",
-      "keywords": "👩🏻‍❤️‍💋‍👨🏼 E13.1 kiss: woman, man, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👨🏽",
-      "keywords": "👩🏻‍❤️‍💋‍👨🏽 E13.1 kiss: woman, man, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👨🏾",
-      "keywords": "👩🏻‍❤️‍💋‍👨🏾 E13.1 kiss: woman, man, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👨🏿",
-      "keywords": "👩🏻‍❤️‍💋‍👨🏿 E13.1 kiss: woman, man, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👨🏻",
-      "keywords": "👩🏼‍❤️‍💋‍👨🏻 E13.1 kiss: woman, man, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👨🏼",
-      "keywords": "👩🏼‍❤️‍💋‍👨🏼 E13.1 kiss: woman, man, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👨🏽",
-      "keywords": "👩🏼‍❤️‍💋‍👨🏽 E13.1 kiss: woman, man, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👨🏾",
-      "keywords": "👩🏼‍❤️‍💋‍👨🏾 E13.1 kiss: woman, man, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👨🏿",
-      "keywords": "👩🏼‍❤️‍💋‍👨🏿 E13.1 kiss: woman, man, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👨🏻",
-      "keywords": "👩🏽‍❤️‍💋‍👨🏻 E13.1 kiss: woman, man, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👨🏼",
-      "keywords": "👩🏽‍❤️‍💋‍👨🏼 E13.1 kiss: woman, man, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👨🏽",
-      "keywords": "👩🏽‍❤️‍💋‍👨🏽 E13.1 kiss: woman, man, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👨🏾",
-      "keywords": "👩🏽‍❤️‍💋‍👨🏾 E13.1 kiss: woman, man, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👨🏿",
-      "keywords": "👩🏽‍❤️‍💋‍👨🏿 E13.1 kiss: woman, man, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👨🏻",
-      "keywords": "👩🏾‍❤️‍💋‍👨🏻 E13.1 kiss: woman, man, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👨🏼",
-      "keywords": "👩🏾‍❤️‍💋‍👨🏼 E13.1 kiss: woman, man, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👨🏽",
-      "keywords": "👩🏾‍❤️‍💋‍👨🏽 E13.1 kiss: woman, man, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👨🏾",
-      "keywords": "👩🏾‍❤️‍💋‍👨🏾 E13.1 kiss: woman, man, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👨🏿",
-      "keywords": "👩🏾‍❤️‍💋‍👨🏿 E13.1 kiss: woman, man, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👨🏻",
-      "keywords": "👩🏿‍❤️‍💋‍👨🏻 E13.1 kiss: woman, man, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👨🏼",
-      "keywords": "👩🏿‍❤️‍💋‍👨🏼 E13.1 kiss: woman, man, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👨🏽",
-      "keywords": "👩🏿‍❤️‍💋‍👨🏽 E13.1 kiss: woman, man, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👨🏾",
-      "keywords": "👩🏿‍❤️‍💋‍👨🏾 E13.1 kiss: woman, man, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👨🏿",
-      "keywords": "👩🏿‍❤️‍💋‍👨🏿 E13.1 kiss: woman, man, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍❤️‍💋‍👨",
-      "keywords": "👨‍❤️‍💋‍👨 E2.0 kiss: man, man",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍💋‍👨🏻",
-      "keywords": "👨🏻‍❤️‍💋‍👨🏻 E13.1 kiss: man, man, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍💋‍👨🏼",
-      "keywords": "👨🏻‍❤️‍💋‍👨🏼 E13.1 kiss: man, man, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍💋‍👨🏽",
-      "keywords": "👨🏻‍❤️‍💋‍👨🏽 E13.1 kiss: man, man, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍💋‍👨🏾",
-      "keywords": "👨🏻‍❤️‍💋‍👨🏾 E13.1 kiss: man, man, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍💋‍👨🏿",
-      "keywords": "👨🏻‍❤️‍💋‍👨🏿 E13.1 kiss: man, man, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍💋‍👨🏻",
-      "keywords": "👨🏼‍❤️‍💋‍👨🏻 E13.1 kiss: man, man, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍💋‍👨🏼",
-      "keywords": "👨🏼‍❤️‍💋‍👨🏼 E13.1 kiss: man, man, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍💋‍👨🏽",
-      "keywords": "👨🏼‍❤️‍💋‍👨🏽 E13.1 kiss: man, man, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍💋‍👨🏾",
-      "keywords": "👨🏼‍❤️‍💋‍👨🏾 E13.1 kiss: man, man, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍💋‍👨🏿",
-      "keywords": "👨🏼‍❤️‍💋‍👨🏿 E13.1 kiss: man, man, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍💋‍👨🏻",
-      "keywords": "👨🏽‍❤️‍💋‍👨🏻 E13.1 kiss: man, man, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍💋‍👨🏼",
-      "keywords": "👨🏽‍❤️‍💋‍👨🏼 E13.1 kiss: man, man, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍💋‍👨🏽",
-      "keywords": "👨🏽‍❤️‍💋‍👨🏽 E13.1 kiss: man, man, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍💋‍👨🏾",
-      "keywords": "👨🏽‍❤️‍💋‍👨🏾 E13.1 kiss: man, man, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍💋‍👨🏿",
-      "keywords": "👨🏽‍❤️‍💋‍👨🏿 E13.1 kiss: man, man, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍💋‍👨🏻",
-      "keywords": "👨🏾‍❤️‍💋‍👨🏻 E13.1 kiss: man, man, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍💋‍👨🏼",
-      "keywords": "👨🏾‍❤️‍💋‍👨🏼 E13.1 kiss: man, man, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍💋‍👨🏽",
-      "keywords": "👨🏾‍❤️‍💋‍👨🏽 E13.1 kiss: man, man, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍💋‍👨🏾",
-      "keywords": "👨🏾‍❤️‍💋‍👨🏾 E13.1 kiss: man, man, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍💋‍👨🏿",
-      "keywords": "👨🏾‍❤️‍💋‍👨🏿 E13.1 kiss: man, man, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍💋‍👨🏻",
-      "keywords": "👨🏿‍❤️‍💋‍👨🏻 E13.1 kiss: man, man, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍💋‍👨🏼",
-      "keywords": "👨🏿‍❤️‍💋‍👨🏼 E13.1 kiss: man, man, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍💋‍👨🏽",
-      "keywords": "👨🏿‍❤️‍💋‍👨🏽 E13.1 kiss: man, man, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍💋‍👨🏾",
-      "keywords": "👨🏿‍❤️‍💋‍👨🏾 E13.1 kiss: man, man, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍💋‍👨🏿",
-      "keywords": "👨🏿‍❤️‍💋‍👨🏿 E13.1 kiss: man, man, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍❤️‍💋‍👩",
-      "keywords": "👩‍❤️‍💋‍👩 E2.0 kiss: woman, woman",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👩🏻",
-      "keywords": "👩🏻‍❤️‍💋‍👩🏻 E13.1 kiss: woman, woman, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👩🏼",
-      "keywords": "👩🏻‍❤️‍💋‍👩🏼 E13.1 kiss: woman, woman, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👩🏽",
-      "keywords": "👩🏻‍❤️‍💋‍👩🏽 E13.1 kiss: woman, woman, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👩🏾",
-      "keywords": "👩🏻‍❤️‍💋‍👩🏾 E13.1 kiss: woman, woman, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍💋‍👩🏿",
-      "keywords": "👩🏻‍❤️‍💋‍👩🏿 E13.1 kiss: woman, woman, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👩🏻",
-      "keywords": "👩🏼‍❤️‍💋‍👩🏻 E13.1 kiss: woman, woman, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👩🏼",
-      "keywords": "👩🏼‍❤️‍💋‍👩🏼 E13.1 kiss: woman, woman, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👩🏽",
-      "keywords": "👩🏼‍❤️‍💋‍👩🏽 E13.1 kiss: woman, woman, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👩🏾",
-      "keywords": "👩🏼‍❤️‍💋‍👩🏾 E13.1 kiss: woman, woman, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍💋‍👩🏿",
-      "keywords": "👩🏼‍❤️‍💋‍👩🏿 E13.1 kiss: woman, woman, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👩🏻",
-      "keywords": "👩🏽‍❤️‍💋‍👩🏻 E13.1 kiss: woman, woman, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👩🏼",
-      "keywords": "👩🏽‍❤️‍💋‍👩🏼 E13.1 kiss: woman, woman, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👩🏽",
-      "keywords": "👩🏽‍❤️‍💋‍👩🏽 E13.1 kiss: woman, woman, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👩🏾",
-      "keywords": "👩🏽‍❤️‍💋‍👩🏾 E13.1 kiss: woman, woman, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍💋‍👩🏿",
-      "keywords": "👩🏽‍❤️‍💋‍👩🏿 E13.1 kiss: woman, woman, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👩🏻",
-      "keywords": "👩🏾‍❤️‍💋‍👩🏻 E13.1 kiss: woman, woman, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👩🏼",
-      "keywords": "👩🏾‍❤️‍💋‍👩🏼 E13.1 kiss: woman, woman, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👩🏽",
-      "keywords": "👩🏾‍❤️‍💋‍👩🏽 E13.1 kiss: woman, woman, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👩🏾",
-      "keywords": "👩🏾‍❤️‍💋‍👩🏾 E13.1 kiss: woman, woman, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍💋‍👩🏿",
-      "keywords": "👩🏾‍❤️‍💋‍👩🏿 E13.1 kiss: woman, woman, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👩🏻",
-      "keywords": "👩🏿‍❤️‍💋‍👩🏻 E13.1 kiss: woman, woman, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👩🏼",
-      "keywords": "👩🏿‍❤️‍💋‍👩🏼 E13.1 kiss: woman, woman, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👩🏽",
-      "keywords": "👩🏿‍❤️‍💋‍👩🏽 E13.1 kiss: woman, woman, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👩🏾",
-      "keywords": "👩🏿‍❤️‍💋‍👩🏾 E13.1 kiss: woman, woman, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍💋‍👩🏿",
-      "keywords": "👩🏿‍❤️‍💋‍👩🏿 E13.1 kiss: woman, woman, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
@@ -13751,775 +13751,775 @@ const emojiData = {
     },
     {
       "emoji": "💑🏻",
-      "keywords": "💑🏻 E13.1 couple with heart: light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💑🏼",
-      "keywords": "💑🏼 E13.1 couple with heart: medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💑🏽",
-      "keywords": "💑🏽 E13.1 couple with heart: medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💑🏾",
-      "keywords": "💑🏾 E13.1 couple with heart: medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "💑🏿",
-      "keywords": "💑🏿 E13.1 couple with heart: dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍🧑🏼",
-      "keywords": "🧑🏻‍❤️‍🧑🏼 E13.1 couple with heart: person, person, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍🧑🏽",
-      "keywords": "🧑🏻‍❤️‍🧑🏽 E13.1 couple with heart: person, person, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍🧑🏾",
-      "keywords": "🧑🏻‍❤️‍🧑🏾 E13.1 couple with heart: person, person, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏻‍❤️‍🧑🏿",
-      "keywords": "🧑🏻‍❤️‍🧑🏿 E13.1 couple with heart: person, person, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍🧑🏻",
-      "keywords": "🧑🏼‍❤️‍🧑🏻 E13.1 couple with heart: person, person, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍🧑🏽",
-      "keywords": "🧑🏼‍❤️‍🧑🏽 E13.1 couple with heart: person, person, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍🧑🏾",
-      "keywords": "🧑🏼‍❤️‍🧑🏾 E13.1 couple with heart: person, person, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏼‍❤️‍🧑🏿",
-      "keywords": "🧑🏼‍❤️‍🧑🏿 E13.1 couple with heart: person, person, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍🧑🏻",
-      "keywords": "🧑🏽‍❤️‍🧑🏻 E13.1 couple with heart: person, person, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍🧑🏼",
-      "keywords": "🧑🏽‍❤️‍🧑🏼 E13.1 couple with heart: person, person, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍🧑🏾",
-      "keywords": "🧑🏽‍❤️‍🧑🏾 E13.1 couple with heart: person, person, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏽‍❤️‍🧑🏿",
-      "keywords": "🧑🏽‍❤️‍🧑🏿 E13.1 couple with heart: person, person, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍🧑🏻",
-      "keywords": "🧑🏾‍❤️‍🧑🏻 E13.1 couple with heart: person, person, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍🧑🏼",
-      "keywords": "🧑🏾‍❤️‍🧑🏼 E13.1 couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍🧑🏽",
-      "keywords": "🧑🏾‍❤️‍🧑🏽 E13.1 couple with heart: person, person, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏾‍❤️‍🧑🏿",
-      "keywords": "🧑🏾‍❤️‍🧑🏿 E13.1 couple with heart: person, person, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍🧑🏻",
-      "keywords": "🧑🏿‍❤️‍🧑🏻 E13.1 couple with heart: person, person, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍🧑🏼",
-      "keywords": "🧑🏿‍❤️‍🧑🏼 E13.1 couple with heart: person, person, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍🧑🏽",
-      "keywords": "🧑🏿‍❤️‍🧑🏽 E13.1 couple with heart: person, person, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🧑🏿‍❤️‍🧑🏾",
-      "keywords": "🧑🏿‍❤️‍🧑🏾 E13.1 couple with heart: person, person, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍❤️‍👨",
-      "keywords": "👩‍❤️‍👨 E2.0 couple with heart: woman, man",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👨🏻",
-      "keywords": "👩🏻‍❤️‍👨🏻 E13.1 couple with heart: woman, man, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👨🏼",
-      "keywords": "👩🏻‍❤️‍👨🏼 E13.1 couple with heart: woman, man, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👨🏽",
-      "keywords": "👩🏻‍❤️‍👨🏽 E13.1 couple with heart: woman, man, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👨🏾",
-      "keywords": "👩🏻‍❤️‍👨🏾 E13.1 couple with heart: woman, man, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👨🏿",
-      "keywords": "👩🏻‍❤️‍👨🏿 E13.1 couple with heart: woman, man, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👨🏻",
-      "keywords": "👩🏼‍❤️‍👨🏻 E13.1 couple with heart: woman, man, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👨🏼",
-      "keywords": "👩🏼‍❤️‍👨🏼 E13.1 couple with heart: woman, man, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👨🏽",
-      "keywords": "👩🏼‍❤️‍👨🏽 E13.1 couple with heart: woman, man, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👨🏾",
-      "keywords": "👩🏼‍❤️‍👨🏾 E13.1 couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👨🏿",
-      "keywords": "👩🏼‍❤️‍👨🏿 E13.1 couple with heart: woman, man, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👨🏻",
-      "keywords": "👩🏽‍❤️‍👨🏻 E13.1 couple with heart: woman, man, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👨🏼",
-      "keywords": "👩🏽‍❤️‍👨🏼 E13.1 couple with heart: woman, man, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👨🏽",
-      "keywords": "👩🏽‍❤️‍👨🏽 E13.1 couple with heart: woman, man, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👨🏾",
-      "keywords": "👩🏽‍❤️‍👨🏾 E13.1 couple with heart: woman, man, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👨🏿",
-      "keywords": "👩🏽‍❤️‍👨🏿 E13.1 couple with heart: woman, man, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👨🏻",
-      "keywords": "👩🏾‍❤️‍👨🏻 E13.1 couple with heart: woman, man, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👨🏼",
-      "keywords": "👩🏾‍❤️‍👨🏼 E13.1 couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👨🏽",
-      "keywords": "👩🏾‍❤️‍👨🏽 E13.1 couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👨🏾",
-      "keywords": "👩🏾‍❤️‍👨🏾 E13.1 couple with heart: woman, man, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👨🏿",
-      "keywords": "👩🏾‍❤️‍👨🏿 E13.1 couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👨🏻",
-      "keywords": "👩🏿‍❤️‍👨🏻 E13.1 couple with heart: woman, man, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👨🏼",
-      "keywords": "👩🏿‍❤️‍👨🏼 E13.1 couple with heart: woman, man, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👨🏽",
-      "keywords": "👩🏿‍❤️‍👨🏽 E13.1 couple with heart: woman, man, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👨🏾",
-      "keywords": "👩🏿‍❤️‍👨🏾 E13.1 couple with heart: woman, man, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👨🏿",
-      "keywords": "👩🏿‍❤️‍👨🏿 E13.1 couple with heart: woman, man, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍❤️‍👨",
-      "keywords": "👨‍❤️‍👨 E2.0 couple with heart: man, man",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍👨🏻",
-      "keywords": "👨🏻‍❤️‍👨🏻 E13.1 couple with heart: man, man, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍👨🏼",
-      "keywords": "👨🏻‍❤️‍👨🏼 E13.1 couple with heart: man, man, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍👨🏽",
-      "keywords": "👨🏻‍❤️‍👨🏽 E13.1 couple with heart: man, man, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍👨🏾",
-      "keywords": "👨🏻‍❤️‍👨🏾 E13.1 couple with heart: man, man, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏻‍❤️‍👨🏿",
-      "keywords": "👨🏻‍❤️‍👨🏿 E13.1 couple with heart: man, man, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍👨🏻",
-      "keywords": "👨🏼‍❤️‍👨🏻 E13.1 couple with heart: man, man, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍👨🏼",
-      "keywords": "👨🏼‍❤️‍👨🏼 E13.1 couple with heart: man, man, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍👨🏽",
-      "keywords": "👨🏼‍❤️‍👨🏽 E13.1 couple with heart: man, man, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍👨🏾",
-      "keywords": "👨🏼‍❤️‍👨🏾 E13.1 couple with heart: man, man, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏼‍❤️‍👨🏿",
-      "keywords": "👨🏼‍❤️‍👨🏿 E13.1 couple with heart: man, man, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍👨🏻",
-      "keywords": "👨🏽‍❤️‍👨🏻 E13.1 couple with heart: man, man, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍👨🏼",
-      "keywords": "👨🏽‍❤️‍👨🏼 E13.1 couple with heart: man, man, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍👨🏽",
-      "keywords": "👨🏽‍❤️‍👨🏽 E13.1 couple with heart: man, man, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍👨🏾",
-      "keywords": "👨🏽‍❤️‍👨🏾 E13.1 couple with heart: man, man, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏽‍❤️‍👨🏿",
-      "keywords": "👨🏽‍❤️‍👨🏿 E13.1 couple with heart: man, man, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍👨🏻",
-      "keywords": "👨🏾‍❤️‍👨🏻 E13.1 couple with heart: man, man, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍👨🏼",
-      "keywords": "👨🏾‍❤️‍👨🏼 E13.1 couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍👨🏽",
-      "keywords": "👨🏾‍❤️‍👨🏽 E13.1 couple with heart: man, man, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍👨🏾",
-      "keywords": "👨🏾‍❤️‍👨🏾 E13.1 couple with heart: man, man, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏾‍❤️‍👨🏿",
-      "keywords": "👨🏾‍❤️‍👨🏿 E13.1 couple with heart: man, man, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍👨🏻",
-      "keywords": "👨🏿‍❤️‍👨🏻 E13.1 couple with heart: man, man, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍👨🏼",
-      "keywords": "👨🏿‍❤️‍👨🏼 E13.1 couple with heart: man, man, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍👨🏽",
-      "keywords": "👨🏿‍❤️‍👨🏽 E13.1 couple with heart: man, man, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍👨🏾",
-      "keywords": "👨🏿‍❤️‍👨🏾 E13.1 couple with heart: man, man, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨🏿‍❤️‍👨🏿",
-      "keywords": "👨🏿‍❤️‍👨🏿 E13.1 couple with heart: man, man, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍❤️‍👩",
-      "keywords": "👩‍❤️‍👩 E2.0 couple with heart: woman, woman",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👩🏻",
-      "keywords": "👩🏻‍❤️‍👩🏻 E13.1 couple with heart: woman, woman, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👩🏼",
-      "keywords": "👩🏻‍❤️‍👩🏼 E13.1 couple with heart: woman, woman, light skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👩🏽",
-      "keywords": "👩🏻‍❤️‍👩🏽 E13.1 couple with heart: woman, woman, light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👩🏾",
-      "keywords": "👩🏻‍❤️‍👩🏾 E13.1 couple with heart: woman, woman, light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏻‍❤️‍👩🏿",
-      "keywords": "👩🏻‍❤️‍👩🏿 E13.1 couple with heart: woman, woman, light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👩🏻",
-      "keywords": "👩🏼‍❤️‍👩🏻 E13.1 couple with heart: woman, woman, medium-light skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👩🏼",
-      "keywords": "👩🏼‍❤️‍👩🏼 E13.1 couple with heart: woman, woman, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👩🏽",
-      "keywords": "👩🏼‍❤️‍👩🏽 E13.1 couple with heart: woman, woman, medium-light skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👩🏾",
-      "keywords": "👩🏼‍❤️‍👩🏾 E13.1 couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏼‍❤️‍👩🏿",
-      "keywords": "👩🏼‍❤️‍👩🏿 E13.1 couple with heart: woman, woman, medium-light skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👩🏻",
-      "keywords": "👩🏽‍❤️‍👩🏻 E13.1 couple with heart: woman, woman, medium skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👩🏼",
-      "keywords": "👩🏽‍❤️‍👩🏼 E13.1 couple with heart: woman, woman, medium skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👩🏽",
-      "keywords": "👩🏽‍❤️‍👩🏽 E13.1 couple with heart: woman, woman, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👩🏾",
-      "keywords": "👩🏽‍❤️‍👩🏾 E13.1 couple with heart: woman, woman, medium skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏽‍❤️‍👩🏿",
-      "keywords": "👩🏽‍❤️‍👩🏿 E13.1 couple with heart: woman, woman, medium skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👩🏻",
-      "keywords": "👩🏾‍❤️‍👩🏻 E13.1 couple with heart: woman, woman, medium-dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👩🏼",
-      "keywords": "👩🏾‍❤️‍👩🏼 E13.1 couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👩🏽",
-      "keywords": "👩🏾‍❤️‍👩🏽 E13.1 couple with heart: woman, woman, medium-dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👩🏾",
-      "keywords": "👩🏾‍❤️‍👩🏾 E13.1 couple with heart: woman, woman, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏾‍❤️‍👩🏿",
-      "keywords": "👩🏾‍❤️‍👩🏿 E13.1 couple with heart: woman, woman, medium-dark skin tone, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👩🏻",
-      "keywords": "👩🏿‍❤️‍👩🏻 E13.1 couple with heart: woman, woman, dark skin tone, light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👩🏼",
-      "keywords": "👩🏿‍❤️‍👩🏼 E13.1 couple with heart: woman, woman, dark skin tone, medium-light skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👩🏽",
-      "keywords": "👩🏿‍❤️‍👩🏽 E13.1 couple with heart: woman, woman, dark skin tone, medium skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👩🏾",
-      "keywords": "👩🏿‍❤️‍👩🏾 E13.1 couple with heart: woman, woman, dark skin tone, medium-dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩🏿‍❤️‍👩🏿",
-      "keywords": "👩🏿‍❤️‍👩🏿 E13.1 couple with heart: woman, woman, dark skin tone",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👩‍👦",
-      "keywords": "👨‍👩‍👦 E2.0 family: man, woman, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👩‍👧",
-      "keywords": "👨‍👩‍👧 E2.0 family: man, woman, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👩‍👧‍👦",
-      "keywords": "👨‍👩‍👧‍👦 E2.0 family: man, woman, girl, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👩‍👦‍👦",
-      "keywords": "👨‍👩‍👦‍👦 E2.0 family: man, woman, boy, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👩‍👧‍👧",
-      "keywords": "👨‍👩‍👧‍👧 E2.0 family: man, woman, girl, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👨‍👦",
-      "keywords": "👨‍👨‍👦 E2.0 family: man, man, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👨‍👧",
-      "keywords": "👨‍👨‍👧 E2.0 family: man, man, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👨‍👧‍👦",
-      "keywords": "👨‍👨‍👧‍👦 E2.0 family: man, man, girl, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👨‍👦‍👦",
-      "keywords": "👨‍👨‍👦‍👦 E2.0 family: man, man, boy, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👨‍👧‍👧",
-      "keywords": "👨‍👨‍👧‍👧 E2.0 family: man, man, girl, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👩‍👦",
-      "keywords": "👩‍👩‍👦 E2.0 family: woman, woman, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👩‍👧",
-      "keywords": "👩‍👩‍👧 E2.0 family: woman, woman, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👩‍👧‍👦",
-      "keywords": "👩‍👩‍👧‍👦 E2.0 family: woman, woman, girl, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👩‍👦‍👦",
-      "keywords": "👩‍👩‍👦‍👦 E2.0 family: woman, woman, boy, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👩‍👧‍👧",
-      "keywords": "👩‍👩‍👧‍👧 E2.0 family: woman, woman, girl, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👦",
-      "keywords": "👨‍👦 E4.0 family: man, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👦‍👦",
-      "keywords": "👨‍👦‍👦 E4.0 family: man, boy, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👧",
-      "keywords": "👨‍👧 E4.0 family: man, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👧‍👦",
-      "keywords": "👨‍👧‍👦 E4.0 family: man, girl, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👨‍👧‍👧",
-      "keywords": "👨‍👧‍👧 E4.0 family: man, girl, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👦",
-      "keywords": "👩‍👦 E4.0 family: woman, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👦‍👦",
-      "keywords": "👩‍👦‍👦 E4.0 family: woman, boy, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👧",
-      "keywords": "👩‍👧 E4.0 family: woman, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👧‍👦",
-      "keywords": "👩‍👧‍👦 E4.0 family: woman, girl, boy",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "👩‍👧‍👧",
-      "keywords": "👩‍👧‍👧 E4.0 family: woman, girl, girl",
+      "keywords": "家庭",
       "category": "人物",
       "subCategory": "family"
     },
     {
       "emoji": "🗣️",
-      "keywords": "🗣️ E0.7 speaking head",
+      "keywords": "人物",
       "category": "人物",
       "subCategory": "person-symbol"
     },
@@ -14899,7 +14899,7 @@ const emojiData = {
     },
     {
       "emoji": "🐿️",
-      "keywords": "🐿️ E0.7 chipmunk",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "animal-mammal"
     },
@@ -15031,7 +15031,7 @@ const emojiData = {
     },
     {
       "emoji": "🕊️",
-      "keywords": "🕊️ E0.7 dove",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "animal-bird"
     },
@@ -15325,13 +15325,13 @@ const emojiData = {
     },
     {
       "emoji": "🕷️",
-      "keywords": "🕷️ E0.7 spider",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "animal-bug"
     },
     {
       "emoji": "🕸️",
-      "keywords": "🕸️ E0.7 spider web",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "animal-bug"
     },
@@ -15391,7 +15391,7 @@ const emojiData = {
     },
     {
       "emoji": "🏵️",
-      "keywords": "🏵️ E0.7 rosette",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "plant-flower"
     },
@@ -15487,7 +15487,7 @@ const emojiData = {
     },
     {
       "emoji": "☘️",
-      "keywords": "☘️ E1.0 shamrock",
+      "keywords": "动物与自然",
       "category": "动物与自然",
       "subCategory": "plant-other"
     },
@@ -15693,7 +15693,7 @@ const emojiData = {
     },
     {
       "emoji": "🌶️",
-      "keywords": "🌶️ E0.7 hot pepper",
+      "keywords": "食物与饮料",
       "category": "食物与饮料",
       "subCategory": "food-vegetable"
     },
@@ -16293,7 +16293,7 @@ const emojiData = {
     },
     {
       "emoji": "🍽️",
-      "keywords": "🍽️ E0.7 fork and knife with plate",
+      "keywords": "食物与饮料",
       "category": "食物与饮料",
       "subCategory": "dishware"
     },
@@ -16439,13 +16439,13 @@ const emojiData = {
     },
     {
       "emoji": "🎗️",
-      "keywords": "🎗️ E0.7 reminder ribbon",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "event"
     },
     {
       "emoji": "🎟️",
-      "keywords": "🎟️ E0.7 admission tickets",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "event"
     },
@@ -16457,7 +16457,7 @@ const emojiData = {
     },
     {
       "emoji": "🎖️",
-      "keywords": "🎖️ E0.7 military medal",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "award-medal"
     },
@@ -16613,7 +16613,7 @@ const emojiData = {
     },
     {
       "emoji": "⛸️",
-      "keywords": "⛸️ E0.7 ice skate",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "sport"
     },
@@ -16703,7 +16703,7 @@ const emojiData = {
     },
     {
       "emoji": "🕹️",
-      "keywords": "🕹️ E0.7 joystick",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
@@ -16751,31 +16751,31 @@ const emojiData = {
     },
     {
       "emoji": "♠️",
-      "keywords": "♠️ E0.6 spade suit",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
     {
       "emoji": "♥️",
-      "keywords": "♥️ E0.6 heart suit",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
     {
       "emoji": "♦️",
-      "keywords": "♦️ E0.6 diamond suit",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
     {
       "emoji": "♣️",
-      "keywords": "♣️ E0.6 club suit",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
     {
       "emoji": "♟️",
-      "keywords": "♟️ E11.0 chess pawn",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "game"
     },
@@ -16805,7 +16805,7 @@ const emojiData = {
     },
     {
       "emoji": "🖼️",
-      "keywords": "🖼️ E0.7 framed picture",
+      "keywords": "活动",
       "category": "活动",
       "subCategory": "arts & crafts"
     },
@@ -16867,7 +16867,7 @@ const emojiData = {
     },
     {
       "emoji": "🗺️",
-      "keywords": "🗺️ E0.7 world map",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-map"
     },
@@ -16885,13 +16885,13 @@ const emojiData = {
     },
     {
       "emoji": "🏔️",
-      "keywords": "🏔️ E0.7 snow-capped mountain",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "⛰️",
-      "keywords": "⛰️ E0.7 mountain",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
@@ -16909,49 +16909,49 @@ const emojiData = {
     },
     {
       "emoji": "🏕️",
-      "keywords": "🏕️ E0.7 camping",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "🏖️",
-      "keywords": "🏖️ E0.7 beach with umbrella",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "🏜️",
-      "keywords": "🏜️ E0.7 desert",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "🏝️",
-      "keywords": "🏝️ E0.7 desert island",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "🏞️",
-      "keywords": "🏞️ E0.7 national park",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-geographic"
     },
     {
       "emoji": "🏟️",
-      "keywords": "🏟️ E0.7 stadium",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-building"
     },
     {
       "emoji": "🏛️",
-      "keywords": "🏛️ E0.7 classical building",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-building"
     },
     {
       "emoji": "🏗️",
-      "keywords": "🏗️ E0.7 building construction",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-building"
     },
@@ -16981,13 +16981,13 @@ const emojiData = {
     },
     {
       "emoji": "🏘️",
-      "keywords": "🏘️ E0.7 houses",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-building"
     },
     {
       "emoji": "🏚️",
-      "keywords": "🏚️ E0.7 derelict house",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-building"
     },
@@ -17125,7 +17125,7 @@ const emojiData = {
     },
     {
       "emoji": "⛩️",
-      "keywords": "⛩️ E0.7 shinto shrine",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-religious"
     },
@@ -17161,7 +17161,7 @@ const emojiData = {
     },
     {
       "emoji": "🏙️",
-      "keywords": "🏙️ E0.7 cityscape",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-other"
     },
@@ -17197,7 +17197,7 @@ const emojiData = {
     },
     {
       "emoji": "♨️",
-      "keywords": "♨️ E0.6 hot springs",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "place-other"
     },
@@ -17413,13 +17413,13 @@ const emojiData = {
     },
     {
       "emoji": "🏎️",
-      "keywords": "🏎️ E0.7 racing car",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-ground"
     },
     {
       "emoji": "🏍️",
-      "keywords": "🏍️ E0.7 motorcycle",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-ground"
     },
@@ -17479,19 +17479,19 @@ const emojiData = {
     },
     {
       "emoji": "🛣️",
-      "keywords": "🛣️ E0.7 motorway",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-ground"
     },
     {
       "emoji": "🛤️",
-      "keywords": "🛤️ E0.7 railway track",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-ground"
     },
     {
       "emoji": "🛢️",
-      "keywords": "🛢️ E0.7 oil drum",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-ground"
     },
@@ -17569,19 +17569,19 @@ const emojiData = {
     },
     {
       "emoji": "🛳️",
-      "keywords": "🛳️ E0.7 passenger ship",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-water"
     },
     {
       "emoji": "⛴️",
-      "keywords": "⛴️ E0.7 ferry",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-water"
     },
     {
       "emoji": "🛥️",
-      "keywords": "🛥️ E0.7 motor boat",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-water"
     },
@@ -17593,13 +17593,13 @@ const emojiData = {
     },
     {
       "emoji": "✈️",
-      "keywords": "✈️ E0.6 airplane",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-air"
     },
     {
       "emoji": "🛩️",
-      "keywords": "🛩️ E0.7 small airplane",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-air"
     },
@@ -17653,7 +17653,7 @@ const emojiData = {
     },
     {
       "emoji": "🛰️",
-      "keywords": "🛰️ E0.7 satellite",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "transport-air"
     },
@@ -17671,7 +17671,7 @@ const emojiData = {
     },
     {
       "emoji": "🛎️",
-      "keywords": "🛎️ E0.7 bellhop bell",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "hotel"
     },
@@ -17707,19 +17707,19 @@ const emojiData = {
     },
     {
       "emoji": "⏱️",
-      "keywords": "⏱️ E1.0 stopwatch",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "time"
     },
     {
       "emoji": "⏲️",
-      "keywords": "⏲️ E1.0 timer clock",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "time"
     },
     {
       "emoji": "🕰️",
-      "keywords": "🕰️ E0.7 mantelpiece clock",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "time"
     },
@@ -17941,13 +17941,13 @@ const emojiData = {
     },
     {
       "emoji": "🌡️",
-      "keywords": "🌡️ E0.7 thermometer",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "☀️",
-      "keywords": "☀️ E0.6 sun",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -17995,7 +17995,7 @@ const emojiData = {
     },
     {
       "emoji": "☁️",
-      "keywords": "☁️ E0.6 cloud",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18007,61 +18007,61 @@ const emojiData = {
     },
     {
       "emoji": "⛈️",
-      "keywords": "⛈️ E0.7 cloud with lightning and rain",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌤️",
-      "keywords": "🌤️ E0.7 sun behind small cloud",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌥️",
-      "keywords": "🌥️ E0.7 sun behind large cloud",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌦️",
-      "keywords": "🌦️ E0.7 sun behind rain cloud",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌧️",
-      "keywords": "🌧️ E0.7 cloud with rain",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌨️",
-      "keywords": "🌨️ E0.7 cloud with snow",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌩️",
-      "keywords": "🌩️ E0.7 cloud with lightning",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌪️",
-      "keywords": "🌪️ E0.7 tornado",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌫️",
-      "keywords": "🌫️ E0.7 fog",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "🌬️",
-      "keywords": "🌬️ E0.7 wind face",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18085,7 +18085,7 @@ const emojiData = {
     },
     {
       "emoji": "☂️",
-      "keywords": "☂️ E0.7 umbrella",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18097,7 +18097,7 @@ const emojiData = {
     },
     {
       "emoji": "⛱️",
-      "keywords": "⛱️ E0.7 umbrella on ground",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18109,13 +18109,13 @@ const emojiData = {
     },
     {
       "emoji": "❄️",
-      "keywords": "❄️ E0.6 snowflake",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
     {
       "emoji": "☃️",
-      "keywords": "☃️ E0.7 snowman",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18127,7 +18127,7 @@ const emojiData = {
     },
     {
       "emoji": "☄️",
-      "keywords": "☄️ E1.0 comet",
+      "keywords": "旅行与地点",
       "category": "旅行与地点",
       "subCategory": "sky & weather"
     },
@@ -18159,7 +18159,7 @@ const emojiData = {
     },
     {
       "emoji": "🕶️",
-      "keywords": "🕶️ E0.7 sunglasses",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "clothing"
     },
@@ -18189,7 +18189,7 @@ const emojiData = {
     },
     {
       "emoji": "👕",
-      "keywords": "T恤",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "clothing"
     },
@@ -18297,7 +18297,7 @@ const emojiData = {
     },
     {
       "emoji": "🛍️",
-      "keywords": "🛍️ E0.7 shopping bags",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "clothing"
     },
@@ -18405,7 +18405,7 @@ const emojiData = {
     },
     {
       "emoji": "⛑️",
-      "keywords": "⛑️ E0.7 rescue worker’s helmet",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "clothing"
     },
@@ -18507,19 +18507,19 @@ const emojiData = {
     },
     {
       "emoji": "🎙️",
-      "keywords": "🎙️ E0.7 studio microphone",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "music"
     },
     {
       "emoji": "🎚️",
-      "keywords": "🎚️ E0.7 level slider",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "music"
     },
     {
       "emoji": "🎛️",
-      "keywords": "🎛️ E0.7 control knobs",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "music"
     },
@@ -18627,7 +18627,7 @@ const emojiData = {
     },
     {
       "emoji": "☎️",
-      "keywords": "☎️ E0.6 telephone",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "phone"
     },
@@ -18675,13 +18675,13 @@ const emojiData = {
     },
     {
       "emoji": "🖥️",
-      "keywords": "🖥️ E0.7 desktop computer",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "computer"
     },
     {
       "emoji": "🖨️",
-      "keywords": "🖨️ E0.7 printer",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "computer"
     },
@@ -18699,7 +18699,7 @@ const emojiData = {
     },
     {
       "emoji": "🖲️",
-      "keywords": "🖲️ E0.7 trackball",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "computer"
     },
@@ -18723,7 +18723,7 @@ const emojiData = {
     },
     {
       "emoji": "📀",
-      "keywords": "DVD",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "computer"
     },
@@ -18741,13 +18741,13 @@ const emojiData = {
     },
     {
       "emoji": "🎞️",
-      "keywords": "🎞️ E0.7 film frames",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "light & video"
     },
     {
       "emoji": "📽️",
-      "keywords": "📽️ E0.7 film projector",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "light & video"
     },
@@ -18801,7 +18801,7 @@ const emojiData = {
     },
     {
       "emoji": "🕯️",
-      "keywords": "🕯️ E0.7 candle",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "light & video"
     },
@@ -18909,7 +18909,7 @@ const emojiData = {
     },
     {
       "emoji": "🗞️",
-      "keywords": "🗞️ E0.7 rolled-up newspaper",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "book-paper"
     },
@@ -18927,7 +18927,7 @@ const emojiData = {
     },
     {
       "emoji": "🏷️",
-      "keywords": "🏷️ E0.7 label",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "book-paper"
     },
@@ -18993,7 +18993,7 @@ const emojiData = {
     },
     {
       "emoji": "✉️",
-      "keywords": "✉️ E0.6 envelope",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "mail"
     },
@@ -19065,43 +19065,43 @@ const emojiData = {
     },
     {
       "emoji": "🗳️",
-      "keywords": "🗳️ E0.7 ballot box with ballot",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "mail"
     },
     {
       "emoji": "✏️",
-      "keywords": "✏️ E0.6 pencil",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
     {
       "emoji": "✒️",
-      "keywords": "✒️ E0.6 black nib",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
     {
       "emoji": "🖋️",
-      "keywords": "🖋️ E0.7 fountain pen",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
     {
       "emoji": "🖊️",
-      "keywords": "🖊️ E0.7 pen",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
     {
       "emoji": "🖌️",
-      "keywords": "🖌️ E0.7 paintbrush",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
     {
       "emoji": "🖍️",
-      "keywords": "🖍️ E0.7 crayon",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "writing"
     },
@@ -19131,7 +19131,7 @@ const emojiData = {
     },
     {
       "emoji": "🗂️",
-      "keywords": "🗂️ E0.7 card index dividers",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
@@ -19149,13 +19149,13 @@ const emojiData = {
     },
     {
       "emoji": "🗒️",
-      "keywords": "🗒️ E0.7 spiral notepad",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
     {
       "emoji": "🗓️",
-      "keywords": "🗓️ E0.7 spiral calendar",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
@@ -19209,7 +19209,7 @@ const emojiData = {
     },
     {
       "emoji": "🖇️",
-      "keywords": "🖇️ E0.7 linked paperclips",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
@@ -19227,25 +19227,25 @@ const emojiData = {
     },
     {
       "emoji": "✂️",
-      "keywords": "✂️ E0.6 scissors",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
     {
       "emoji": "🗃️",
-      "keywords": "🗃️ E0.7 card file box",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
     {
       "emoji": "🗄️",
-      "keywords": "🗄️ E0.7 file cabinet",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
     {
       "emoji": "🗑️",
-      "keywords": "🗑️ E0.7 wastebasket",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "office"
     },
@@ -19281,7 +19281,7 @@ const emojiData = {
     },
     {
       "emoji": "🗝️",
-      "keywords": "🗝️ E0.7 old key",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "lock"
     },
@@ -19299,31 +19299,31 @@ const emojiData = {
     },
     {
       "emoji": "⛏️",
-      "keywords": "⛏️ E0.7 pick",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "⚒️",
-      "keywords": "⚒️ E1.0 hammer and pick",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "🛠️",
-      "keywords": "🛠️ E0.7 hammer and wrench",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "🗡️",
-      "keywords": "🗡️ E0.7 dagger",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "⚔️",
-      "keywords": "⚔️ E1.0 crossed swords",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
@@ -19347,7 +19347,7 @@ const emojiData = {
     },
     {
       "emoji": "🛡️",
-      "keywords": "🛡️ E0.7 shield",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
@@ -19377,19 +19377,19 @@ const emojiData = {
     },
     {
       "emoji": "⚙️",
-      "keywords": "⚙️ E1.0 gear",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "🗜️",
-      "keywords": "🗜️ E0.7 clamp",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "⚖️",
-      "keywords": "⚖️ E1.0 balance scale",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
@@ -19407,13 +19407,13 @@ const emojiData = {
     },
     {
       "emoji": "⛓️‍💥",
-      "keywords": "⛓️‍💥 E15.1 broken chain",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
     {
       "emoji": "⛓️",
-      "keywords": "⛓️ E0.7 chains",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "tool"
     },
@@ -19449,7 +19449,7 @@ const emojiData = {
     },
     {
       "emoji": "⚗️",
-      "keywords": "⚗️ E1.0 alembic",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "science"
     },
@@ -19467,7 +19467,7 @@ const emojiData = {
     },
     {
       "emoji": "🧬",
-      "keywords": "DNA",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "science"
     },
@@ -19527,7 +19527,7 @@ const emojiData = {
     },
     {
       "emoji": "🩻",
-      "keywords": "X射线",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "medical"
     },
@@ -19557,13 +19557,13 @@ const emojiData = {
     },
     {
       "emoji": "🛏️",
-      "keywords": "🛏️ E0.7 bed",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "household"
     },
     {
       "emoji": "🛋️",
-      "keywords": "🛋️ E0.7 couch and lamp",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "household"
     },
@@ -19689,7 +19689,7 @@ const emojiData = {
     },
     {
       "emoji": "⚰️",
-      "keywords": "⚰️ E1.0 coffin",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "other-object"
     },
@@ -19701,7 +19701,7 @@ const emojiData = {
     },
     {
       "emoji": "⚱️",
-      "keywords": "⚱️ E1.0 funeral urn",
+      "keywords": "物品",
       "category": "物品",
       "subCategory": "other-object"
     },
@@ -19817,7 +19817,7 @@ const emojiData = {
     },
     {
       "emoji": "⚠️",
-      "keywords": "⚠️ E0.6 warning",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "warning"
     },
@@ -19883,97 +19883,97 @@ const emojiData = {
     },
     {
       "emoji": "☢️",
-      "keywords": "☢️ E1.0 radioactive",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "warning"
     },
     {
       "emoji": "☣️",
-      "keywords": "☣️ E1.0 biohazard",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "warning"
     },
     {
       "emoji": "⬆️",
-      "keywords": "⬆️ E0.6 up arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↗️",
-      "keywords": "↗️ E0.6 up-right arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "➡️",
-      "keywords": "➡️ E0.6 right arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↘️",
-      "keywords": "↘️ E0.6 down-right arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "⬇️",
-      "keywords": "⬇️ E0.6 down arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↙️",
-      "keywords": "↙️ E0.6 down-left arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "⬅️",
-      "keywords": "⬅️ E0.6 left arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↖️",
-      "keywords": "↖️ E0.6 up-left arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↕️",
-      "keywords": "↕️ E0.6 up-down arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↔️",
-      "keywords": "↔️ E0.6 left-right arrow",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↩️",
-      "keywords": "↩️ E0.6 right arrow curving left",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "↪️",
-      "keywords": "↪️ E0.6 left arrow curving right",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "⤴️",
-      "keywords": "⤴️ E0.6 right arrow curving up",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "⤵️",
-      "keywords": "⤵️ E0.6 right arrow curving down",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
@@ -20003,13 +20003,13 @@ const emojiData = {
     },
     {
       "emoji": "🔛",
-      "keywords": "ON! 箭头",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
     {
       "emoji": "🔜",
-      "keywords": "SOON 箭头",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "arrow"
     },
@@ -20027,55 +20027,55 @@ const emojiData = {
     },
     {
       "emoji": "⚛️",
-      "keywords": "⚛️ E1.0 atom symbol",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "🕉️",
-      "keywords": "🕉️ E0.7 om",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "✡️",
-      "keywords": "✡️ E0.7 star of David",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "☸️",
-      "keywords": "☸️ E0.7 wheel of dharma",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "☯️",
-      "keywords": "☯️ E0.7 yin yang",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "✝️",
-      "keywords": "✝️ E0.7 latin cross",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "☦️",
-      "keywords": "☦️ E1.0 orthodox cross",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "☪️",
-      "keywords": "☪️ E0.7 star and crescent",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
     {
       "emoji": "☮️",
-      "keywords": "☮️ E1.0 peace symbol",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "religion"
     },
@@ -20195,7 +20195,7 @@ const emojiData = {
     },
     {
       "emoji": "▶️",
-      "keywords": "▶️ E0.6 play button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
@@ -20207,19 +20207,19 @@ const emojiData = {
     },
     {
       "emoji": "⏭️",
-      "keywords": "⏭️ E0.7 next track button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
     {
       "emoji": "⏯️",
-      "keywords": "⏯️ E1.0 play or pause button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
     {
       "emoji": "◀️",
-      "keywords": "◀️ E0.6 reverse button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
@@ -20231,7 +20231,7 @@ const emojiData = {
     },
     {
       "emoji": "⏮️",
-      "keywords": "⏮️ E0.7 last track button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
@@ -20261,25 +20261,25 @@ const emojiData = {
     },
     {
       "emoji": "⏸️",
-      "keywords": "⏸️ E0.7 pause button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
     {
       "emoji": "⏹️",
-      "keywords": "⏹️ E0.7 stop button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
     {
       "emoji": "⏺️",
-      "keywords": "⏺️ E0.7 record button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
     {
       "emoji": "⏏️",
-      "keywords": "⏏️ E1.0 eject button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "av-symbol"
     },
@@ -20327,25 +20327,25 @@ const emojiData = {
     },
     {
       "emoji": "♀️",
-      "keywords": "♀️ E4.0 female sign",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "gender"
     },
     {
       "emoji": "♂️",
-      "keywords": "♂️ E4.0 male sign",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "gender"
     },
     {
       "emoji": "⚧️",
-      "keywords": "⚧️ E13.0 transgender symbol",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "gender"
     },
     {
       "emoji": "✖️",
-      "keywords": "✖️ E0.6 multiply",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "math"
     },
@@ -20375,19 +20375,19 @@ const emojiData = {
     },
     {
       "emoji": "♾️",
-      "keywords": "♾️ E11.0 infinity",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "math"
     },
     {
       "emoji": "‼️",
-      "keywords": "‼️ E0.6 double exclamation mark",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "punctuation"
     },
     {
       "emoji": "⁉️",
-      "keywords": "⁉️ E0.6 exclamation question mark",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "punctuation"
     },
@@ -20417,7 +20417,7 @@ const emojiData = {
     },
     {
       "emoji": "〰️",
-      "keywords": "〰️ E0.6 wavy dash",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "punctuation"
     },
@@ -20435,19 +20435,19 @@ const emojiData = {
     },
     {
       "emoji": "⚕️",
-      "keywords": "⚕️ E4.0 medical symbol",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "♻️",
-      "keywords": "♻️ E0.6 recycling symbol",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "⚜️",
-      "keywords": "⚜️ E1.0 fleur-de-lis",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
@@ -20483,13 +20483,13 @@ const emojiData = {
     },
     {
       "emoji": "☑️",
-      "keywords": "☑️ E0.6 check box with check",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "✔️",
-      "keywords": "✔️ E0.6 check mark",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
@@ -20519,43 +20519,43 @@ const emojiData = {
     },
     {
       "emoji": "〽️",
-      "keywords": "〽️ E0.6 part alternation mark",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "✳️",
-      "keywords": "✳️ E0.6 eight-spoked asterisk",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "✴️",
-      "keywords": "✴️ E0.6 eight-pointed star",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "❇️",
-      "keywords": "❇️ E0.6 sparkle",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "©️",
-      "keywords": "©️ E0.6 copyright",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "®️",
-      "keywords": "®️ E0.6 registered",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
     {
       "emoji": "™️",
-      "keywords": "™️ E0.6 trade mark",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "other-symbol"
     },
@@ -20573,73 +20573,73 @@ const emojiData = {
     },
     {
       "emoji": "*️⃣",
-      "keywords": "*️⃣ E2.0 keycap: *",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "0️⃣",
-      "keywords": "0️⃣ E0.6 keycap: 0",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "1️⃣",
-      "keywords": "1️⃣ E0.6 keycap: 1",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "2️⃣",
-      "keywords": "2️⃣ E0.6 keycap: 2",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "3️⃣",
-      "keywords": "3️⃣ E0.6 keycap: 3",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "4️⃣",
-      "keywords": "4️⃣ E0.6 keycap: 4",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "5️⃣",
-      "keywords": "5️⃣ E0.6 keycap: 5",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "6️⃣",
-      "keywords": "6️⃣ E0.6 keycap: 6",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "7️⃣",
-      "keywords": "7️⃣ E0.6 keycap: 7",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "8️⃣",
-      "keywords": "8️⃣ E0.6 keycap: 8",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "9️⃣",
-      "keywords": "9️⃣ E0.6 keycap: 9",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
     {
       "emoji": "🔟",
-      "keywords": "🔟 E0.6 keycap: 10",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "keycap"
     },
@@ -20675,31 +20675,31 @@ const emojiData = {
     },
     {
       "emoji": "🅰️",
-      "keywords": "🅰️ E0.6 A button (blood type)",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆎",
-      "keywords": "AB型血",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🅱️",
-      "keywords": "🅱️ E0.6 B button (blood type)",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆑",
-      "keywords": "CL按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆒",
-      "keywords": "cool按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
@@ -20711,67 +20711,67 @@ const emojiData = {
     },
     {
       "emoji": "ℹ️",
-      "keywords": "ℹ️ E0.6 information",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆔",
-      "keywords": "ID按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "Ⓜ️",
-      "keywords": "Ⓜ️ E0.6 circled M",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆕",
-      "keywords": "new按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆖",
-      "keywords": "NG按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🅾️",
-      "keywords": "🅾️ E0.6 O button (blood type)",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆗",
-      "keywords": "OK按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🅿️",
-      "keywords": "🅿️ E0.6 P button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆘",
-      "keywords": "SOS按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆙",
-      "keywords": "up按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🆚",
-      "keywords": "VS按钮",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
@@ -20783,13 +20783,13 @@ const emojiData = {
     },
     {
       "emoji": "🈂️",
-      "keywords": "🈂️ E0.6 Japanese “service charge” button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "🈷️",
-      "keywords": "🈷️ E0.6 Japanese “monthly amount” button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
@@ -20855,13 +20855,13 @@ const emojiData = {
     },
     {
       "emoji": "㊗️",
-      "keywords": "㊗️ E0.6 Japanese “congratulations” button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
     {
       "emoji": "㊙️",
-      "keywords": "㊙️ E0.6 Japanese “secret” button",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "alphanum"
     },
@@ -20987,13 +20987,13 @@ const emojiData = {
     },
     {
       "emoji": "◼️",
-      "keywords": "◼️ E0.6 black medium square",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "geometric"
     },
     {
       "emoji": "◻️",
-      "keywords": "◻️ E0.6 white medium square",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "geometric"
     },
@@ -21011,13 +21011,13 @@ const emojiData = {
     },
     {
       "emoji": "▪️",
-      "keywords": "▪️ E0.6 black small square",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "geometric"
     },
     {
       "emoji": "▫️",
-      "keywords": "▫️ E0.6 white small square",
+      "keywords": "符号",
       "category": "符号",
       "subCategory": "geometric"
     },
@@ -21082,4 +21082,4 @@ const emojiData = {
       "subCategory": "geometric"
     }
   ]
-};
+}

@@ -1,5 +1,6 @@
 :root {
     --primary-color: #4a90e2;
+    --primary-dark: #2563a7;
     --secondary-color: #f5f5f5;
     --text-color: #333;
     --border-color: #e0e0e0;
@@ -23,7 +24,7 @@ html {
 /* 移动端基础字体大小调整 */
 @media (max-width: 768px) {
     html {
-        font-size: 14px;
+        font-size: 15px;  /* 稍微调大一点移动端的基础字体大小 */
     }
 }
 
@@ -66,11 +67,12 @@ header p {
     }
 
     header h1 {
-        font-size: 1.8rem;
+        font-size: 1.5rem;
+        margin-bottom: 0.5rem;
     }
 
     header p {
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
 
@@ -110,9 +112,13 @@ main {
 
 /* 移动端搜索框适配 */
 @media (max-width: 768px) {
-    #searchEmoji {
-        padding: 0.8rem;
+    .search-container {
+        padding: 0.5rem;
+    }
+
+    .search-container input {
         font-size: 1rem;
+        padding: 0.5rem 1rem;
     }
 }
 
@@ -123,223 +129,315 @@ main {
 
 .categories {
     display: flex;
-    flex-wrap: wrap;
     gap: 0.5rem;
     padding: 1rem;
-    justify-content: center;
-    background-color: var(--card-background);
-    border-bottom: 1px solid #e2e8f0;
+    background-color: var(--background-color);
+    border-bottom: 1px solid var(--border-color);
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }
 
 /* 移动端分类按钮适配 */
 @media (max-width: 768px) {
     .categories {
         padding: 0.5rem;
-        gap: 0.3rem;
+        gap: 0.5rem;
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        scrollbar-width: none;
+        -ms-overflow-style: none;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+        width: 100%;
+        max-width: 100vw;
+        margin: 0;
+        white-space: nowrap;
+    }
+
+    .categories::-webkit-scrollbar {
+        display: none;
+    }
+
+    .category-btn {
+        font-size: 0.8rem;
+        padding: 0.4rem 0.8rem;
+        white-space: nowrap;
+        flex: 0 0 auto;
+        min-width: max-content;
     }
 }
 
 .category-btn {
-    padding: 0.5rem 1rem;
-    border: 1px solid #e2e8f0;
-    border-radius: 0.5rem;
-    background-color: var(--background-color);
-    cursor: pointer;
-    transition: all 0.2s;
-    touch-action: manipulation;
+    background-color: var(--secondary-color);
     color: var(--text-color);
-    border-color: var(--border-color);
-}
-
-/* 移动端按钮适配 */
-@media (max-width: 768px) {
-    .category-btn {
-        padding: 0.4rem 0.8rem;
-        font-size: 0.9rem;
-    }
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.9rem;
+    flex: 0 0 auto;
 }
 
 .category-btn:hover {
-    background-color: #f1f5f9;
+    background-color: var(--hover-color);
 }
 
 .category-btn.active {
-    background-color: #2563eb;
-    color: #ffffff;
-    border-color: #1e40af;
+    background-color: var(--primary-dark);
+    color: white;
+    border-color: var(--primary-dark);
+    font-weight: 500;
+}
+
+/* 小屏幕手机适配 */
+@media (max-width: 320px) {
+    .categories {
+        padding: 0.4rem;
+        gap: 0.4rem;
+    }
+
+    .category-btn {
+        font-size: 0.75rem;
+        padding: 0.3rem 0.6rem;
+    }
 }
 
 /* Emoji 容器样式 */
 #emoji-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    padding: 1rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 15px;
+    padding: 20px;
     max-width: 1200px;
     margin: 0 auto;
 }
 
+/* 移动端表情符号容器适配 */
+@media (max-width: 768px) {
+    #emoji-container {
+        grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+        gap: 8px;
+        padding: 0.5rem;
+    }
+
+    .emoji-item {
+        padding: 6px;
+    }
+
+    .emoji-char {
+        font-size: 1.8rem;  /* 适当调整emoji大小 */
+        margin-bottom: 3px;
+    }
+
+    .emoji-keyword {
+        font-size: 0.95rem;  /* 移动端略微加大关键词字体 */
+        -webkit-line-clamp: 1;  /* 移动端只显示一行 */
+    }
+}
+
+/* 小屏幕手机适配 */
+@media (max-width: 320px) {
+    #emoji-container {
+        grid-template-columns: repeat(auto-fill, minmax(60px, 1fr));
+        gap: 6px;
+    }
+
+    .emoji-char {
+        font-size: 1.5rem;
+    }
+
+    .emoji-keyword {
+        font-size: 0.65rem;
+    }
+
+    .category-btn {
+        font-size: 0.75rem;
+        padding: 0.3rem 0.6rem;
+    }
+}
+
 .emoji-item {
-    flex: 0 0 calc(20% - 8px); /* 5列布局 */
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 8px 4px;
     background-color: var(--card-background);
-    -webkit-backdrop-filter: none;
-    backdrop-filter: none;
-    border-radius: 8px;
     border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 10px;
     cursor: pointer;
-    transition: all 0.2s;
-}
-
-/* 平板端布局 */
-@media (max-width: 768px) {
-    .emoji-item {
-        flex: 0 0 calc(25% - 8px); /* 4列布局 */
-        padding: 6px 3px;
-    }
-}
-
-/* 移动端布局 */
-@media (max-width: 480px) {
-    #emoji-container {
-        gap: 4px;
-        padding: 0.5rem;
-    }
-    
-    .emoji-item {
-        flex: 0 0 calc(33.333% - 4px); /* 3列布局 */
-        padding: 4px 2px;
-    }
+    transition: all 0.2s ease;
+    user-select: none;
+    text-align: center;
+    animation: fadeIn 0.3s ease forwards;
 }
 
 .emoji-char {
-    font-size: 1.8rem;
-    line-height: 1;
-    margin-bottom: 4px;
+    font-size: 2rem;
+    margin-bottom: 5px;
 }
 
-.emoji-name {
-    font-size: 0.75rem;
-    text-align: center;
+.emoji-keyword {
+    font-size: 0.9rem;  /* 增加到 0.9rem */
     color: var(--text-color);
+    opacity: 0.9;  /* 增加不透明度以提高可读性 */
+    word-break: break-word;
+    max-width: 100%;
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
-    width: 100%;
-    padding: 0 2px;
-}
-
-/* 移动端文字适配 */
-@media (max-width: 768px) {
-    .emoji-char {
-        font-size: 1.5rem;
-        margin-bottom: 2px;
-    }
-
-    .emoji-name {
-        font-size: 0.7rem;
-    }
-}
-
-@media (max-width: 480px) {
-    .emoji-char {
-        font-size: 1.3rem;
-    }
-
-    .emoji-name {
-        font-size: 0.65rem;
-    }
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
 }
 
 .emoji-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 6px var(--shadow-color);
+    transform: scale(1.05);
+    background-color: var(--hover-color);
+    box-shadow: 0 2px 4px var(--shadow-color);
 }
 
 .emoji-item:active {
-    transform: translateY(0);
-    box-shadow: none;
+    transform: scale(0.95);
 }
 
-/* 添加触摸反馈效果 */
+/* 触摸设备优化 */
 @media (hover: none) {
+    .emoji-item {
+        -webkit-tap-highlight-color: transparent;
+    }
+
     .emoji-item:active {
+        transform: scale(0.95);
         background-color: var(--hover-color);
     }
-    
+
     .category-btn:active {
-        background-color: var(--hover-color);
+        background-color: var(--primary-color);
+        color: white;
     }
 }
 
-/* 添加安全区域适配 */
+/* 暗色模式支持 */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary-color: #5c9ce6;
+        --primary-dark: #2563a7;
+        --secondary-color: #2a2a2a;
+        --text-color: #e0e0e0;
+        --border-color: #404040;
+        --hover-color: #3a3a3a;
+        --shadow-color: rgba(0, 0, 0, 0.2);
+        --background-color: #1a1a1a;
+        --card-background: #2d2d2d;
+    }
+
+    .search-container input {
+        background-color: var(--card-background);
+        color: var(--text-color);
+    }
+
+    .category-btn {
+        background-color: var(--card-background);
+        color: var(--text-color);
+    }
+
+    .category-btn.active {
+        background-color: var(--primary-dark);
+        color: white;
+    }
+
+    #copy-notification {
+        background-color: var(--card-background);
+        color: var(--text-color);
+    }
+}
+
+/* 加载提示样式 */
+#loading-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    color: var(--text-color);
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+#loading-indicator.hidden {
+    display: none;
+}
+
+.loading-spinner {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+    border: 2px solid var(--primary-color);
+    border-top-color: transparent;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+/* 移动端加载提示适配 */
+@media (max-width: 768px) {
+    #loading-indicator {
+        padding: 0.8rem;
+        font-size: 0.9rem;
+    }
+
+    .loading-spinner {
+        width: 16px;
+        height: 16px;
+        margin-right: 6px;
+        border-width: 1.5px;
+    }
+}
+
+/* 安全区域适配 */
 @supports (padding: env(safe-area-inset-bottom)) {
     body {
         padding-bottom: env(safe-area-inset-bottom);
     }
-}
-
-/* 添加暗色模式支持 */
-@media (prefers-color-scheme: dark) {
-    :root {
-        --text-color: #e0e0e0;
-        --border-color: #404040;
-        --hover-color: #2a2a2a;
-        --shadow-color: rgba(0, 0, 0, 0.3);
-        --background-color: #121212;
-        --card-background: #1e1e1e;
-    }
-
-    body {
-        background-color: var(--background-color);
-        -webkit-backdrop-filter: none;
-        backdrop-filter: none;
-    }
-
-    .emoji-item {
-        background-color: var(--card-background);
-        -webkit-backdrop-filter: none;
-        backdrop-filter: none;
-    }
-
-    #searchEmoji {
-        background-color: var(--card-background);
-        color: var(--text-color);
-    }
-
-    .categories {
-        background-color: var(--card-background);
-    }
-
-    .category-btn {
-        background-color: var(--background-color);
-        color: var(--text-color);
-        border-color: var(--border-color);
-    }
 
     #copy-notification {
-        background-color: rgba(0, 0, 0, 0.9);
+        bottom: calc(1rem + env(safe-area-inset-bottom));
     }
 }
 
-/* iOS Safari 特定修复 */
-@supports (-webkit-touch-callout: none) {
-    body {
-        -webkit-backdrop-filter: none;
-        backdrop-filter: none;
+/* 加载动画 */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
     }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
 
-    .emoji-item,
-    .search-container input,
-    .categories,
-    .category-btn {
-        -webkit-backdrop-filter: none;
-        backdrop-filter: none;
-    }
+/* 滚动条样式 */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--secondary-color);
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb {
+    background: var(--primary-color);
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #357abd;
 }
 
 footer {
@@ -360,19 +458,6 @@ footer a:hover {
     color: #1e40af;
 }
 
-/* 响应式设计 */
-@media (max-width: 768px) {
-    header h1 {
-        font-size: 2rem;
-    }
-}
-
-@media (max-width: 480px) {
-    header h1 {
-        font-size: 1.8rem;
-    }
-}
-
 #copy-notification {
     position: fixed;
     bottom: 2rem;
@@ -384,6 +469,7 @@ footer a:hover {
     border-radius: 20px;
     z-index: 1000;
     transition: all 0.3s ease;
+    font-size: 0.9rem;
 }
 
 #copy-notification.hidden {

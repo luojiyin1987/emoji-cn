@@ -25,18 +25,22 @@
 
         <div class="categories">
             <button class="category-btn active" data-category="all">全部</button>
-            <button class="category-btn" data-category="smileys">表情与情感</button>
+            <button class="category-btn" data-category="smileys">表情</button>
             <button class="category-btn" data-category="people">人物</button>
-            <button class="category-btn" data-category="nature">动物与自然</button>
-            <button class="category-btn" data-category="food">食物与饮料</button>
+            <button class="category-btn" data-category="nature">动物</button>
+            <button class="category-btn" data-category="food">食物</button>
             <button class="category-btn" data-category="activities">活动</button>
-            <button class="category-btn" data-category="travel">旅行与地点</button>
+            <button class="category-btn" data-category="travel">旅行</button>
             <button class="category-btn" data-category="objects">物品</button>
             <button class="category-btn" data-category="symbols">符号</button>
         </div>
 
         <div id="emoji-container">
             <!-- 表情符号将通过JavaScript动态加载 -->
+        </div>
+        <div id="loading-indicator" class="hidden">
+            <div class="loading-spinner"></div>
+            <span>加载更多...</span>
         </div>
     </main>
 
@@ -46,8 +50,7 @@
 
     <div id="copy-notification" class="hidden">已复制!</div>
 
-    <script src="static/js/emoji-data.js"></script>
-    <script src="static/js/main.js"></script>
+    <script type="module" src="static/js/main.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
