@@ -104,13 +104,43 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 复制表情符号
+    // 复制表情符号（支持降级方案）
     function copyEmoji(emoji) {
-        navigator.clipboard.writeText(emoji).then(() => {
-            showCopyNotification();
-        }).catch(err => {
-            console.error('Failed to copy: ', err);
-        });
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(emoji).then(() => {
+                onCopySuccess();
+            }).catch(err => {
+                console.error('Clipboard API failed: ', err);
+                fallbackCopy(emoji);
+            });
+        } else {
+            fallbackCopy(emoji);
+        }
+    }
+
+    // 降级复制方案（兼容旧浏览器和 HTTP 环境）
+    function fallbackCopy(text) {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.left = '-9999px';
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            document.execCommand('copy');
+            onCopySuccess();
+        } catch (err) {
+            console.error('Fallback copy failed: ', err);
+        }
+        document.body.removeChild(textarea);
+    }
+
+    // 复制成功后的通用反馈
+    function onCopySuccess() {
+        showCopyNotification();
+        if (navigator.vibrate) {
+            navigator.vibrate(50);
+        }
     }
 
     // 显示复制成功提示
