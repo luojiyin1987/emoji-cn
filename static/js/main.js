@@ -71,23 +71,25 @@ document.addEventListener('DOMContentLoaded', () => {
         // 使用 setTimeout 来模拟加载延迟，让加载动画更明显
         setTimeout(() => {
             // 显示表情符号
+            const fragment = document.createDocumentFragment();
             pageEmojis.forEach(emojiData => {
                 const emojiDiv = document.createElement('div');
                 emojiDiv.className = 'emoji-item';
-                
+
                 const emojiSpan = document.createElement('span');
                 emojiSpan.className = 'emoji-char';
                 emojiSpan.textContent = emojiData.emoji;
-                
+
                 const keywordSpan = document.createElement('span');
                 keywordSpan.className = 'emoji-keyword';
                 keywordSpan.textContent = emojiData.keywords;
-                
+
                 emojiDiv.appendChild(emojiSpan);
                 emojiDiv.appendChild(keywordSpan);
                 emojiDiv.addEventListener('click', () => copyEmoji(emojiData.emoji));
-                emojiContainer.appendChild(emojiDiv);
+                fragment.appendChild(emojiDiv);
             });
+            emojiContainer.appendChild(fragment);
 
             isLoading = false;
             loadingIndicator.classList.add('hidden');
