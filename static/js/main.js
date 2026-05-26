@@ -1,4 +1,5 @@
 import { emojiData } from './emoji-data.js';
+import pinyin from './vendor/tiny-pinyin.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const emojiContainer = document.getElementById('emoji-container');
@@ -6,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const copyNotification = document.getElementById('copy-notification');
     const categoryButtons = document.querySelectorAll('.category-btn');
     const loadingIndicator = document.getElementById('loading-indicator');
+    const pinyinEnabled = pinyin.isSupported();
 
     // 分页配置
     const PAGE_SIZE = 50; // 每页显示50个表情
@@ -14,6 +16,41 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentSearchTerm = '';
     let isLoading = false;
     let hasMoreEmojis = true;
+    const searchableEmojiData = Object.fromEntries(
+        Object.entries(emojiData).map(([category, emojis]) => [
+            category,
+            emojis.map(emoji => ({
+                ...emoji,
+                searchIndex: buildSearchIndex(emoji)
+            }))
+        ])
+    );
+    const allEmojis = Object.values(searchableEmojiData).flat();
+
+    function normalizeSearchText(text) {
+        return text.toLowerCase().replace(/\s+/g, '');
+    }
+
+    function buildPinyinIndex(text) {
+        if (!pinyinEnabled || !text) return '';
+
+        const pinyinText = pinyin.convertToPinyin(text, ' ', true).trim();
+        if (!pinyinText) return '';
+
+        const compact = pinyinText.replace(/\s+/g, '');
+        const initials = pinyinText
+            .split(/\s+/)
+            .map(part => part[0] || '')
+            .join('');
+
+        return `${pinyinText} ${compact} ${initials}`;
+    }
+
+    function buildSearchIndex(emoji) {
+        const searchFields = [emoji.keywords, emoji.category, emoji.subCategory].filter(Boolean);
+        const pinyinFields = searchFields.map(buildPinyinIndex).filter(Boolean);
+        return normalizeSearchText([...searchFields, ...pinyinFields].join(' '));
+    }
 
     // 初始化分类按钮
     function initializeCategoryButtons() {
@@ -46,17 +83,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // 获取表情数据
         if (currentCategory === 'all') {
-            emojisToShow = Object.values(emojiData).flat();
+            emojisToShow = allEmojis;
         } else {
-            emojisToShow = emojiData[currentCategory] || [];
+            emojisToShow = searchableEmojiData[currentCategory] || [];
         }
 
         // 搜索过滤
-        if (currentSearchTerm) {
+        const normalizedSearchTerm = normalizeSearchText(currentSearchTerm);
+        if (normalizedSearchTerm) {
             emojisToShow = emojisToShow.filter(emoji => 
-                emoji.keywords.toLowerCase().includes(currentSearchTerm.toLowerCase()) ||
-                emoji.category.toLowerCase().includes(currentSearchTerm.toLowerCase()) ||
-                (emoji.subCategory && emoji.subCategory.toLowerCase().includes(currentSearchTerm.toLowerCase()))
+                emoji.searchIndex.includes(normalizedSearchTerm)
             );
         }
 
