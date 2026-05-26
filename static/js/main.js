@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 emojiDiv.appendChild(emojiSpan);
                 emojiDiv.appendChild(keywordSpan);
-                emojiDiv.addEventListener('click', () => copyEmoji(emojiData.emoji));
+                emojiDiv.dataset.emoji = emojiData.emoji;
                 fragment.appendChild(emojiDiv);
             });
             emojiContainer.appendChild(fragment);
@@ -187,6 +187,14 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         touchStartY = touchEndY;
     }, 100), { passive: true });
+
+    // 使用事件委托处理 emoji 点击复制
+    emojiContainer.addEventListener('click', (e) => {
+        const item = e.target.closest('.emoji-item');
+        if (item && item.dataset.emoji) {
+            copyEmoji(item.dataset.emoji);
+        }
+    });
 
     // 初始化显示
     initializeCategoryButtons();
