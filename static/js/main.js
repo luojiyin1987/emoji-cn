@@ -68,8 +68,8 @@ document.addEventListener('DOMContentLoaded', () => {
         // 检查是否还有更多数据
         hasMoreEmojis = endIndex < emojisToShow.length;
 
-        // 使用 setTimeout 来模拟加载延迟，让加载动画更明显
-        setTimeout(() => {
+        // 使用 requestAnimationFrame 让浏览器有机会先渲染 loading 指示器
+        requestAnimationFrame(() => {
             // 显示表情符号
             const fragment = document.createDocumentFragment();
             pageEmojis.forEach(emojiData => {
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 endMessage.textContent = '已经到底啦 ~';
                 emojiContainer.appendChild(endMessage);
             }
-        }, 300);
+        });
     }
 
     // 复制表情符号
