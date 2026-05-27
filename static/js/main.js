@@ -1,5 +1,4 @@
 import { emojiData } from './emoji-data.js';
-import pinyin from './vendor/tiny-pinyin.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const emojiContainer = document.getElementById('emoji-container');
@@ -7,7 +6,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const copyNotification = document.getElementById('copy-notification');
     const categoryButtons = document.querySelectorAll('.category-btn');
     const loadingIndicator = document.getElementById('loading-indicator');
-    const pinyinEnabled = pinyin.isSupported();
 
     // 分页配置
     const PAGE_SIZE = 50; // 每页显示50个表情
@@ -16,19 +14,56 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentSearchTerm = '';
     let isLoading = false;
     let hasMoreEmojis = true;
-    const searchableEmojiData = Object.fromEntries(
-        Object.entries(emojiData).map(([category, emojis]) => [
-            category,
-            emojis.map(emoji => ({
-                ...emoji,
-                searchData: buildSearchData(emoji)
-            }))
-        ])
-    );
-    const allEmojis = Object.values(searchableEmojiData).flat();
+    let searchRequestId = 0;
+    let pinyin = null;
+    let pinyinEnabled = false;
+    let pinyinLoadPromise = null;
+    let searchableEmojiData = createSearchableEmojiData();
+    let allEmojis = Object.values(searchableEmojiData).flat();
+
+    function createSearchableEmojiData() {
+        return Object.fromEntries(
+            Object.entries(emojiData).map(([category, emojis]) => [
+                category,
+                emojis.map(emoji => ({
+                    ...emoji,
+                    searchData: buildSearchData(emoji)
+                }))
+            ])
+        );
+    }
+
+    function refreshSearchIndex() {
+        searchableEmojiData = createSearchableEmojiData();
+        allEmojis = Object.values(searchableEmojiData).flat();
+    }
 
     function normalizeSearchText(text) {
         return String(text || '').toLowerCase().replace(/\s+/g, '');
+    }
+
+    function isLikelyPinyinQuery(text) {
+        return /^[a-z]+$/i.test(text);
+    }
+
+    async function ensurePinyinReady() {
+        if (pinyinEnabled) return;
+
+        if (!pinyinLoadPromise) {
+            pinyinLoadPromise = import('./vendor/tiny-pinyin.js')
+                .then((module) => module.default)
+                .catch((error) => {
+                    pinyinLoadPromise = null;
+                    throw error;
+                });
+        }
+
+        const loadedPinyin = await pinyinLoadPromise;
+        if (!loadedPinyin || !loadedPinyin.isSupported()) return;
+
+        pinyin = loadedPinyin;
+        pinyinEnabled = true;
+        refreshSearchIndex();
     }
 
     function buildPinyinIndex(text) {
@@ -292,8 +327,14 @@ document.addEventListener('DOMContentLoaded', () => {
     let searchTimeout;
     searchInput.addEventListener('input', (e) => {
         clearTimeout(searchTimeout);
-        searchTimeout = setTimeout(() => {
-            currentSearchTerm = e.target.value.trim();
+        const requestId = ++searchRequestId;
+        searchTimeout = setTimeout(async () => {
+            const nextSearchTerm = e.target.value.trim();
+            if (isLikelyPinyinQuery(nextSearchTerm)) {
+                await ensurePinyinReady();
+            }
+            if (requestId !== searchRequestId) return;
+            currentSearchTerm = nextSearchTerm;
             resetAndDisplay();
         }, 300);
     });
