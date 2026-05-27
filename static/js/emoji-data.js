@@ -1,4 +1,4 @@
-// 自动生成的emoji数据 - 2026-05-27T04:35:41.791Z
+// 自动生成的emoji数据 - 2026-05-27T04:39:22.508Z
 export const emojiData = {
   "smileys": [
     {
