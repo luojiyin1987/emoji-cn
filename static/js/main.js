@@ -21,14 +21,14 @@ document.addEventListener('DOMContentLoaded', () => {
             category,
             emojis.map(emoji => ({
                 ...emoji,
-                searchIndex: buildSearchIndex(emoji)
+                searchData: buildSearchData(emoji)
             }))
         ])
     );
     const allEmojis = Object.values(searchableEmojiData).flat();
 
     function normalizeSearchText(text) {
-        return text.toLowerCase().replace(/\s+/g, '');
+        return String(text || '').toLowerCase().replace(/\s+/g, '');
     }
 
     function buildPinyinIndex(text) {
@@ -37,19 +37,118 @@ document.addEventListener('DOMContentLoaded', () => {
         const pinyinText = pinyin.convertToPinyin(text, ' ', true).trim();
         if (!pinyinText) return '';
 
-        const compact = pinyinText.replace(/\s+/g, '');
-        const initials = pinyinText
-            .split(/\s+/)
+        const syllables = pinyinText.split(/\s+/).filter(Boolean);
+        const compact = syllables.join('');
+        const initials = syllables
             .map(part => part[0] || '')
             .join('');
 
-        return `${pinyinText} ${compact} ${initials}`;
+        return {
+            text: pinyinText,
+            compact,
+            initials,
+            syllables
+        };
     }
 
-    function buildSearchIndex(emoji) {
-        const searchFields = [emoji.keywords, emoji.category, emoji.subCategory].filter(Boolean);
-        const pinyinFields = searchFields.map(buildPinyinIndex).filter(Boolean);
-        return normalizeSearchText([...searchFields, ...pinyinFields].join(' '));
+    function buildTextIndex(text) {
+        if (!text) return null;
+
+        return {
+            raw: text,
+            normalized: normalizeSearchText(text),
+            pinyin: buildPinyinIndex(text)
+        };
+    }
+
+    function buildSearchData(emoji) {
+        return {
+            symbol: buildTextIndex(emoji.emoji),
+            keyword: buildTextIndex(emoji.keywords),
+            category: buildTextIndex(emoji.category),
+            subCategory: buildTextIndex(emoji.subCategory)
+        };
+    }
+
+    function scoreTextIndex(query, textIndex, weight) {
+        if (!query || !textIndex) return 0;
+
+        let score = 0;
+        const { normalized, pinyin: pinyinIndex } = textIndex;
+
+        if (normalized) {
+            if (normalized === query) {
+                score = Math.max(score, weight + 100);
+            } else if (normalized.startsWith(query)) {
+                score = Math.max(score, weight + 70);
+            } else if (normalized.includes(query)) {
+                score = Math.max(score, weight + 40);
+            }
+        }
+
+        if (!pinyinIndex) return score;
+
+        if (pinyinIndex.compact === query) {
+            score = Math.max(score, weight + 95);
+        } else if (pinyinIndex.compact.startsWith(query)) {
+            score = Math.max(score, weight + 65);
+        } else if (pinyinIndex.compact.includes(query)) {
+            score = Math.max(score, weight + 20);
+        }
+
+        if (query.length >= 2) {
+            if (pinyinIndex.initials === query) {
+                score = Math.max(score, weight + 60);
+            } else if (pinyinIndex.initials.startsWith(query)) {
+                score = Math.max(score, weight + 30);
+            }
+        }
+
+        const syllableScore = pinyinIndex.syllables.reduce((bestScore, syllable, index) => {
+            if (syllable === query) {
+                return Math.max(bestScore, weight + (index === 0 ? 55 : 45));
+            }
+
+            if (query.length >= 2 && syllable.startsWith(query)) {
+                return Math.max(bestScore, weight + (index === 0 ? 40 : 32));
+            }
+
+            return bestScore;
+        }, 0);
+
+        return Math.max(score, syllableScore);
+    }
+
+    function getSearchScore(emoji, query) {
+        if (!query) return 0;
+
+        const symbolScore = scoreTextIndex(query, emoji.searchData.symbol, 500);
+        const keywordScore = scoreTextIndex(query, emoji.searchData.keyword, 320);
+        const subCategoryScore = scoreTextIndex(query, emoji.searchData.subCategory, 140);
+        const categoryScore = scoreTextIndex(query, emoji.searchData.category, 80);
+
+        let score = Math.max(symbolScore, keywordScore, subCategoryScore, categoryScore);
+
+        if (symbolScore && keywordScore) score += 20;
+        if (keywordScore && subCategoryScore) score += 12;
+        if (keywordScore && categoryScore) score += 6;
+
+        return score;
+    }
+
+    function searchEmojis(emojis, searchTerm) {
+        const normalizedSearchTerm = normalizeSearchText(searchTerm);
+        if (!normalizedSearchTerm) return emojis;
+
+        return emojis
+            .map((emoji, index) => ({
+                emoji,
+                index,
+                score: getSearchScore(emoji, normalizedSearchTerm)
+            }))
+            .filter(item => item.score > 0)
+            .sort((a, b) => b.score - a.score || a.index - b.index)
+            .map(item => item.emoji);
     }
 
     // 初始化分类按钮
@@ -89,12 +188,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // 搜索过滤
-        const normalizedSearchTerm = normalizeSearchText(currentSearchTerm);
-        if (normalizedSearchTerm) {
-            emojisToShow = emojisToShow.filter(emoji => 
-                emoji.searchIndex.includes(normalizedSearchTerm)
-            );
-        }
+        emojisToShow = searchEmojis(emojisToShow, currentSearchTerm);
 
         // 计算分页
         const startIndex = (currentPage - 1) * PAGE_SIZE;
