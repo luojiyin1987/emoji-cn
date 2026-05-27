@@ -1,0 +1,10 @@
+{
+  "name": "emoji-cn",
+  "private": true,
+  "scripts": {
+    "build:pinyin": "node scripts/build_pinyin.js"
+  },
+  "dependencies": {
+    "pinyin-pro": "3.28.1"
+  }
+}
