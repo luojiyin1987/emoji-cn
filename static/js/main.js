@@ -75,6 +75,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let score = 0;
         const { normalized, pinyin: pinyinIndex } = textIndex;
+        const isAsciiQuery = /^[a-z]+$/.test(query);
+        const allowLoosePinyinPrefix = !isAsciiQuery || query.length >= 3;
 
         if (normalized) {
             if (normalized === query) {
@@ -90,16 +92,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (pinyinIndex.compact === query) {
             score = Math.max(score, weight + 95);
-        } else if (pinyinIndex.compact.startsWith(query)) {
+        } else if (allowLoosePinyinPrefix && pinyinIndex.compact.startsWith(query)) {
             score = Math.max(score, weight + 65);
-        } else if (pinyinIndex.compact.includes(query)) {
+        } else if (allowLoosePinyinPrefix && pinyinIndex.compact.includes(query)) {
             score = Math.max(score, weight + 20);
         }
 
         if (query.length >= 2) {
             if (pinyinIndex.initials === query) {
                 score = Math.max(score, weight + 60);
-            } else if (pinyinIndex.initials.startsWith(query)) {
+            } else if (allowLoosePinyinPrefix && pinyinIndex.initials.startsWith(query)) {
                 score = Math.max(score, weight + 30);
             }
         }
@@ -109,7 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 return Math.max(bestScore, weight + (index === 0 ? 55 : 45));
             }
 
-            if (query.length >= 2 && syllable.startsWith(query)) {
+            if (allowLoosePinyinPrefix && query.length >= 2 && syllable.startsWith(query)) {
                 return Math.max(bestScore, weight + (index === 0 ? 40 : 32));
             }
 
