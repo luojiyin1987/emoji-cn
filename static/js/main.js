@@ -15,9 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
     let isLoading = false;
     let hasMoreEmojis = true;
     let searchRequestId = 0;
-    let pinyin = null;
-    let pinyinEnabled = false;
-    let pinyinLoadPromise = null;
     let searchableEmojiData = createSearchableEmojiData();
     let allEmojis = Object.values(searchableEmojiData).flat();
 
@@ -33,75 +30,26 @@ document.addEventListener('DOMContentLoaded', () => {
         );
     }
 
-    function refreshSearchIndex() {
-        searchableEmojiData = createSearchableEmojiData();
-        allEmojis = Object.values(searchableEmojiData).flat();
-    }
-
     function normalizeSearchText(text) {
         return String(text || '').toLowerCase().replace(/\s+/g, '');
     }
 
-    function isLikelyPinyinQuery(text) {
-        return /^[a-z]+$/i.test(text);
-    }
-
-    async function ensurePinyinReady() {
-        if (pinyinEnabled) return;
-
-        if (!pinyinLoadPromise) {
-            pinyinLoadPromise = import('./vendor/tiny-pinyin.js')
-                .then((module) => module.default)
-                .catch((error) => {
-                    pinyinLoadPromise = null;
-                    throw error;
-                });
-        }
-
-        const loadedPinyin = await pinyinLoadPromise;
-        if (!loadedPinyin || !loadedPinyin.isSupported()) return;
-
-        pinyin = loadedPinyin;
-        pinyinEnabled = true;
-        refreshSearchIndex();
-    }
-
-    function buildPinyinIndex(text) {
-        if (!pinyinEnabled || !text) return '';
-
-        const pinyinText = pinyin.convertToPinyin(text, ' ', true).trim();
-        if (!pinyinText) return '';
-
-        const syllables = pinyinText.split(/\s+/).filter(Boolean);
-        const compact = syllables.join('');
-        const initials = syllables
-            .map(part => part[0] || '')
-            .join('');
-
-        return {
-            text: pinyinText,
-            compact,
-            initials,
-            syllables
-        };
-    }
-
-    function buildTextIndex(text) {
+    function buildTextIndex(text, pinyinData) {
         if (!text) return null;
 
         return {
             raw: text,
             normalized: normalizeSearchText(text),
-            pinyin: buildPinyinIndex(text)
+            pinyin: pinyinData || null
         };
     }
 
     function buildSearchData(emoji) {
         return {
             symbol: buildTextIndex(emoji.emoji),
-            keyword: buildTextIndex(emoji.keywords),
-            category: buildTextIndex(emoji.category),
-            subCategory: buildTextIndex(emoji.subCategory)
+            keyword: buildTextIndex(emoji.keywords, emoji.pinyinKeywords),
+            category: buildTextIndex(emoji.category, emoji.pinyinCategory),
+            subCategory: buildTextIndex(emoji.subCategory, emoji.pinyinSubCategory)
         };
     }
 
@@ -328,11 +276,8 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.addEventListener('input', (e) => {
         clearTimeout(searchTimeout);
         const requestId = ++searchRequestId;
-        searchTimeout = setTimeout(async () => {
+        searchTimeout = setTimeout(() => {
             const nextSearchTerm = e.target.value.trim();
-            if (isLikelyPinyinQuery(nextSearchTerm)) {
-                await ensurePinyinReady();
-            }
             if (requestId !== searchRequestId) return;
             currentSearchTerm = nextSearchTerm;
             resetAndDisplay();
