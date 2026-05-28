@@ -37,13 +37,10 @@ emoji-cn/
 │   │   └── style.css       # 样式文件
 │   ├── js/
 │   │   ├── main.js         # 主逻辑
-│   │   ├── emoji-data.js   # 表情数据（自动生成）
-│   │   └── vendor/
-│   │       └── tiny-pinyin.js  # 拼音库
+│   │   └── emoji-data.js   # 表情数据（自动生成）
 │   └── icons/
 │       ├── icon-192x192.png
 │       └── icon-512x512.png
-└── tools/                  # 辅助工具
 ```
 
 ## 快速开始
