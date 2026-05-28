@@ -128,3 +128,15 @@ export function search(items, term) {
         .sort((a, b) => b.score - a.score || a.index - b.index)
         .map(({ item }) => item);
 }
+
+export function indexEmojiData(data) {
+    return Object.fromEntries(
+        Object.entries(data).map(([category, emojis]) => [
+            category,
+            emojis.map(emoji => ({
+                ...emoji,
+                searchData: buildSearchData(emoji)
+            }))
+        ])
+    );
+}

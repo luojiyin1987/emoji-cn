@@ -1,5 +1,5 @@
 import { emojiData } from './emoji-data.js';
-import { buildSearchData, search } from './search.js';
+import { indexEmojiData, search } from './search.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     const emojiContainer = document.getElementById('emoji-container');
@@ -15,20 +15,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let isLoading = false;
     let hasMoreEmojis = true;
     let searchRequestId = 0;
-    let searchableEmojiData = createSearchableEmojiData();
-    let allEmojis = Object.values(searchableEmojiData).flat();
-
-    function createSearchableEmojiData() {
-        return Object.fromEntries(
-            Object.entries(emojiData).map(([category, emojis]) => [
-                category,
-                emojis.map(emoji => ({
-                    ...emoji,
-                    searchData: buildSearchData(emoji)
-                }))
-            ])
-        );
-    }
+    const searchableEmojiData = indexEmojiData(emojiData);
+    const allEmojis = Object.values(searchableEmojiData).flat();
 
     function initializeCategoryButtons() {
         categoryButtons.forEach(button => {
