@@ -43,8 +43,7 @@ emoji-cn/
 │   └── icons/
 │       ├── icon-192x192.png
 │       └── icon-512x512.png
-└── tools/
-    └── translate_emoji_data.py  # 数据翻译工具
+└── tools/                  # 辅助工具
 ```
 
 ## 快速开始

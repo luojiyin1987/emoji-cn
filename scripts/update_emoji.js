@@ -6,16 +6,14 @@ const OUTPUT_FILE = path.join(__dirname, '../static/js/emoji-data.js');
 const UNICODE_URL = 'https://unicode.org/Public/emoji/latest/emoji-test.txt';
 const CLDR_ZH_URL = 'https://raw.githubusercontent.com/unicode-org/cldr/main/common/annotations/zh.xml';
 
-// 存储中文注释数据
 const chineseAnnotations = new Map();
 
-// 英文描述到中文的映射
 const englishToChinese = {
     'smiling face': '笑脸',
     'grinning face': '咧嘴笑脸',
     'face with tears of joy': '笑哭',
     'rolling on the floor laughing': '笑得在地上打滚',
-    'face with hand over mouth': '捂嘴笑脸',
+    'face with hand over mouth': '捂嘴',
     'face savoring food': '馋嘴',
     'winking face': '眨眼',
     'smiling face with smiling eyes': '眯眼笑',
@@ -32,7 +30,6 @@ const englishToChinese = {
     'squinting face with tongue': '眯眼吐舌',
     'money-mouth face': '财迷',
     'smiling face with open hands': '笑脸张开双手',
-    'face with hand over mouth': '捂嘴',
     'thinking face': '思考',
     'zipper-mouth face': '拉链嘴',
     'face with raised eyebrow': '挑眉',
@@ -122,6 +119,205 @@ const englishToChinese = {
     'speak-no-evil monkey': '非礼勿言猴子'
 };
 
+const skinToneMap = {
+    'light skin tone': '浅肤色',
+    'medium-light skin tone': '中浅肤色',
+    'medium skin tone': '中等肤色',
+    'medium-dark skin tone': '中深肤色',
+    'dark skin tone': '深肤色'
+};
+
+const genderMap = {
+    'man': '男性',
+    'woman': '女性',
+    'person': '人',
+    'people': '人们',
+    'baby': '婴儿',
+    'child': '儿童',
+    'boy': '男孩',
+    'girl': '女孩'
+};
+
+const actionMap = {
+    'holding hands': '牵手',
+    'walking': '走路',
+    'running': '跑步',
+    'standing': '站立',
+    'kneeling': '跪着',
+    'sitting': '坐着',
+    'facing right': '向右',
+    'facing left': '向左',
+    'bouncing ball': '拍球',
+    'lifting weights': '举重',
+    'biking': '骑自行车',
+    'surfing': '冲浪',
+    'swimming': '游泳',
+    'dancing': '跳舞',
+    'bowing': '鞠躬',
+    'tipping hand': '伸手',
+    'raising hand': '举手',
+    'pouting': '撅嘴',
+    'frowning': '皱眉',
+    'gesturing': '做手势',
+    'getting massage': '按摩',
+    'getting haircut': '理发',
+    'juggling': '杂耍',
+    'cartwheeling': '侧手翻',
+    'rowing boat': '划船',
+    'in steamy room': '在蒸汽房',
+    'in lotus position': '盘腿而坐'
+};
+
+const roleMap = {
+    'police officer': '警察',
+    'guard': '守卫',
+    'construction worker': '建筑工人',
+    'prince': '王子',
+    'princess': '公主',
+    'fairy': '仙子',
+    'vampire': '吸血鬼',
+    'mermaid': '美人鱼',
+    'merman': '人鱼',
+    'elf': '精灵',
+    'genie': '精灵',
+    'zombie': '僵尸',
+    'superhero': '超级英雄',
+    'supervillain': '超级反派',
+    'health worker': '医护人员',
+    'student': '学生',
+    'teacher': '老师',
+    'judge': '法官',
+    'farmer': '农民',
+    'cook': '厨师',
+    'mechanic': '机械师',
+    'factory worker': '工厂工人',
+    'office worker': '办公室职员',
+    'scientist': '科学家',
+    'technologist': '技术人员',
+    'singer': '歌手',
+    'artist': '艺术家',
+    'pilot': '飞行员',
+    'astronaut': '宇航员',
+    'firefighter': '消防员',
+    'with veil': '戴面纱',
+    'with headscarf': '戴头巾',
+    'with white cane': '拿白手杖',
+    'in motorized wheelchair': '坐电动轮椅',
+    'in manual wheelchair': '坐手动轮椅',
+    'pregnant': '孕'
+};
+
+const subCategoryFallback = {
+    'hand-fingers-open': '张开手指',
+    'hand-fingers-partial': '手指手势',
+    'hand-single-finger': '单指手势',
+    'hand-fingers-closed': '握拳',
+    'hands': '双手手势',
+    'body-parts': '身体部位',
+    'person': '人物',
+    'person-gesture': '人物手势',
+    'person-role': '职业角色',
+    'person-fantasy': '幻想角色',
+    'person-activity': '人物活动',
+    'person-sport': '运动人物',
+    'person-resting': '休息',
+    'family': '家庭'
+};
+
+function hasEnglish(text) {
+    return /[a-zA-Z]/.test(text);
+}
+
+function escapeRegex(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function translateWithWordBoundary(text, map) {
+    let result = text;
+    const entries = Object.entries(map);
+    for (let i = 0; i < entries.length; i++) {
+        const [eng, chn] = entries[i];
+        const regex = new RegExp('\\b' + escapeRegex(eng) + '\\b', 'gi');
+        result = result.replace(regex, chn);
+    }
+    return result;
+}
+
+function cleanupKeywords(text) {
+    return text
+        .split(/\s+/)
+        .filter(function (word) {
+            if (/^E\d+\.\d+$/.test(word)) return false;
+            if (/^[➡👨👩🧑🏻🏼🏽🏾🏿]/.test(word)) return false;
+            return true;
+        })
+        .join(' ');
+}
+
+function translateSkinTone(text) {
+    let result = text;
+    const entries = Object.entries(skinToneMap);
+    for (let i = 0; i < entries.length; i++) {
+        const [eng, chn] = entries[i];
+        result = result.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
+    }
+    return result;
+}
+
+function translateKeywords(englishDesc, subCategory) {
+    let text = cleanupKeywords(englishDesc.toLowerCase().trim());
+
+    text = translateSkinTone(text);
+    text = translateWithWordBoundary(text, genderMap);
+
+    let actEntries = Object.entries(actionMap);
+    for (let i = 0; i < actEntries.length; i++) {
+        const [eng, chn] = actEntries[i];
+        text = text.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
+    }
+
+    let roleEntries = Object.entries(roleMap);
+    for (let i = 0; i < roleEntries.length; i++) {
+        const [eng, chn] = roleEntries[i];
+        text = text.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
+    }
+
+    if (!hasEnglish(text)) return text;
+
+    const fbEntries = Object.entries(subCategoryFallback);
+    for (let i = 0; i < fbEntries.length; i++) {
+        const [key, fallback] = fbEntries[i];
+        if (subCategory && subCategory.indexOf(key) !== -1) {
+            return fallback;
+        }
+    }
+
+    return text;
+}
+
+function getChineseDescription(emoji, englishDescription, subCategory) {
+    const annotation = chineseAnnotations.get(emoji);
+    if (annotation) {
+        const desc = annotation.tts || annotation.keywords.join('、');
+        if (desc) return desc;
+    }
+
+    const normalized = englishDescription.toLowerCase().trim();
+    if (englishToChinese[normalized]) {
+        return englishToChinese[normalized];
+    }
+
+    const entries = Object.entries(englishToChinese);
+    for (let i = 0; i < entries.length; i++) {
+        const [eng, chn] = entries[i];
+        if (normalized.indexOf(eng) !== -1) {
+            return chn;
+        }
+    }
+
+    return translateKeywords(englishDescription, subCategory || '');
+}
+
 async function fetchUnicodeData() {
     try {
         console.log('Fetching Unicode emoji data...');
@@ -139,13 +335,12 @@ async function fetchChineseAnnotations() {
         const response = await axios.get(CLDR_ZH_URL);
         const xml = response.data;
 
-        // 解析XML数据
         const annotationRegex = /<annotation cp="([^"]+)"(?:\s+type="tts")?>(.*?)<\/annotation>/g;
         let match;
 
         while ((match = annotationRegex.exec(xml)) !== null) {
             const [_, emoji, description] = match;
-            
+
             if (!chineseAnnotations.has(emoji)) {
                 chineseAnnotations.set(emoji, {
                     tts: '',
@@ -154,52 +349,17 @@ async function fetchChineseAnnotations() {
             }
 
             const entry = chineseAnnotations.get(emoji);
-            if (match[0].includes('type="tts"')) {
+            if (match[0].indexOf('type="tts"') !== -1) {
                 entry.tts = description;
             } else {
-                entry.keywords = description.split('|').map(k => k.trim());
+                entry.keywords = description.split('|').map(function (k) { return k.trim(); });
             }
         }
 
-        console.log(`Loaded ${chineseAnnotations.size} Chinese annotations`);
+        console.log('Loaded ' + chineseAnnotations.size + ' Chinese annotations');
     } catch (error) {
         console.error('Error fetching Chinese annotations:', error);
     }
-}
-
-function translateDescription(englishDesc) {
-    // 转换为小写并去除多余空格
-    const normalizedDesc = englishDesc.toLowerCase().trim();
-    
-    // 尝试直接匹配
-    if (englishToChinese[normalizedDesc]) {
-        return englishToChinese[normalizedDesc];
-    }
-    
-    // 尝试部分匹配
-    for (const [eng, chn] of Object.entries(englishToChinese)) {
-        if (normalizedDesc.includes(eng)) {
-            return chn;
-        }
-    }
-    
-    return englishDesc;
-}
-
-function getChineseDescription(emoji, englishDescription) {
-    const annotation = chineseAnnotations.get(emoji);
-    const translatedDesc = translateDescription(englishDescription);
-    
-    if (annotation) {
-        const desc = annotation.tts || annotation.keywords.join('、');
-        if (desc) {
-            // 如果 CLDR 中有注释，使用 CLDR 的注释
-            return desc;
-        }
-    }
-    
-    // 如果没有 CLDR 注释，返回翻译后的描述
-    return translatedDesc;
 }
 
 async function processUnicodeData(data) {
@@ -223,20 +383,21 @@ async function processUnicodeData(data) {
     let currentGroup = '';
     let currentSubGroup = '';
 
-    for (const line of lines) {
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i];
         if (!line || line.trim() === '') continue;
 
-        if (line.startsWith('# group:')) {
+        if (line.indexOf('# group:') === 0) {
             currentGroup = line.replace('# group:', '').trim();
             continue;
         }
 
-        if (line.startsWith('# subgroup:')) {
+        if (line.indexOf('# subgroup:') === 0) {
             currentSubGroup = line.replace('# subgroup:', '').trim();
             continue;
         }
 
-        if (line.includes('; fully-qualified')) {
+        if (line.indexOf('; fully-qualified') !== -1) {
             try {
                 const parts = line.split(';');
                 if (parts.length < 2) continue;
@@ -247,22 +408,22 @@ async function processUnicodeData(data) {
                 if (!codePointPart || !descriptionPart) continue;
 
                 const codePoints = codePointPart.split(' ')
-                    .filter(cp => cp.trim() !== '')
-                    .map(cp => parseInt(cp, 16));
+                    .filter(function (cp) { return cp.trim() !== ''; })
+                    .map(function (cp) { return parseInt(cp, 16); });
 
                 if (codePoints.length === 0) continue;
 
-                const emoji = String.fromCodePoint(...codePoints);
+                const emoji = String.fromCodePoint.apply(null, codePoints);
                 const description = descriptionPart.trim();
-                const keywords = getChineseDescription(emoji, description);
-                const category = mapCategory(currentGroup);
                 const subCategory = mapSubCategory(currentSubGroup);
+                const keywords = getChineseDescription(emoji, description, subCategory);
+                const category = mapCategory(currentGroup);
 
                 const emojiEntry = {
-                    emoji,
-                    keywords,
-                    category,
-                    subCategory
+                    emoji: emoji,
+                    keywords: keywords,
+                    category: category,
+                    subCategory: subCategory
                 };
 
                 const categoryKey = getCategoryKey(currentGroup);
@@ -290,7 +451,6 @@ function mapCategory(unicodeCategory) {
         'Objects': '物品',
         'Symbols': '符号'
     };
-
     return categoryMap[unicodeCategory] || unicodeCategory;
 }
 
@@ -312,7 +472,6 @@ function mapSubCategory(subCategory) {
         'monkey-face': '猴脸',
         'emotion': '情感'
     };
-
     return subCategoryMap[subCategory] || subCategory;
 }
 
@@ -327,16 +486,13 @@ function getCategoryKey(unicodeCategory) {
         'Objects': 'objects',
         'Symbols': 'symbols'
     };
-
     return categoryKeyMap[unicodeCategory];
 }
 
 async function updateEmojiData() {
     try {
-        // 首先获取中文注释
         await fetchChineseAnnotations();
 
-        // 然后获取 Unicode 数据
         const unicodeData = await fetchUnicodeData();
         if (!unicodeData) {
             throw new Error('Failed to fetch Unicode data');
@@ -348,15 +504,14 @@ async function updateEmojiData() {
             throw new Error('Failed to process emoji data');
         }
 
-        const fileContent = `// 自动生成的emoji数据 - ${new Date().toISOString()}\nconst emojiData = ${JSON.stringify(processedData, null, 2)};`;
-        
+        const fileContent = '// 自动生成的emoji数据 - ' + new Date().toISOString() + '\nexport const emojiData = ' + JSON.stringify(processedData, null, 2) + ';\n';
+
         fs.writeFileSync(OUTPUT_FILE, fileContent, 'utf8');
         console.log('Emoji data has been updated successfully!');
-        
+
     } catch (error) {
         console.error('Error updating emoji data:', error);
     }
 }
 
-// 执行更新
 updateEmojiData().catch(console.error);
