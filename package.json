@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "build:pinyin": "node scripts/build_pinyin.js",
-    "test": "node --test scripts/build_pinyin.test.js"
+    "test": "node --test scripts/build_pinyin.test.js static/js/search.test.js"
   },
   "dependencies": {
     "axios": "^1.16.1",
