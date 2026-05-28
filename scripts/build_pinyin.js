@@ -91,4 +91,8 @@ function main() {
   }
 }
 
-main();
+module.exports = { buildPinyinIndex, toPinyinTokens, extractSyllables, normalizeSyllable };
+
+if (require.main === module) {
+  main();
+}
