@@ -234,10 +234,8 @@ function escapeRegex(str) {
 
 function translateWithWordBoundary(text, map) {
     let result = text;
-    const entries = Object.entries(map);
-    for (let i = 0; i < entries.length; i++) {
-        const [eng, chn] = entries[i];
-        const regex = new RegExp('\\b' + escapeRegex(eng) + '\\b', 'gi');
+    for (const [eng, chn] of Object.entries(map)) {
+        const regex = new RegExp(`\\b${escapeRegex(eng)}\\b`, 'gi');
         result = result.replace(regex, chn);
     }
     return result;
@@ -246,7 +244,7 @@ function translateWithWordBoundary(text, map) {
 function cleanupKeywords(text) {
     return text
         .split(/\s+/)
-        .filter(function (word) {
+        .filter((word) => {
             if (/^E\d+\.\d+$/.test(word)) return false;
             if (/^[➡👨👩🧑🏻🏼🏽🏾🏿]/.test(word)) return false;
             return true;
@@ -256,9 +254,7 @@ function cleanupKeywords(text) {
 
 function translateSkinTone(text) {
     let result = text;
-    const entries = Object.entries(skinToneMap);
-    for (let i = 0; i < entries.length; i++) {
-        const [eng, chn] = entries[i];
+    for (const [eng, chn] of Object.entries(skinToneMap)) {
         result = result.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
     }
     return result;
@@ -270,24 +266,18 @@ function translateKeywords(englishDesc, subCategory) {
     text = translateSkinTone(text);
     text = translateWithWordBoundary(text, genderMap);
 
-    let actEntries = Object.entries(actionMap);
-    for (let i = 0; i < actEntries.length; i++) {
-        const [eng, chn] = actEntries[i];
+    for (const [eng, chn] of Object.entries(actionMap)) {
         text = text.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
     }
 
-    let roleEntries = Object.entries(roleMap);
-    for (let i = 0; i < roleEntries.length; i++) {
-        const [eng, chn] = roleEntries[i];
+    for (const [eng, chn] of Object.entries(roleMap)) {
         text = text.replace(new RegExp(escapeRegex(eng), 'gi'), chn);
     }
 
     if (!hasEnglish(text)) return text;
 
-    const fbEntries = Object.entries(subCategoryFallback);
-    for (let i = 0; i < fbEntries.length; i++) {
-        const [key, fallback] = fbEntries[i];
-        if (subCategory && subCategory.indexOf(key) !== -1) {
+    for (const [key, fallback] of Object.entries(subCategoryFallback)) {
+        if (subCategory && subCategory.includes(key)) {
             return fallback;
         }
     }
@@ -307,10 +297,8 @@ function getChineseDescription(emoji, englishDescription, subCategory) {
         return englishToChinese[normalized];
     }
 
-    const entries = Object.entries(englishToChinese);
-    for (let i = 0; i < entries.length; i++) {
-        const [eng, chn] = entries[i];
-        if (normalized.indexOf(eng) !== -1) {
+    for (const [eng, chn] of Object.entries(englishToChinese)) {
+        if (normalized.includes(eng)) {
             return chn;
         }
     }
@@ -349,14 +337,14 @@ async function fetchChineseAnnotations() {
             }
 
             const entry = chineseAnnotations.get(emoji);
-            if (match[0].indexOf('type="tts"') !== -1) {
+            if (match[0].includes('type="tts"')) {
                 entry.tts = description;
             } else {
-                entry.keywords = description.split('|').map(function (k) { return k.trim(); });
+                entry.keywords = description.split('|').map((k) => k.trim());
             }
         }
 
-        console.log('Loaded ' + chineseAnnotations.size + ' Chinese annotations');
+        console.log(`Loaded ${chineseAnnotations.size} Chinese annotations`);
     } catch (error) {
         console.error('Error fetching Chinese annotations:', error);
     }
@@ -387,17 +375,17 @@ async function processUnicodeData(data) {
         const line = lines[i];
         if (!line || line.trim() === '') continue;
 
-        if (line.indexOf('# group:') === 0) {
+        if (line.startsWith('# group:')) {
             currentGroup = line.replace('# group:', '').trim();
             continue;
         }
 
-        if (line.indexOf('# subgroup:') === 0) {
+        if (line.startsWith('# subgroup:')) {
             currentSubGroup = line.replace('# subgroup:', '').trim();
             continue;
         }
 
-        if (line.indexOf('; fully-qualified') !== -1) {
+        if (line.includes('; fully-qualified')) {
             try {
                 const parts = line.split(';');
                 if (parts.length < 2) continue;
@@ -408,12 +396,12 @@ async function processUnicodeData(data) {
                 if (!codePointPart || !descriptionPart) continue;
 
                 const codePoints = codePointPart.split(' ')
-                    .filter(function (cp) { return cp.trim() !== ''; })
-                    .map(function (cp) { return parseInt(cp, 16); });
+                    .filter((cp) => cp.trim() !== '')
+                    .map((cp) => parseInt(cp, 16));
 
                 if (codePoints.length === 0) continue;
 
-                const emoji = String.fromCodePoint.apply(null, codePoints);
+                const emoji = String.fromCodePoint(...codePoints);
                 const description = descriptionPart.trim();
                 const subCategory = mapSubCategory(currentSubGroup);
                 const keywords = getChineseDescription(emoji, description, subCategory);
@@ -504,7 +492,7 @@ async function updateEmojiData() {
             throw new Error('Failed to process emoji data');
         }
 
-        const fileContent = '// 自动生成的emoji数据 - ' + new Date().toISOString() + '\nexport const emojiData = ' + JSON.stringify(processedData, null, 2) + ';\n';
+        const fileContent = `// 自动生成的emoji数据 - ${new Date().toISOString()}\nexport const emojiData = ${JSON.stringify(processedData, null, 2)};\n`;
 
         fs.writeFileSync(OUTPUT_FILE, fileContent, 'utf8');
         console.log('Emoji data has been updated successfully!');
