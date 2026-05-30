@@ -1,4 +1,4 @@
-const CACHE_NAME = 'emoji-cn-v5'; // 更新缓存版本
+const CACHE_NAME = 'emoji-cn-v6'; // 更新缓存版本
 const STATIC_CACHE_URLS = [
   './',
   './index.html',
