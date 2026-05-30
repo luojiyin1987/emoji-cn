@@ -109,15 +109,15 @@ describe('score — regression baseline', () => {
     });
 
     it('Pinyin initials exact match', () => {
-        assert.strictEqual(score(a.searchData, 'hh'), 380);
+        assert.strictEqual(score(a.searchData, 'hh'), 365);
     });
 
     it('Pinyin initials startsWith is gated for short ASCII (< 3 chars)', () => {
         assert.strictEqual(score(a.searchData, 'h'), 0);
     });
 
-    it('Pinyin syllable prefix is gated for short ASCII', () => {
-        assert.strictEqual(score(a.searchData, 'he'), 0);
+    it('Pinyin syllable prefix with graduated bonus for 2-char query', () => {
+        assert.strictEqual(score(a.searchData, 'he'), 353);
     });
 
     it('Pinyin syllable exact match (first)', () => {
@@ -197,7 +197,7 @@ describe('search — ordering and filter', () => {
     });
 
     it('stable sort: ties preserve original order', () => {
-        // query "hh" matches emojiA and emojiB initials, both score=380
+        // query "hh" matches emojiA and emojiB initials, both score=365
         const r = search(items, 'hh');
         assert.strictEqual(r.length, 2);
         assert.strictEqual(r[0].emoji, '😀'); // emojiA before emojiB

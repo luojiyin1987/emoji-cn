@@ -12,8 +12,8 @@ const SCORE_BONUS = {
     pinyinExact: 95,
     pinyinStartsWith: 65,
     pinyinContains: 20,
-    initialsExact: 60,
-    initialsStartsWith: 30,
+    initialsExact: 45,
+    initialsStartsWith: 25,
     syllableExactFirst: 55,
     syllableExactOther: 45,
     syllablePrefixFirst: 40,
@@ -46,13 +46,26 @@ export function buildSearchData(emoji) {
     };
 }
 
+function prefixMultiplier(query) {
+    if (!/^[a-z]+$/.test(query)) return 1;
+    if (query.length >= 3) return 1;
+    if (query.length === 2) return 0.5;
+    return 0;
+}
+
+function containsMultiplier(query) {
+    if (!/^[a-z]+$/.test(query)) return 1;
+    if (query.length >= 3) return 1;
+    return 0;
+}
+
 function scoreField(query, textIndex, weight) {
     if (!query || !textIndex) return 0;
 
     let max = 0;
     const { normalized, pinyin: pinyinIndex } = textIndex;
-    const isAsciiQuery = /^[a-z]+$/.test(query);
-    const allowLoosePinyinPrefix = !isAsciiQuery || query.length >= 3;
+    const pfxMult = prefixMultiplier(query);
+    const ctnMult = containsMultiplier(query);
 
     if (normalized) {
         if (normalized === query) {
@@ -68,17 +81,17 @@ function scoreField(query, textIndex, weight) {
 
     if (pinyinIndex.compact === query) {
         max = Math.max(max, weight + SCORE_BONUS.pinyinExact);
-    } else if (allowLoosePinyinPrefix && pinyinIndex.compact.startsWith(query)) {
-        max = Math.max(max, weight + SCORE_BONUS.pinyinStartsWith);
-    } else if (allowLoosePinyinPrefix && pinyinIndex.compact.includes(query)) {
-        max = Math.max(max, weight + SCORE_BONUS.pinyinContains);
+    } else if (pfxMult > 0 && pinyinIndex.compact.startsWith(query)) {
+        max = Math.max(max, weight + Math.round(SCORE_BONUS.pinyinStartsWith * pfxMult));
+    } else if (ctnMult > 0 && pinyinIndex.compact.includes(query)) {
+        max = Math.max(max, weight + Math.round(SCORE_BONUS.pinyinContains * ctnMult));
     }
 
     if (query.length >= 2) {
         if (pinyinIndex.initials === query) {
             max = Math.max(max, weight + SCORE_BONUS.initialsExact);
-        } else if (allowLoosePinyinPrefix && pinyinIndex.initials.startsWith(query)) {
-            max = Math.max(max, weight + SCORE_BONUS.initialsStartsWith);
+        } else if (pfxMult > 0 && pinyinIndex.initials.startsWith(query)) {
+            max = Math.max(max, weight + Math.round(SCORE_BONUS.initialsStartsWith * pfxMult));
         }
     }
 
@@ -89,10 +102,10 @@ function scoreField(query, textIndex, weight) {
                 : SCORE_BONUS.syllableExactOther));
         }
 
-        if (allowLoosePinyinPrefix && query.length >= 2 && syllable.startsWith(query)) {
-            return Math.max(best, weight + (index === 0
+        if (pfxMult > 0 && query.length >= 2 && syllable.startsWith(query)) {
+            return Math.max(best, weight + Math.round((index === 0
                 ? SCORE_BONUS.syllablePrefixFirst
-                : SCORE_BONUS.syllablePrefixOther));
+                : SCORE_BONUS.syllablePrefixOther) * pfxMult));
         }
 
         return best;
